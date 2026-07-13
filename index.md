@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-07-14 | Total pages: 125 (24 entities, 39 concepts, 0 comparisons, 0 queries, 64 summaries) + 80 raw files (25 papers, 32 articles)
+> Last updated: 2026-07-14 | Total pages: 126 (24 entities, 39 concepts, 0 comparisons, 0 queries, 65 summaries) + 81 raw files (25 papers, 33 articles)
 
 ## Entities
 
@@ -151,6 +151,7 @@
 
 - [[fintechfutures-agentic-commerce-2026-expert-roundup]] — FinTech Futures expert roundup: five leaders (AWS, Microsoft, Google, First Digital, Mastercard) survey agentic commerce in 2026; covers definitions, open protocols (UCP, AP2, ACP), current deployments (Visa VIC, Copilot Checkout, Visa Agentic Ready, Mastercard Agent Pay), scaling challenges (fragmentation, trust, regulatory patchwork, KYA), and 5–10 year outlook (supervisor agent teams, intent-based purchasing); consumer harm: protocol fragmentation → invisible spending, AEO/LEO gatekeeping, liability gaps, trust deficit (10% US)
 - [[nshift-ai-shopping-agentic-inversion-2026]] — nShift CPO Johan Hellman on the "agentic inversion": discovery moved to agents, transaction stayed with merchants; introduces agent-legibility test (discovery + quote layers), orchestration gap, and consumer harm from upstream silent exclusion of illegible brands; Adobe data (393% AI traffic growth, 42% better conversion, 66% avg AI visibility)
+- [[globalgovernmentfinance-agentic-regulator-hackathon-2026]] — C>DIR hackathon ($100K prize) for agentic AI prototypes for regulators; six challenge fields covering agentic payments/commerce oversight, AI-driven fraud, KYA/digital verification, market manipulation; backed by BIS Innovation Hub, GFIN, DRCF, Innovate Finance; winners present at Singapore FinTech Festival; represents move from "shared challenge" to "shared build" in regulatory AI; synthetic datasets from NayaOne
 
 - [[the-agentic-web-requires-new-normative-infrastructure]] — arXiv paper arguing the agentic web is technically feasible but obstructed by outdated laws/ToS allowing platforms to block/degrade agent access; proposes normative triad (delegation, transparency, proportional restriction); raises liability gaps and consumer autonomy implications
 

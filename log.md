@@ -209,3 +209,15 @@
 **- Files created:** 1 raw article + 1 summary page
 **- Index updated:** Added nshift-ai-shopping-agentic-inversion-2026 to Summaries section
 **- Total pages after ingest:** 125 (24 entities, 39 concepts, 0 comparisons, 0 queries, 64 summaries) + 80 raw files (25 papers, 32 articles)
+
+## [2026-07-14] ingest | Global Government Finance "Global Agentic Regulator Hackathon"
+
+**- Source:** https://www.globalgovernmentfinance.com/global-agentic-regulator-hackathon-launches-ai-enabled-regulation/ (web extract)
+**- Publisher:** Global Government Finance
+**- Date:** 10 July 2026
+**- URL:** https://www.globalgovernmentfinance.com/global-agentic-regulator-hackathon-launches-ai-enabled-regulation/
+**- Core contribution:** C>DIR (Cambridge Digital Innovation and Regulation Initiative) launches the Agentic Regulator Global Hackathon with $100,000 prize pool to build 'practical, explainable and deployable' agentic AI prototypes for regulators. Six challenge fields: (1) agentic financial advice and high-stakes AI advisory; (2) agentic payments, commerce and their oversight; (3) decentralised market infrastructure, smart contracts and AI agents; (4) AI-driven fraud and scams; (5) know-your-agent, digital verification and digital public infrastructure; (6) market manipulation, agentic herding and stability. Backed by BIS Innovation Hub, GFIN, DRCF, Innovate Finance, Google, SWIFT, Ethereum Foundation, and 35+ organisations. Concept notes deadline 31 July; synthetic datasets from NayaOne; winners announced 18 September Cambridge, present at Singapore FinTech Festival November.
+**- Consumer harm relevance:** Direct regulatory tooling for the harm vectors this wiki tracks. Challenge field (2) maps to agentic commerce oversight — consumer protection in agent-mediated purchasing. Field (5) directly addresses KYA identity/reputation problems central to the wiki's [[dissociative-agent-identity]] and [[agent-bazaar]] concepts. Field (6) covers market manipulation and agentic herding — correlated behaviour risk in [[systemic-fragility-in-ai-economies]]. DRCF backing signals UK cross-regulator coordination interest. NayaOne synthetic datasets from UK-headquartered company provides domestic data source for prototype development.
+**- Files created:** 1 raw article + 1 summary page
+**- Index updated:** Added globalgovernmentfinance-agentic-regulator-hackathon-2026 to Summaries section
+**- Total pages after ingest:** 126 (24 entities, 39 concepts, 0 comparisons, 0 queries, 65 summaries) + 81 raw files (25 papers, 33 articles)
