@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-07-14 | Total pages: 124 (24 entities, 39 concepts, 0 comparisons, 0 queries, 63 summaries) + 79 raw files (25 papers, 31 articles)
+> Last updated: 2026-07-14 | Total pages: 125 (24 entities, 39 concepts, 0 comparisons, 0 queries, 64 summaries) + 80 raw files (25 papers, 32 articles)
 
 ## Entities
 
@@ -150,6 +150,7 @@
 - [[kpmg-bringing-customers-with-you-2026]] — KPMG UK framework for customer-facing readiness in agentic banking: seven practical moves (stickering, signposting, right to human, right to appeal, agent activity digest, pre-commitment ground rules, frontline upskilling) that make AI-driven outcomes comprehensible, contestable, and reversible
 
 - [[fintechfutures-agentic-commerce-2026-expert-roundup]] — FinTech Futures expert roundup: five leaders (AWS, Microsoft, Google, First Digital, Mastercard) survey agentic commerce in 2026; covers definitions, open protocols (UCP, AP2, ACP), current deployments (Visa VIC, Copilot Checkout, Visa Agentic Ready, Mastercard Agent Pay), scaling challenges (fragmentation, trust, regulatory patchwork, KYA), and 5–10 year outlook (supervisor agent teams, intent-based purchasing); consumer harm: protocol fragmentation → invisible spending, AEO/LEO gatekeeping, liability gaps, trust deficit (10% US)
+- [[nshift-ai-shopping-agentic-inversion-2026]] — nShift CPO Johan Hellman on the "agentic inversion": discovery moved to agents, transaction stayed with merchants; introduces agent-legibility test (discovery + quote layers), orchestration gap, and consumer harm from upstream silent exclusion of illegible brands; Adobe data (393% AI traffic growth, 42% better conversion, 66% avg AI visibility)
 
 - [[the-agentic-web-requires-new-normative-infrastructure]] — arXiv paper arguing the agentic web is technically feasible but obstructed by outdated laws/ToS allowing platforms to block/degrade agent access; proposes normative triad (delegation, transparency, proportional restriction); raises liability gaps and consumer autonomy implications
 

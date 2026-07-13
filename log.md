@@ -196,3 +196,16 @@
 **- Files created:** 1 raw article + 1 summary page
 **- Index updated:** Added fintechfutures-agentic-commerce-2026-expert-roundup to Summaries section
 **- Total pages after ingest:** 124 (24 entities, 39 concepts, 0 comparisons, 0 queries, 63 summaries) + 79 raw files (25 papers, 31 articles)
+
+## [2026-07-14] ingest | Nshift "AI Shopping Agentic Inversion 2026"
+
+**- Source:** https://nshift.com/blog/ai-shopping-agentic-inversion-2026 (web extract)
+**- Publisher:** nShift Blog
+**- Author:** Johan Hellman, CPO
+**- Date:** 2026
+**- URL:** https://nshift.com/blog/ai-shopping-agentic-inversion-2026
+**- Core contribution:** Introduces "the agentic inversion" — AI shopping has inverted the traditional funnel: discovery moved to agents, but the transaction (and the delivery promise) stayed with merchants. Proposes a two-layer agent-legibility test (discovery layer + quote layer) that most retailers have never run. Identifies "the orchestration gap" between legibility, execution, and returns feedback. Documents Adobe data: +393% AI traffic growth (Q1 2026), 42% better conversion vs non-AI, 66% avg retail AI visibility. Notes OpenAI deprecated Instant Checkout (<30 merchants) in March 2026. Cross-border data: Temu ~25% of recent cross-border purchases, 61% of cross-border shoppers say clear delivery-charge info is essential, EU €3 customs duty on goods under €150 live from July 2026.
+**- Consumer harm relevance:** Upstream silent exclusion (illegible brands excluded from recommendations with no analytics event to diagnose) is a novel dark pattern. Incomplete offer comparison (returns terms not exposed as structured data) creates unfair ranking. Landed cost surprise (hidden duties/charges) affects cross-border consumers. Promise fragility — missed promises compound in agent-mediated markets. Multiple UK regulatory connections: CMA fair comparison mandate, DRCF monitoring, post-Brexit cross-border context, IPC survey data (37 countries, ~31,000 consumers) applicable to UK.
+**- Files created:** 1 raw article + 1 summary page
+**- Index updated:** Added nshift-ai-shopping-agentic-inversion-2026 to Summaries section
+**- Total pages after ingest:** 125 (24 entities, 39 concepts, 0 comparisons, 0 queries, 64 summaries) + 80 raw files (25 papers, 32 articles)
