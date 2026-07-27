@@ -1,0 +1,36 @@
+---
+title: "Dark Patterns and Choice Architecture"
+created: 2026-07-27
+updated: 2026-07-27
+type: concept
+tags: [dark-patterns, choice-architecture, nudge-theory, consumer-harm, hci, regulatory-policy]
+confidence: HIGH
+---
+
+# Dark Patterns and Choice Architecture
+
+**Also known as:** Manipulative design, deceptive choice architecture, nudges vs dark patterns
+
+## Overview
+
+Choice architecture refers to the design of how options are presented to decision-makers. Dark patterns are choice architectures specifically designed to manipulate users into decisions that benefit the service provider rather than the user. The DMCC Act 2024 and EU DSA Article 25 both address this domain.
+
+## AI-Mediated Dark Patterns (2026 Empirical Evidence)
+
+Two recent papers provide the first empirical evidence that dark patterns are effective against AI agents, not just humans:
+
+- **IEEE S&P 2026** (2510.18113) — 41% average susceptibility of LLM web agents to dark patterns; higher-performing agents MORE vulnerable (Skyvern 72.3%, BrowserUse 69.3%); Obstruction and Social Engineering most effective (52.2%, 47.9%)
+- **SIGCHI 2026** (2509.10723) — Adaptive LLM agents continue through dark patterns until task completion impossible; end-to-end agents show more caution
+
+## Regulatory Implications
+
+These findings extend the domain of dark pattern victimhood from humans to agents, with implications for choice architecture regulation under the DMCC Act:
+
+1. **Agent-targeted dark patterns** are invisible to consumers and operate at scale
+2. **Best agents are most vulnerable** — consumers who adopt the best agents face the greatest risk
+3. **Architectural trade-offs** exist between agent competence and susceptibility
+4. **Regulatory frameworks** designed for human-targeted patterns may need revision for agent-mediated contexts
+
+## Cross-References
+
+[[dark-pattern]], [[ai-shopping-agents]], [[agent-dark-pattern-susceptibility]], [[the-dmcca]], [[cma-ai-and-consumer-markets-2026]], [[dark-patterns-llm-web-agents-sp2026]], [[dark-patterns-gui-agents-2026]]

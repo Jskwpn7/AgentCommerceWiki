@@ -105,4 +105,13 @@ The expected Q3 2026 enforcement actions or consultations are a key monitoring p
 - Q3 2026: Follow-up on discussion paper — enforcement actions or formal consultation
 - DRCF joint enforcement guidance (ongoing, following March foresight paper)
 - FCA AI consumer protection guidance (expected end of 2026)
+
+## Recent Research Adding to the Discussion
+
+- **GT Law analysis (2026-07-07)** — "AI and Consumer Markets: UK Competition and Consumer Law Implications" identifies four specific competition law risk categories for AI agents in consumer markets: (1) algorithmic collusion via multi-agent systems, (2) abuse of dominance via agent preference, (3) consumer steering/exploitative design, (4) market structural investigation triggers. Cross-references FCA, ICO, Ofcom indicating coordinated regulatory escalation. See [[summaries/gt-law-ai-consumer-markets-2026]].
+
+- **Nudge sensitivity amplifies CMA gatekeeping concerns** — [[agent-nudge-sensitivity]] shows AI agents are hypersensitive to choice architecture (99–100% default compliance vs 88% for humans), meaning platform-layer gatekeeping identified in this discussion paper has amplified consumer harm effects when consumers use AI agents.
+- **Complexity economics lens** — [[beyond-nudges-antitrust-schrepel-2026]] argues that the competitive dynamics created by AI agents interacting with platform choice architecture require a complexity economics framework beyond traditional antitrust, directly relevant to the CMA's gatekeeping concerns.
+- **Agentic commerce authenticity crisis** — [[x402-agentic-commerce-audit-ling-2026]] finds 84.98% of x402 settlements are operator-internal, suggesting the "agentic commerce" growth narrative cited as evidence of market maturity may be significantly fabricated.
+- **Platform governance over autonomy bans** — Kydyrbayeva et al. (2026) show that platform transparency and oversight matter more than restricting agent autonomy for preventing collusion, supporting a market-governance approach over autonomy restrictions.
 - Treasury Committee AI oversight (ongoing)

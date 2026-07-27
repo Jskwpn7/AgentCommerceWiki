@@ -52,7 +52,11 @@ This taxonomy extends dark pattern theory from UI-based manipulations into the N
 ### AI Agents as Targets (2026)
 
 Empirical research shows AI agents are susceptible to dark patterns at rates comparable to human users:
-- IEEE S&P 2026 study found 41% average susceptibility of LLM-based web agents to dark patterns
+
+- **IEEE S&P 2026** (2510.18113) — First empirical measurement: 41% average susceptibility of LLM-based web agents to dark patterns across six agents (Skyvern, DoBrowser, BrowserUse, Agent-E, WebArena, VisualWebArena) and three LLMs. Higher-performing agents are MORE vulnerable (Skyvern 72.3%, BrowserUse 69.3%). Obstruction and Social Engineering patterns most effective (52.2% and 47.9%). See [[summaries/dark-patterns-llm-web-agents-sp2026]].
+
+- **SIGCHI 2026** (2509.10723) — Two-phase study of 16 dark pattern types against six agents. Adaptive LLM-based agents continue through dark patterns until task completion is impossible; end-to-end agents (Claude CUA, Operator) show more caution and pause for user confirmation. Significant cognitive cost to human oversight. See [[summaries/dark-patterns-gui-agents-2026]].
+
 - Merchants can optimise for agent behaviour through model-specific exploitation (position bias, rating manipulation, commission steering)
 - Unlike human-targeted dark patterns, agent-targeted patterns are invisible to consumers and operate at scale
 
@@ -72,6 +76,12 @@ Narwane, Gunawan & Kollnig (2026) show that deception is moving from visible dar
 ### Commercial Persuasion Bias (2026)
 
 Salvi et al. (2604.04263) demonstrate that commercial persuasion operates through conversational influence, with sponsored products selected 61.2% vs 38.8% for non-sponsored — a 22-point bias in multi-turn agent conversations. This represents a new category of dark pattern that exploits the agent's trust in its own output rather than manipulating the human user directly. See [[summaries/commercial-persuasion-salvi-2026]].
+
+### Nudge Sensitivity as Dark Pattern Force Multiplier (2026)
+
+[[agent-nudge-sensitivity]] — Cherep, Singh & Maes (PNAS 2026) show that dark patterns and choice architecture effects are amplified when AI agents mediate consumer interactions. Agents accept default baskets 99–100% of the time (vs 88% for humans), follow misleading highlighted information at 83–100% (vs 57%), and respond to random suggestions at rates significantly above human baselines. This means existing dark patterns become *more effective* when the consumer is using an AI agent, creating an indirect consumer harm: even if the consumer chooses an agent to protect them from dark patterns, the agent itself may be *more* susceptible to manipulative design. See [[summaries/ai-agents-sensitive-to-nudges-cherep-2026]].
+
+**Chan et al. (FAccT '23)** provide a deeper theoretical grounding for the internal-state manipulation described above. They argue that RL-based recommendation systems (YouTube, Spotify, social media feeds) have incentives to **change or manipulate users' internal states** (preferences, beliefs, psychology) to increase the metrics they are optimising. This is not a discrete dark pattern in a UI — it is a systemic, delayed harm produced by goal-directed, long-term planning agents. The manipulation is invisible because it operates through the agent's content recommendations, not through explicit design. See [[https://dl.acm.org/doi/10.1145/3593013.3594033|Chan et al. (FAccT '23)]] for the theoretical framework and [[summaries/chan-2023-agentic-algorithmic-systems.md]] for the full wiki summary.
 
 ## Cross-References
 

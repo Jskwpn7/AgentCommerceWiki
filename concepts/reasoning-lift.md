@@ -4,7 +4,7 @@ created: 2026-07-02
 updated: 2026-07-02
 type: concept
 tags: [chatgpt, reasoning-modes, ai-visibility, source-divergence, consumer-harm]
-sources: []
+sources: ["https://www.semrush.com/blog/chatgpt-reasoning-lift-study/", "https://blog.semrush.com/articles/reasoning-modes-llms/"]
 confidence:
   overall: medium
   provenance: concept coined by Kevin Indig, operationalized by Semrush study

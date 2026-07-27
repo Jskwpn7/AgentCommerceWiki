@@ -1,3 +1,14 @@
+---
+title: "OmniThink: Expanding Knowledge Boundaries in Machine Writing through Thinking"
+created: 2026-07-24
+updated: 2026-07-24
+type: concept
+tags: [machine-writing, rag, slow-thinking, long-form-generation, knowledge-structure, epistemic-reliability]
+sources: ["https://arxiv.org/abs/2501.09751"]
+confidence: high
+provenance: "Discovered via Weekly Research Review"
+---
+
 # OmniThink — Expanding Knowledge Boundaries in Machine Writing through Thinking
 
 **Category:** Machine writing / Retrieval-augmented generation / Long-form generation

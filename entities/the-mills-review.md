@@ -129,8 +129,9 @@ Recommendation: HM Treasury should conduct a review of the regulatory perimeter,
 | Financial exclusion | Unequal access to high-quality AI tools widens inclusion gaps |
 | Correlated systemic risk | Shared models and infrastructure creating common failure points |
 | Regulatory perimeter gaps | General-purpose AI shaping decisions without oversight |
-| Amplified fraud | AI enables faster, more scalable, more persuasive attacks |
-| Commercial persuasion bias | 61.2% sponsored product selection in multi-turn conversations (Salvi et al., 2604.04263) |
+| **Nudge amplification in agent-mediated finance** | [[agent-nudge-sensitivity]] shows AI agents accept default financial products at 99–100% rates (vs 88% for humans), meaning consumers delegating financial decisions to AI agents face amplified exposure to sub-optimal default offerings from providers |
+| **Amplified fraud** | AI enables faster, more scalable, more persuasive attacks |
+| **Commercial persuasion bias** | 61.2% sponsored product selection in multi-turn conversations (Salvi et al., 2604.04263) |
 | Relational manipulation | AI agents can assist users in deception, isolation, and manipulation of others (Tan et al., 2606.03271) |
 | Agent deception | Premeditated lying and deception by AI agents documented (see [[summaries/when-agents-lie-2607.05132]]) |
 | Dissociative identity | LM agents lack grounding for reputation mechanisms, undermining trust (see [[summaries/dissociative-identity-hu-2026]]) |

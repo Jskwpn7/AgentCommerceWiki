@@ -93,3 +93,4 @@ Regulatory failure is a primary driver of [[systemic-fragility-in-ai-economies]]
 - [[regulatory-failure]] — temporal gaps between AI deployment and regulatory response
 - [[consumer-rights]] — consumer rights provisions designed for human-to-human transactions, not AI-mediated ones
 - [[bias-detection-data-collection]] — detection gaps in bias monitoring
+- [[cerre-agentic-ai-and-consumer-protection-2026]] — Comprehensive analysis of why EU consumer law is human-centric by design: GUI-based provisions, mandatory disclosures, and consent requirements face systematic agent-readiness gaps; provides structured framework for identifying which rules will endure and which will need redesign in the agentic economy

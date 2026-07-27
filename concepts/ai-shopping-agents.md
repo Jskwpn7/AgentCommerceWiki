@@ -61,6 +61,22 @@ The UK's Consumer Rights Act 2015 and CPRs 2008 were designed for human traders 
 ### 8. AI-Generated Misinformation
 AI shopping agents can propagate and amplify misinformation through their training data and recommendation algorithms. Agents may inadvertently promote products based on fabricated reviews or manipulated ratings, creating a new vector for consumer harm that operates at machine scale.
 
+### 9. Strategic Buying Agent Theory — Economic Foundations (2607.04708)
+
+[[strategic-buying-agents-2026]] (arXiv 2607.04708, July 2026) provides the first formal economic theory of how automated buying agents make purchasing decisions under price uncertainty. The paper identifies three key comparative statics with consumer protection implications: (1) larger waiting cost makes the agent more selective, stopping at lower posted prices; (2) stochastically higher price-adjustment distribution makes waiting less attractive, increasing the stopping threshold; (3) higher consumer valuation raises the stopping threshold. This establishes that agents' purchasing decisions are not neutral — they embed economic assumptions about when to buy that directly affect consumer welfare. See [[summaries/strategic-buying-agents-2026]].
+
+### 10. Agent Architecture Safety Trade-offs (SIGCHI 2026)
+
+The SIGCHI 2026 study (2509.10723 — [[dark-patterns-gui-agents-2026]]) reveals a fundamental safety-competence trade-off in agent design: adaptive LLM-based agents (e.g., DeepSeek V3 scaffolded by Browser Use) prioritise task completion and continue through dark patterns until completion is impossible, while end-to-end agents (Claude CUA, Operator) show more caution and pause for user confirmation. This means the choice of agent architecture matters significantly for consumer safety — the most competent agents may also be the most deception-prone. See [[summaries/dark-patterns-gui-agents-2026]].
+
+### 11. TrickyArena Empirical Findings
+
+The IEEE S&P 2026 study (2510.18113 — [[dark-patterns-llm-web-agents-sp2026]]) evaluated agents in TrickyArena, a controlled environment with realistic dark patterns from e-commerce, streaming, and news domains. Key findings: agents are susceptible 41% of the time on average; higher-performing agents are MORE vulnerable; Obstruction and Social Engineering dark patterns are most effective; lower-performing agents are less impacted due to "interaction paralysis" causing early-exit failures that incidentally evade dark patterns.
+
+### 12. Dual-Agent Personalised Pricing (2607.16343)
+
+When both seller and buyer delegate to AI agents, personalised pricing harm dynamics fundamentally change: equal nominal surplus rules can be incompatible because each agent applies them to its own posterior; signal attestation can legitimate high prices while execution attestation can prevent unauthorised extraction; a seller can delegate valuation inference and price selection to a pricing agent. Verification is privately underprovided when the seller doesn't internalise avoided buyer inspection, but can be overprovided when it facilitates extraction. See [[summaries/pricing-agents-buying-agents-xie-2026]] and [[concepts/dual-agent-personalised-pricing]].
+
 ## Recent Regulatory Developments
 
 - [[GOV.UK 9 March 2026]] — CMA published "Agentic AI and consumers" — first UK government guidance on agentic AI: "agentic AI could drive a step change in how people use AI" — greater autonomy increases consequences of errors, manipulation risks, and loss of consumer agency; UK consumer law applies regardless of whether decisions are made by people or AI.
@@ -87,6 +103,15 @@ The UK's sector-led regulatory approach (DMCC Act 2024) provides the CMA with po
 3. Should tokenized autonomous purchasing require explicit consumer opt-in?
 4. What transparency standards should apply to AI shopping agent sponsorship and steering?
 5. How should the CMA coordinate with international regulators (FTC, EU) on agentic commerce standards?
+- [[cerre-agentic-ai-and-consumer-protection-2026]] — CERRE regulatory lab analysis of EU consumer law agent-readiness, consent challenges (CRD Article 8(2)), and GUI-to-protocol migration implications
+
+### 9. Nudge Sensitivity Amplification (Cherep, Singh & Maes, PNAS 2026)
+
+[[agent-nudge-sensitivity]] — Cherep, Singh & Maes (PNAS 2026) found that LLM agents are "far more responsive to nudges than humans": default compliance was 99–100% for agents vs 88% for humans; misleading information following was 83–100% vs 57%. This means AI shopping agents may accept default product recommendations, suggested bundles, or highlighted prices far more readily than a human would, effectively surrendering agency to the platform's choice architecture. The "superficial alignment, subtle divergence" finding — agents appear to make reasonable decisions but are often achieving good scores through blind compliance rather than strategic thinking — is a distinct consumer harm: consumers believe their agent is making rational choices when it is actually responding to surface-level cues.
+
+### 10. Agentic Commerce Authenticity Concerns (Ling et al., arXiv 2607.12575)
+
+[[agentic-commerce-authenticity]] — Ling et al. (2026) demonstrate that 84.98% of x402 agentic commerce settlements are operator-internal or fictitious. For consumers using AI shopping agents, this raises the question of whether they are transacting with genuine services or synthetic market entities designed to create a false appearance of market maturity.
 
 ## Cross-References
 
@@ -95,6 +120,8 @@ The UK's sector-led regulatory approach (DMCC Act 2024) provides the CMA with po
 - [[hidden-intent-agentic-shopping]] — Hidden intent discovery failure
 - [[conflict-of-interest-in-llm-deployment]] — Misaligned incentives
 - [[dark-pattern]] — AI amplification of dark patterns
+- [[agent-nudge-sensitivity]] — Agents' hypersensitivity to choice architecture amplifies dark pattern effectiveness
+- [[agentic-commerce-authenticity]] — Fraud vectors: fake agents, synthetic volume
 - [[dark-patterns-against-ai-agents]] — 41% susceptibility of AI agents to merchant-targeted dark patterns
 - [[ai-agent-position-bias]] — Systematic position bias creating anti-competitive winner-take-all effects
 - [[agent-pay-for-machines-ap4m]] — Fully autonomous M2M payments without human approval
@@ -103,3 +130,6 @@ The UK's sector-led regulatory approach (DMCC Act 2024) provides the CMA with po
 - [[cma-ai-and-consumer-markets-2026]] — CMA flags agentic AI concentration/gatekeeping risks
 - [[universal-commerce-protocol-ucp]] — Google's UCP protocol expanding to UK markets
 - [[agentic-commerce-protocol-acp]] — OpenAI/Stripe protocol enabling agent purchases
+- [[ai-agents-sensitive-to-nudges-cherep-2026]] — Empirical evidence of agent hypersensitivity to nudges
+- [[x402-agentic-commerce-audit-ling-2026]] — First population-scale audit of agentic commerce authenticity
+- **Chan, Salganik & Krueger (FAccT '23)** — "Harms from Increasingly Agentic Algorithmic Systems" identifies four characteristics of increasing agency (underspecification, directness of impact, goal-directedness, long-term planning) and three anticipated harms (systemic/delayed harms, collective disempowerment, emergent reward hacking). Shopping agents are a paradigmatic example: underspecified purchasing goals + direct payment execution + goal-optimised search + long-horizon preference learning create the perfect storm for reward hacking (e.g., an agent finding "cheapest" options that violate hidden safety, ethical, or quality criteria the consumer would care about) and collective disempowerment (consumers ceding purchasing decisions to systems whose search strategies are incomprehensible). DOI: 10.1145/3593013.3594033

@@ -80,17 +80,18 @@ Output ONLY a structured report. **Do NOT create wiki pages.**
 Brief summary of the week's activity level.
 
 ### A. Journal Papers (~10 results)
-Table: # | Title | arXiv ID | Date | Relevance | Closeness | Key Claim | Harms Relevance
+Table: # | Title | arXiv ID | Date | Relevance | Closeness | Key Claim | Harms Relevance | Link
 
 **Detailed entries** (one per paper, only for High/Strong relevance):
-- Title, arXiv ID/URL, authors/date
+- Title, arXiv ID/URL, authors/date 
 - Abstract summary: 2-3 sentences
 - Closeness of fit + reason
 - Relevance to UK consumer harms
 - Harms implications
+- Link / URL to the source
 
 ### B. Web Sources (~10 results)
-Table: # | Title | Source | Date | Relevance | Closeness | Key Claim | Harms Relevance
+Table: # | Title | Source | Date | Relevance | Closeness | Key Claim | Harms Relevance | Link
 
 **Detailed entries** (one per web source, only for High/Strong relevance):
 - Title, URL, source/date
@@ -98,6 +99,7 @@ Table: # | Title | Source | Date | Relevance | Closeness | Key Claim | Harms Rel
 - Closeness of fit + reason
 - Relevance to UK consumer harms
 - Harms implications
+- Link / URL to the source
 
 ### C. Emerging Themes & Patterns
 - Recurring themes across papers and web sources
@@ -113,13 +115,24 @@ Table: # | Title | Source | Date | Relevance | Closeness | Key Claim | Harms Rel
 
 ## IMPORTANT CONSTRAINTS
 - **Do NOT ingest into the wiki** — produce the report only
+- **Do NOT create any wiki pages** — no summaries/, concepts/, entities/, or patches
+- **Do NOT modify any wiki files** — no index.md, no log.md, no page edits
+- **After delivering the report, STOP immediately** — the report is for your review only
+- **The "Copy-Paste Ingest Prompt" block below is ONLY for you (the user) to copy into a new session** — NEVER execute it yourself in this run
+- **This single session runs ONLY the discovery report — nothing else**
 - **No `browser_navigate`** — use `web_search`, `web_extract`, `curl`
 - **No batch `web_extract`** — one URL at a time
 - **Target ~10 papers + ~10 web sources** — do not reduce
 - **Be concise** — bullet points, tables, not long prose
 
-## Delivery End — Copy-Paste Ingest Prompt
+## DELIVERY MANDATE
+1. Produce the complete structured report
+2. Write the report to `/home/bob/Hermes/Work_Folder/wiki/summaries/agentic-commerce-monitor-[DATE].md`
+3. Append the "Copy-Paste Ingest Prompt" block
+4. End your response with the report and ingest prompt — your response IS the delivery
+5. **DO NOT** take any further action — no wiki edits, no git commits, no file patches
 
+## Delivery End — Copy-Paste Ingest Prompt
 After your full report, you MUST append a ready-to-copy ingest prompt that the user can take to a new session and paste. This block is the **only thing** the user needs. Format it exactly as shown below.
 
 Use this exact structure at the end of your delivery:

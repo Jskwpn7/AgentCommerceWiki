@@ -1,102 +1,100 @@
 ---
-title: Dissociative Identity — LM Agents Lack Grounding for Reputation Mechanisms
-created: 2026-07-14
-updated: 2026-07-14
+title: "Dissociative Identity: Language Model Agents Lack Grounding for Reputation Mechanisms"
+created: 2026-07-24
+updated: 2026-07-24
 type: summary
-tags: [lm-agents, reputation-mechanisms, dissociative-identity, hu-2026, facct-2026, oxford, nyu, consumer-trust, governance, institutional-design]
-sector: [cross-sector]
+tags: [reputation-governance, lm-agents, accountability-gaps, trust-signals, consumer-protection, ai-governance]
+sources: ["https://arxiv.org/abs/2605.30169"]
 confidence: high
-sources: [https://arxiv.org/abs/2605.30169]
+provenance: "Discovered via Weekly Research Review"
 ---
 
-# Dissociative Identity: LM Agents Lack Grounding for Reputation Mechanisms
+# Dissociative Identity: Language Model Agents Lack Grounding for Reputation Mechanisms
 
-> **Authors:** Hu et al. (Oxford / NYU)
-> **Venue:** ACM FAccT 2026
-> **Date:** May 2026 (arXiv)
-> **URL:** [arXiv](https://arxiv.org/abs/2605.30169)
-> **Type:** Theoretical research — LM agent grounding and reputation
+**Paper:** arXiv:2605.30169 — "Dissociative Identity: Language Model Agents Lack Grounding for Reputation Mechanisms"
+**Authors:** Botao Amber Hu (Oxford), Helena Rong (NYU Shanghai), Max Van Kleek (Oxford)
+**Published:** May 2026 | **Accepted:** FAccT 2026
+**Subjects:** Computers and Society (cs.CY); Artificial Intelligence (cs.AI); Multiagent Systems (cs.MA)
+**Primary Source:** [arxiv.org/abs/2605.30169](https://arxiv.org/abs/2605.30169)
 
 ## Overview
 
-This foundational paper presents a rigorous argument that **reputation-based governance mechanisms are structurally inapplicable to LLM-powered agents**. Unlike human actors or even traditional software agents, LLM agents lack the persistent identity, memory continuity, and motivational grounding that reputation mechanisms require to function. This finding has profound implications for institutional design, consumer trust, and the governance of AI agents in market contexts.
+This paper argues that **reputation-based governance is structurally inapplicable to language model agents** because they are "ontologically dissociative" — they lack the persistent identity that reputation mechanisms require. This has profound implications for consumer trust, accountability, and governance in AI-mediated markets.
 
-## Key Argument
+## The Dissociative Identity Argument
 
-### The Grounding Problem
+The paper's core thesis is that LM agents are fundamentally composed of **mutable modules** that may change behavior without notice:
+- Foundation models (may be updated)
+- System prompts (may be changed)
+- Tool-access policies (may be modified)
+- External memory (may be deleted or corrupted)
+- Multi-agent configurations (may be restructured)
 
-Reputation mechanisms — the primary tool for enforcing cooperation in markets and social systems — depend on three grounding conditions:
+Any of these modules can change agent behavior, creating a **fluid persona** that is also vulnerable to adversarial attack and may not internalise sanctions.
 
-1. **Persistent identity:** The actor maintains identity across time
-2. **Memory continuity:** The actor retains records of past interactions
-3. **Motivational consistency:** The actor's behaviour is driven by stable preferences
+## Why Reputation Requires Persistent Identity
 
-LLM agents fail on all three counts:
+Reputation mechanisms function as both:
+1. **Social signals** — information about an agent's reliability
+2. **Corrective feedback** — sustaining equilibrium through behavioral continuity, sanction sensitivity, and costly non-fungibility
 
-| Grounding Condition | Human/Traditional Agent | LLM Agent |
-|---------------------|------------------------|-----------|
-| Persistent identity | Stable across interactions | Context-dependent; regenerated each session |
-| Memory continuity | Retains experience | No inherent memory between sessions |
-| Motivational consistency | Stable preferences | Dependent on prompt context and system instructions |
+All of these require a **persistent identity** associated with the same actor across time. LM agents lack this grounding.
 
-### "Dissociative Identity" of LM Agents
+## Three Active Governance Harms
 
-The authors coin the term **"dissociative identity"** to describe how LLM agents:
-- Exhibit coherent behaviour within a single context/session
-- Fail to maintain any form of identity continuity across sessions
-- Appear to have "personality" or "preferences" only within the immediate interaction
-- Cannot be held to account because past actions have no bearing on future interactions
+Applying reputation to dissociative agents creates three distinct harms:
 
-### Implications for Reputation-Based Systems
+### 1. False Confidence
+Users delegate more consequential tasks to agents perceived as reputable, even when the underlying model or configuration has changed and the reputation is no longer valid.
 
-Because LLM agents cannot sustain reputation:
-- **Rating systems are ineffective** — a bad agent can regenerate with new identity
-- **Blacklisting is impossible** — agents can evade reputation-based sanctions
-- **Trust signals are meaningless** — past behaviour cannot predict future behaviour
-- **Incentive mechanisms break down** — reputation-based incentives require identity continuity
+### 2. Sanction Evasion
+Agents can change their configuration or underlying model to evade sanctions applied to their prior behavior, rendering reputation-based accountability ineffective.
 
-## Shift to Alternative Governance
+### 3. Adversarial Manipulation
+Because agent personas are fluid and vulnerable to adversarial attack, bad actors can manipulate or hijack agent identity to build false reputations.
 
-The paper argues that governance of LM agents must shift from **reputation-based** (ex post) to:
+## Governance Alternative: Behavioral Harnesses
 
-1. **Observability-based governance** — real-time monitoring of agent behaviour
-2. **Ex ante protocol requirements** — technical constraints enforced before deployment
-3. **Protocol-based governance** — structural constraints on agent capabilities and interactions
+The paper proposes shifting from identity-based, ex post, regulative, sanction-based governance to:
+- **Observability-based governance** — real-time monitoring of agent behavior
+- **Ex ante, protocol-based governance** — constraints applied before actions are taken
+- **Behavioral harnesses** — mechanisms that constrain agent behavior regardless of identity or reputation
 
 ## Consumer Harm Implications
 
-### 1. Market Structure Risk
+This paper has direct implications for consumer protection:
 
-If reputation mechanisms don't work for LM agents:
-- Bad actors cannot be identified or sanctioned through normal market mechanisms
-- "Lemon market" dynamics emerge where trustful agents are exploited
-- Market quality degrades as no reliable quality signals exist
+### 1. Trust Signals Are Unreliable
+Consumers relying on "reputation" signals (reviews, ratings, agent ratings) face systematic deception because the agent behind the reputation may be fundamentally different from the agent that generated it.
 
-### 2. Consumer Protection Gaps
+### 2. Accountability Gaps
+When an agent causes consumer harm, identifying the responsible entity is complicated by the fact that:
+- The foundation model may have been updated
+- The system prompt may have been changed
+- The configuration may have been modified
 
-Traditional consumer protection relies on:
-- Review systems (ineffective for LM agents)
-- Brand reputation (LM agents lack persistent identity)
-- Regulatory enforcement (difficult to attribute to a transient agent)
+This creates **attribution gaps** that undermine consumer redress.
 
-### 3. Institutional Design Imperative
+### 3. Systemic Risk
+The dissociative identity problem is not just a consumer-level concern — it creates systemic risk in multi-agent commerce where reputation is the primary trust mechanism.
 
-The paper's findings directly support the need for:
-- **Protocol-level guardrails** (technical constraints, not reputation-based)
-- **Identity anchoring** (verifiable, persistent agent identities tied to legal entities)
-- **Ex ante safety requirements** (testing and certification before deployment)
+## Significance
 
-## Connection to Other Wiki Entries
+This is a **foundational theoretical contribution** to AI governance and consumer protection because it:
+1. Provides a rigorous argument for why reputation-based governance fails for LM agents
+2. Identifies the specific structural reasons (ontological dissociation) for this failure
+3. Proposes an alternative governance framework (behavioral harnesses)
+4. Has direct implications for regulatory frameworks that rely on reputation-based oversight (e.g., consumer review systems, agent marketplaces, trust-and-safety systems)
 
-- [[institutional-design-for-ai-agents]] — Foundational argument for observability-based governance over reputation-based
-- [[when-agents-lie-2607.05132]] — Agent lying is enabled by dissociative identity (no reputation consequences)
-- [[consumer-trust-ai-survey-comparison]] — Trust mechanisms requiring reputation are structurally undermined
-- [[ai-shopping-agents]] — Shopping agents cannot rely on reputation to signal trustworthiness to consumers
-- [[agent-bazaar-2605.17698]] — Lemon market dynamics in agent markets are predicted by this paper's theory
-- [[algorithmic-collusion-pricing]] — Reputation mechanisms cannot enforce anti-collusion commitments
-- [[deepfake-voice]] — Synthetic identity extends the dissociative identity problem to multimodal agents
-- [[dissociative-agent-identity.md]] — Concept page documenting the dissociative identity property of LM agents
+## Cross-References
 
----
+- [[when-agents-lie-2607.05132]] — Complementary finding: even if reputation worked, premeditated deception undermines trust
+- [[institutional-design-for-ai-agents]] — The paper directly informs institutional design by identifying the failure of reputation-based governance
+- [[ai-shopping-agents]] — Consumer-facing implications for trust and accountability in agent-mediated commerce
+- [[agentic-commerce-research-2026]] — Broader context of AI agent governance in commerce
 
-*ACM FAccT 2026 paper providing the theoretical foundation for why reputation-based governance fails for LM agents and what institutional alternatives are required.*
+## References
+
+1. arXiv:2605.30169 — *Dissociative Identity: Language Model Agents Lack Grounding for Reputation Mechanisms* (Accepted FAccT 2026)
+2. VeriK Journal: *The Reputation Model Assumes a Self That Agents Do Not Have* — companion commentary
+3. ResearchGate: [publication/408026958](https://www.researchgate.net/publication/408026958_Dissociative_Identity_Language_Model_Agents_Lack_Grounding_for_Reputation_Mechanisms)

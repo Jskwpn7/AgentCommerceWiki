@@ -1,3 +1,14 @@
+---
+title: "HorizonBench: Long-Horizon Personalization with Evolving Preferences"
+created: 2026-07-24
+updated: 2026-07-24
+type: raw_paper
+tags: [long-horizon-personalization, preference-tracking, memory-benchmarks, belief-update, ai-companions, user-modeling]
+sources: ["https://arxiv.org/abs/2604.17283"]
+confidence: high
+provenance: "Discovered via Weekly Research Review"
+---
+
                                          Preprint. Under review.
 
 

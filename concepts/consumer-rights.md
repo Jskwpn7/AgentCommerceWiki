@@ -93,6 +93,8 @@ The [[consumer-rights]] framework targets human traders, not opaque AI systems. 
 
 These questions are central to the [[ai-agents-in-markets]] and [[ai-shopping-agents]] analyses. For a consolidated review of recent research, harm vectors, and regulatory developments, see [[agentic-commerce-research-2026]].
 
+- [[cerre-agentic-ai-and-consumer-protection-2026]] — CERRE analysis: EU consumer law is human-centric by design; AI agents challenge mandatory disclosures, consent (CRD Article 8(2)), withdrawal rights, and GUI-based provisions; prescriptive design rules may become obsolete at the protocol layer while substantive standards endure
+
 ## Cross-References
 
 - [[consumer-rights]] — comprehensive analysis of UK consumer rights

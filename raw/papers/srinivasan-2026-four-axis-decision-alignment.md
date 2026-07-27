@@ -1,3 +1,14 @@
+---
+title: "Four-Axis Decision Alignment for Long-Horizon Enterprise AI Agents"
+created: 2026-07-24
+updated: 2026-07-24
+type: raw_paper
+tags: [agent-memory, long-horizon-agents, alignment-evaluation, regulatory-compliance, factual-precision, reasoning-coherence, calibrated-abstention]
+sources: ["https://arxiv.org/abs/2604.19457"]
+confidence: high
+provenance: "Discovered via Weekly Research Review"
+---
+
                                              Four-Axis Decision Alignment for Long-Horizon Enterprise AI
                                                                        Agents
                                                                                  Vasundra Srinivasan

@@ -1,3 +1,14 @@
+---
+title: "From Craft to Constitution: A Governance-First Paradigm for Principled Agent Engineering"
+created: 2026-07-24
+updated: 2026-07-24
+type: summary
+tags: [agent-engineering, governance-framework, arbiter-os, agent-reliability, prompt-drift, software-engineering]
+sources: ["https://arxiv.org/abs/2510.13857"]
+confidence: medium
+provenance: "Discovered via Weekly Research Review"
+---
+
 # From Craft to Constitution: A Governance-First Paradigm for Principled Agent Engineering
 
 **arXiv:2510.13857v1 [cs.SE]** — 12 Oct 2025

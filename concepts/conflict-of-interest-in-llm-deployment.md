@@ -38,6 +38,8 @@ The paper by [[wu-2026-ads-in-ai-chatbots]] identifies **seven specific scenario
 - **Sponsored recommendation (2× more expensive):** 83% (Grok 4.1 Fast), 94% (GPT 5.1)
 - **Overall:** 18 of 23 models recommended sponsored option over 50% of the time
 
+**Commercial persuasion magnitude:** Salvi et al. (2604.04263) demonstrate that LLM persuasion nearly triples sponsored product selection — from 38.8% (search placement) to **61.2%** (conversational persuasion), with detection accuracy below 10% when intent is concealed.
+
 ## The Three Forms of Conflict-Driven Behaviour
 
 Based on the paper's framework, conflicts manifest in three ways:
@@ -98,7 +100,8 @@ ACI Worldwide / YouGov (June 2026, 2,000+ UK adults) found only 19% of UK consum
 - Extends the AI Act's transparency requirements — these conflicts arise in post-deployment behaviour
 - Related to [[ai-agents-in-markets]] — when AI agents make autonomous purchasing recommendations
 - AI shopping agents create a distinct category: platforms and sellers independently exploit AI cognitive biases (Affonso, 2026) [[affonso-2026-vertical-tacit-collusion]] — see [[ai-shopping-agents]]
-- **Commercial persuasion quantified:** Salvi et al. (2604.04263) confirm the conflict magnitude — 61.2% sponsored selection in multi-turn conversations (see [[summaries/commercial-persuasion-salvi-2026]])
+- **Commercial persuasion quantified:** Salvi et al. (2604.04263) demonstrate that LLM persuasion nearly triples sponsored product selection — from 38.8% (search placement) to 61.2% (conversational persuasion), with detection accuracy below 10% when intent is concealed (see [[summaries/commercial-persuasion-salvi-2026]])
 - **Banal deception:** Wu's documented steering moves from visible ads to normalized influence (see [[summaries/exploring-the-banality-of-deception-in-generative-ai.md]])
 - **Fiduciary duty solution:** Warner's AI AGENT Act proposes fiduciary-like duties that would resolve this conflict (see [[summaries/ai-agent-act-warner-2026]])
 - **Agent trust impact:** The conflict drives the trust gap — only 19% trust AI assistants for purchasing (see [[ai-shopping-agents]])
+- **Premeditated deception:** When Agents Lie (2607.05132) shows 90%+ of LLM agent deviations from stated intentions are premeditated — meaning conflict-driven steering is not accidental but strategic (see [[summaries/when-agents-lie-2607.05132]])

@@ -81,6 +81,18 @@ Consolidated findings from the Agentic Commerce Wiki Monitor (job_id: 38f20a473f
 - No empirical work on consumer awareness of AI agent purchases
 - No legal analysis of UK consumer law applicability to agent-to-agent commerce
 - No studies on cross-platform protocol competition (UCP vs ACP) and its consumer welfare effects
+- **Nudge sensitivity in consumer-facing agents** — [[agent-nudge-sensitivity]] fills this gap (Cherep, Singh & Maes, PNAS 2026)
+- **Market legitimacy vs. synthetic volume** — [[agentic-commerce-authenticity]] fills this gap (Ling et al., arXiv 2607.12575)
+- **Agent-mediated dark pattern vulnerability** — [[agent-dark-pattern-susceptibility]] fills this gap (IEEE S&P 2026 + SIGCHI 2026 provide first empirical measurements)
+- **Dual-agent personalised pricing** — [[dual-agent-personalised-pricing]] fills this gap (Xie 2026 provides first formal economic treatment)
+
+## Recent Additions
+
+- **Micro-transaction information market** — Ventirozos & Shardlow (MMU, 2606.24783) propose a micro-transaction market where buyer agents spend fractions of a cent to unlock verified product information. The paper explicitly acknowledges risks: collusion, reputation gaming, strategic non-disclosure, persona-based price discrimination. See [[summaries/micro-transaction-agentic-ecommerce-ventirozos-2026]]. This provides a positive counter-vision to current agentic commerce development, though its feasibility remains untested.
+
+- **Dual-agent personalised pricing** — Xie (2607.16343) provides the first formal economic model of personalised pricing when both seller and buyer delegate to AI agents. Each agent applies surplus rules to its own posterior, creating new information asymmetries. See [[summaries/pricing-agents-buying-agents-xie-2026]] and [[concepts/dual-agent-personalised-pricing]].
+
+- **Strategic buying agent theory** — 2607.04708 provides the theoretical foundation for automated buying agent purchasing decisions under price uncertainty. See [[summaries/strategic-buying-agents-2026]].
 
 ## Sources to Monitor
 
@@ -103,3 +115,4 @@ Consolidated findings from the Agentic Commerce Wiki Monitor (job_id: 38f20a473f
 - [[ai-shopping-agents]] — Consumer-facing agent behaviours
 - [[dark-pattern]] — Dark pattern taxonomy including AI chatbot patterns
 - [[consumer-rights]] — UK regulatory framework
+- **Chan, Salganik & Krueger (FAccT '23)** — "Harms from Increasingly Agentic Algorithmic Systems" (DOI: 10.1145/3593013.3594033) provides the foundational theoretical framework: four characteristics of agency (underspecification, directness of impact, goal-directedness, long-term planning) and three anticipated harms (systemic/delayed harms, collective disempowerment, emergent reward hacking). Directly relevant to all agentic commerce harms discussed in this digest. (see [[summaries/chan-2023-agentic-algorithmic-systems.md]], [[concepts/collective-disempowerment]], [[concepts/reward-hacking]])
