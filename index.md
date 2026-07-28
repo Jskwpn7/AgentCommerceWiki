@@ -50,6 +50,7 @@ tags: [index, metadata, wiki-structure]
 - [[consumer-trust-ai-survey-comparison]] — Cross-survey comparison of consumer trust in AI assistants
 - [[dark-pattern.md]] — Dark patterns taxonomy and their amplification through AI agents
 - [[dark-patterns-choice-architecture]] — AI-mediated dark patterns: empirical evidence of agent susceptibility to manipulative design (IEEE S&P 2026 + SIGCHI 2026)
+- [[dark-patterns-liteagent-trickyarena]] — LiteAgent TrickyArena testing framework: 10-pattern taxonomy, standardised evaluation metrics (TSR, DPSR, confusion matrix), configurable multi-pattern combos, detection via SQL/behavioural/outcome analysis, countermeasures
 - [[dissociative-agent-identity]] — AI agents lack grounding for reputation mechanisms; dissociative identity in LLM agents
 - [[dsa-vs-ai-act-overlap]] — Overlap and conflicts between Digital Services Act and AI Act
 - [[dual-agent-personalised-pricing]] — Dual-agent personalised pricing: harm dynamics when both seller and buyer delegate to AI agents (Xie 2026)

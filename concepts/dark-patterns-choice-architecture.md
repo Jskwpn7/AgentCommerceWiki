@@ -19,8 +19,9 @@ Choice architecture refers to the design of how options are presented to decisio
 
 Two recent papers provide the first empirical evidence that dark patterns are effective against AI agents, not just humans:
 
-- **IEEE S&P 2026** (2510.18113) — 41% average susceptibility of LLM web agents to dark patterns; higher-performing agents MORE vulnerable (Skyvern 72.3%, BrowserUse 69.3%); Obstruction and Social Engineering most effective (52.2%, 47.9%)
-- **SIGCHI 2026** (2509.10723) — Adaptive LLM agents continue through dark patterns until task completion impossible; end-to-end agents show more caution
+- **IEEE S&P 2026** (2510.18113) — 41% average susceptibility of LLM web agents to dark patterns; higher-performing agents MORE vulnerable (Skyvern 72.3%, BrowserUse 69.3%); Obstruction and Social Engineering most effective (52.2%, 47.9%). Evaluation uses LiteAgent framework + TrickyArena controlled test environment with standardised metrics (TSR, DPSR, 2×2 confusion matrix). Gemini 2.5 Pro had highest DPSR (65.8%); GPT-4o suffered largest relative TSR decline (-28.9%).
+- **SIGCHI 2026** (2509.10723) — Adaptive LLM agents continue through dark patterns until task completion impossible; end-to-end agents show more caution.
+- **LiteAgent TrickyArena Framework** (2026) — Standardised testing methodology with 10-pattern taxonomy (BS, DA, FC, HC, MD, RM, SB, PCP, PZ, CS), configurable multi-pattern combinations, detection via database analysis (SQL ad-click/fee tracking) and behavioural/outcome analysis, and countermeasures (visual verification, text analysis, behavioural rules). See [[https://purdue-5e908028.mintlify.app/concepts/dark-patterns|LiteAgent TrickyArena Dark Patterns Documentation]].
 
 ## Regulatory Implications
 
