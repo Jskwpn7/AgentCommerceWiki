@@ -1,7 +1,7 @@
 ---
 title: "Wiki Index — UK Consumer Harms Research"
 created: 2025-01-01
-updated: 2026-07-27
+updated: 2026-07-28
 type: metadata
 tags: [index, metadata, wiki-structure]
 ---
@@ -15,11 +15,11 @@ tags: [index, metadata, wiki-structure]
 |----------|-------|
 | Concepts | 51 |
 | Entities | 27 |
-| Summaries | 91 |
+| Summaries | 92 |
 | Pages | 0 |
 | Raw Papers | 28 |
 | Raw Articles | 42 |
-| **Total** | **239** |
+| **Total** | **241** |
 
 ---
 
@@ -254,6 +254,7 @@ tags: [index, metadata, wiki-structure]
 - [[uk-regulators-ai-coordination-gaps-2026]] — UK regulator coordination gaps in AI oversight (2026)
 - [[visa-mastercard-tokens-ai-commerce-2026]] — Visa/Mastercard: token infrastructure for AI commerce
 - [[markdown-for-agents-cloudflare-2026]] — Cloudflare: Markdown for Agents — real-time HTML-to-markdown conversion for AI agents; 80% token reduction
+- [[GenPage-Netflix-generative-homepage-2026]] — Netflix replaces multi-stage recommender with single RL-optimised generative transformer; opaque reward model drives personalised content at scale; RL (Dr. GRPO) optimises engagement via page-level reward; sharp personalisation produces unintended content distribution shifts
 
 ## Tags
 

@@ -43,6 +43,8 @@ Consumers cannot know whether the price they see is unique to them or what other
 - Informed purchase decisions
 - Detection of unfair treatment
 
+**Netflix GenPage** provides a parallel example in content personalisation: the platform's reward model (tuned through opaque A/B testing) predicts page-level engagement and shapes what users see in ways they cannot understand or audit. See [[summaries/GenPage-Netflix-generative-homepage-2026]].
+
 ### Consumer Surplus Extraction
 Perfect price discrimination captures all consumer surplus (the benefit consumers get from purchasing below their maximum willingness to pay). In standard economic theory, this benefits producers at the expense of consumers, potentially reducing total welfare despite increasing efficiency.
 
@@ -72,8 +74,9 @@ More frequent and opaque price changes increase perceived inflation (through asy
 
 ## Related Concepts
 
-- **`[[algorithmic-collusion-pricing]]`** — Personalised pricing and algorithmic collusion are distinct mechanisms: one extracts surplus from individual consumers, the other coordinates prices across firms. Both enabled by the same technology stack (ML, real-time pricing, consumer data).
-- **`[[ai-mode-shortlist-gatekeeping]]`** — Both involve opaque, individualised treatment by AI systems. Gatekeeping determines what consumers *see*; personalised pricing determines what they *pay*.
-- **`[[dark-pattern]]`** — Opaque personalised pricing is a form of choice architecture manipulation where consumers cannot evaluate prices without reference information they don't have. Agent-mediated consumers face amplified harm because [[agent-nudge-sensitivity]] shows AI agents accept highlighted price information 83–100% of the time (vs 57% for humans).
-- **`[[beyond-nudges-antitrust-schrepel-2026]]`** — Complexity economics framework showing that personalised pricing interactions with AI agents create emergent market dynamics that traditional behavioural economics cannot capture.
-- **`[[dual-agent-personalised-pricing]]`** — When both seller and buyer delegate to AI agents, personalised pricing harm mechanisms fundamentally change: each agent applies surplus rules to its own posterior, creating new information asymmetries and verification incentives. See [[summaries/pricing-agents-buying-agents-xie-2026]] and [[strategic-buying-agents-2026]] for the theoretical economics framework.
+- **[[algorithmic-collusion-pricing]]** — Personalised pricing and algorithmic collusion are distinct mechanisms: one extracts surplus from individual consumers, the other coordinates prices across firms. Both enabled by the same technology stack (ML, real-time pricing, consumer data).
+- **[[ai-mode-shortlist-gatekeeping]]** — Both involve opaque, individualised treatment by AI systems. Gatekeeping determines what consumers *see*; personalised pricing determines what they *pay*.
+- **[[dark-pattern]]** — Opaque personalised pricing is a form of choice architecture manipulation where consumers cannot evaluate prices without reference information they don't have. Agent-mediated consumers face amplified harm because [[agent-nudge-sensitivity]] shows AI agents accept highlighted price information 83–100% of the time (vs 57% for humans).
+- **[[beyond-nudges-antitrust-schrepel-2026]]** — Complexity economics framework showing that personalised pricing interactions with AI agents create emergent market dynamics that traditional behavioural economics cannot capture.
+- **[[dual-agent-personalised-pricing]]** — When both seller and buyer delegate to AI agents, personalised pricing harm mechanisms fundamentally change: each agent applies surplus rules to its own posterior, creating new information asymmetries and verification incentives. See [[summaries/pricing-agents-buying-agents-xie-2026]] and [[strategic-buying-agents-2026]] for the theoretical economics framework.
+- **[[GenPage-Netflix-generative-homepage-2026]]** — Netflix replaces its multi-stage recommender with a single RL-optimised generative transformer. The opaque reward model drives personalised content at scale, demonstrating how engagement maximisation operates as a parallel to opaque personalised pricing: consumers cannot audit or understand why they receive what they receive.

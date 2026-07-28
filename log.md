@@ -84,6 +84,22 @@
 
 ---
 
+## 2026-07-28 — Netflix GenPage: RL-Optimised Generative Homepage
+
+### Ingestion
+
+| Action | Page | Type | Source |
+|--------|------|------|--------|
+| Created | [[GenPage-Netflix-generative-homepage-2026]] | summary | Netflix TechBlog (Wang, Pan, Baltrunas, 2026-06-29) |
+| Updated | [[personalised-pricing-ai.md]] | concept | Added cross-reference to GenPage opaque reward model |
+| Updated | `index.md` | metadata | Counts + entry; 92 summaries, 241 total |
+
+### Pages Created This Session: 1
+### Pages Patched: 2
+### Notes: Netflix GenPage article ingested from TechBlog. Documents replacement of multi-stage recommender with single RL-optimised generative transformer. Key consumer harm vectors: opaque reward model driving personalised content at scale, RL (Dr. GRPO) optimising engagement via page-level reward, sharp personalisation producing unintended content distribution shifts, 20% latency reduction creating barriers to entry. Parallel to opaque personalised pricing: consumers cannot audit or understand why they receive what they receive.
+
+---
+
 ## 2026-07-20
 
 ### Source: Weekly Research Review — 2026-07-20
