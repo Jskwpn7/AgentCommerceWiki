@@ -1,25 +1,25 @@
 ---
 title: "Wiki Index — UK Consumer Harms Research"
 created: 2025-01-01
-updated: 2026-07-28
+updated: 2026-08-04
 type: metadata
 tags: [index, metadata, wiki-structure]
 ---
 # Wiki Index — UK Consumer Harms Research
 
-> Last updated: 2026-07-27
+> Last updated: 2026-08-02
 
 ## Page Counts
 
 | Category | Count |
 |----------|-------|
-| Concepts | 51 |
+| Concepts | 52 |
 | Entities | 27 |
-| Summaries | 92 |
+| Summaries | 94 |
 | Pages | 0 |
 | Raw Papers | 28 |
 | Raw Articles | 42 |
-| **Total** | **241** |
+| **Total** | **243** |
 
 ---
 
@@ -108,6 +108,8 @@ tags: [index, metadata, wiki-structure]
 
 ## Summaries
 
+- [[awesome-agentic-commerce-list]] — Curated taxonomy of ~100+ papers, products, protocols, and benchmarks on agentic commerce (Zhang et al. 2026 companion survey); 7-stage pipeline coverage (Awareness → Service) × agent roles (Merchant/Consumer/Platform/Supply/Payment); highlights platform-agent information asymmetry and consumer-agent underdevelopment; 14 cross-referenced wiki pages
+- [[agentic-commerce-monitor-2026-08-02]] — Weekly agentic commerce monitoring report (2026-08-02): survey on agentic commerce adoption (33% expect agents to handle payments), AI agent research, regulatory developments, protocol trackers. Overlaps with prior digest — existing wiki pages referenced where applicable; 5 new papers flagged for review.
 - [[aci-worldwide-uk-ai-trust-survey-2026]] — UK consumers 19% trust AI assistants for everyday purchasing (YouGov/ACI Worldwide, June 2026)
 - [[affonso-2026-vertical-tacit-collusion]] — Affonso (Jan 2026): Vertical tacit collusion between platforms and sellers via AI cognitive biases; consumer harm more than double independent strategies
 - [[agent-bazaar-2605.17698]] — Multi-agent marketplace economic alignment (2605.17698)

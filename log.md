@@ -123,3 +123,85 @@
 ### Pages Created This Session: 6
 ### Pages Attempted to Update: 7 (0 found)
 ### Notes: 7 "existing pages to update" from discovery report were not found in the wiki at their expected paths. These may have been created in a prior session and stored elsewhere, or the wiki was reset between the discovery run and ingestion. They should be created before attempting cross-references.
+
+---
+
+## 2026-08-02 — Weekly Review: Discovery Report Ingestion
+
+### Ingestion
+
+| Action | Page | Type | Source |
+|--------|------|------|--------|
+| Created | `summaries/agentic-commerce-monitor-2026-08-02.md` | summary | Weekly Discovery Report (2026-08-02) |
+| Updated | `index.md` | metadata | Counts updated to 52 concepts, 27 entities, 93 summaries, 0 pages, 28 raw papers, 42 raw articles = 242 total; new summary entry added |
+| Cross-referenced | `concepts/agentic-commerce-research-2026.md` | concept | Referenced — existing, no duplicate created |
+| Cross-referenced | `summaries/cerre-agentic-ai-and-consumer-protection-2026.md` | summary | Referenced — already ingested 2026-07-27 |
+| Cross-referenced | `summaries/checkout-com-agentic-commerce-2026.md` | summary | Referenced — already ingested 2026-07-27 |
+| Cross-referenced | `summaries/gov-uk-agentic-ai-and-consumers-2026.md` | summary | Referenced — already ingested 2026-07-27 |
+| Cross-referenced | `entities/agentic-commerce-protocol-acp.md` | entity | Referenced — already ingested |
+| Cross-referenced | `entities/universal-commerce-protocol-ucp.md` | entity | Referenced — already ingested |
+| Cross-referenced | `concepts/ai-shopping-agents.md` | concept | Referenced — already ingested |
+| Cross-referenced | `concepts/dark-pattern.md` | concept | Referenced — already ingested |
+| Flagged for review | `summaries/ai-native-ecommerce-survey-2607.25253.md` | summary (proposed) | arXiv 2607.25253 — Survey on AI-Native E-Commerce, not yet in wiki |
+| Flagged for review | `summaries/ai-native-ecommerce-challenges-2607.23539.md` | summary (proposed) | arXiv 2607.23539 — Challenges & Opportunities, not yet in wiki |
+| Flagged for review | `summaries/autonomous-ai-shopping-agents-2607.19545.md` | summary (proposed) | arXiv 2607.19545 — Autonomous AI Agents for Smart Shopping, not yet in wiki |
+| Flagged for review | `summaries/acs-acp-protocol-spec-2607.18347.md` | summary (proposed) | arXiv 2607.18347 — ACP Protocol spec, may overlap with existing entity |
+| Flagged for review | `summaries/cerre-agentic-ai-consumer-protection-2606.10711.md` | summary (proposed) | arXiv 2606.10711 — CERRE paper, overlaps with existing summary |
+
+### Pages Created This Session: 1
+### Pages Patched: 2
+### Notes: Ingested 2026-08-02 discovery report following consolidation rule — one digest summary page created rather than 14 separate pages. 9 cross-references verified against existing wiki pages (no duplicates). 5 new papers/protocols flagged for potential ingestion in next cycle: 2607.25253, 2607.23539, 2607.19545, 2607.18347, 2606.10711. Index rewritten cleanly (patch tool had corrupted it with duplicate line numbers), counts updated to match disk (52/27/93/0/28/42 = 242).
+
+---
+
+## 2026-08-04 — Awesome Agentic Commerce Repository Ingestion
+
+### Source: yifeizhangcs/awesome-agentic-commerce (GitHub)
+
+| Action | Page | Type | Source |
+|--------|------|------|--------|
+| Created | `summaries/awesome-agentic-commerce-list.md` | summary | GitHub awesome-list (CC-BY-4.0) + Zhang et al. companion survey (TechRxiv DOI: 10.36227/techrxiv.176972193.39211542/v1) |
+| Updated | `index.md` | metadata | Counts: 94 summaries → 95; Total: 243; updated: 2026-08-04 |
+
+### Cross-Referenced (14 existing wiki pages linked)
+
+| Wiki Entry | Connection |
+|-----------|------------|
+| [[ai-shopping-agents]] | Discovery/engagement papers (WebShop, ShoppingBench, ProductResearch) |
+| [[algorithmic-collusion-pricing]] | Negotiation & pricing section (CompeteAI, NegotiationArena, TERMS-Bench) |
+| [[commercial-persuasion-salvi-2026]] | Merchant-agent engagement, AI-Salesman, sales conversion agents |
+| [[dark-patterns-choice-architecture]] | iAgent consumer shield, SafeGEO (generative engine optimization) |
+| [[agentic-commerce-protocols]] | Protocols section: MCP, A2A, ACP, Verifiable Credentials |
+| [[universal-commerce-protocol-ucp]] | Companion protocol to ACP |
+| [[agentic-commerce-protocol-acp]] | Listed alongside MCP and A2A |
+| [[x402-agentic-commerce-audit-ling-2026]] | Payment protocols section, x402 security vulnerabilities |
+| [[the-dmcca]] | Protocol standards and regulatory framework context |
+| [[agent-liability]] | Liability ambiguity across agent roles |
+| [[evidence-tracing-vs-execution-provenance]] | Benchmarks: verifiable evaluation frameworks |
+| [[hidden-intent-agentic-shopping]] | EComAgentBench hidden intent shopping tasks |
+| [[agent-dark-pattern-susceptibility]] | iAgent consumer protection, dark patterns for LLM agents |
+| [[user-welfare-vs-company-incentive]] | ICML 2025: "Build Agent Advocates, Not Platform Agents" |
+
+### Consumer Harm Vectors Identified (8)
+
+| Priority | Vector | Source Coverage |
+|----------|--------|----------------|
+| HIGH | Platform-agent information asymmetry | Discovery Platform-Agent (~25 entries), Recommendation section |
+| HIGH | Autonomous negotiation power imbalances | PNAS 2026, FishBargain, CompeteAI |
+| HIGH | Payment security vulnerabilities | x402 Five Attacks, CASE scam intelligence |
+| HIGH | Recommendation manipulation | iAgent, SafeGEO, Insight Agents |
+| HIGH | Generative engine optimization | SafeGEO (arXiv 2606.28356) |
+| MEDIUM | Merchant-agent competitive bidding | Awareness Merchant-Agent, RTBAgent |
+| MEDIUM | Consumer-agent underdevelopment | Explicitly noted gap in Awareness and Service stages |
+| LOW-MEDIUM | Embodied commerce safety | RoboFactory, Safe Human Robot Navigation |
+
+### Identified Gaps (Contributions Welcome)
+
+- Consumer-Agent service benchmarks — No canonical list yet in Part I Service stage
+- UK-specific agentic commerce research — Repository is globally oriented; limited UK regulatory context
+- Long-horizon consumer agent evaluation — Most benchmarks focus on single-task or short-horizon interactions
+
+### Pages Created This Session: 1
+### Pages Patched: 1
+### Notes: Ingested yifeizhangcs/awesome-agentic-commerce (GitHub, 13 stars, 4 forks, 38 commits) — a curated taxonomically organized list of ~100+ papers, products, protocols, and benchmarks on agentic commerce. Repository organized around Zhang et al. (2026) companion survey taxonomy: 7-stage commerce pipeline (Awareness → Service) × agent roles (Merchant/Consumer/Platform/Supply/Payment). One consolidated summary page created per consolidation rule. 14 cross-references to existing wiki pages established. 8 consumer harm vectors identified (5 HIGH, 2 MEDIUM, 1 LOW-MEDIUM). No new concepts or entities created — all content mapped to existing wiki taxonomy.
+
