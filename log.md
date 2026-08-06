@@ -205,3 +205,18 @@
 ### Pages Patched: 1
 ### Notes: Ingested yifeizhangcs/awesome-agentic-commerce (GitHub, 13 stars, 4 forks, 38 commits) — a curated taxonomically organized list of ~100+ papers, products, protocols, and benchmarks on agentic commerce. Repository organized around Zhang et al. (2026) companion survey taxonomy: 7-stage commerce pipeline (Awareness → Service) × agent roles (Merchant/Consumer/Platform/Supply/Payment). One consolidated summary page created per consolidation rule. 14 cross-references to existing wiki pages established. 8 consumer harm vectors identified (5 HIGH, 2 MEDIUM, 1 LOW-MEDIUM). No new concepts or entities created — all content mapped to existing wiki taxonomy.
 
+
+---
+
+## 2026-08-03 — METR.org Website Ingestion
+
+### Source: https://metr.org/ (Measuring Emerging Risks)
+
+| Action | Page | Type | Source |
+|--------|------|------|--------|
+| Created | `summaries/metr-ai-capability-assessment-2026.md` | summary | METR website — autonomous agent capability measurements, monitorability evaluation framework, time horizon assessments |
+| Updated | `index.md` | metadata | Counts: 95 summaries, 244 total; METR summary entry added |
+
+### Pages Created This Session: 1
+### Pages Patched: 1
+### Notes: METR (Measuring Emerging Risks) is an AI safety research org whose autonomous agent capability measurements directly inform consumer risk assessment for agentic commerce. Key findings: web-use agents outperform humans in complex multi-step tasks; multi-turn chat with tool-use shows high autonomous capability; monitorability evaluation framework (visibility, understanding, predictability, controllability) applies directly to agent shopping behaviour; frontier models increasingly capable of self-interested action; time horizons show capability growth is non-linear. This provides the empirical baseline for assessing when consumer shopping agents become sufficiently autonomous to pose material consumer harm.

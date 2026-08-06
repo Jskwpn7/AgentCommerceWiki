@@ -15,11 +15,11 @@ tags: [index, metadata, wiki-structure]
 |----------|-------|
 | Concepts | 52 |
 | Entities | 27 |
-| Summaries | 94 |
+| Summaries | 95 |
 | Pages | 0 |
 | Raw Papers | 28 |
 | Raw Articles | 42 |
-| **Total** | **243** |
+| **Total** | **244** |
 
 ---
 
@@ -203,6 +203,7 @@ tags: [index, metadata, wiki-structure]
 - [[x402-agentic-commerce-audit-ling-2026]] — Ling et al. (arXiv 2607.12575): 84.98% of x402 settlements are operator-internal; genuine agentic commerce bounded between $187K–$20M
 - [[xu-2025-governance-first-agent-engineering]] — Governance-first paradigm for principled agent engineering (Xu et al., arXiv 2510.13857)
 - [[markdown-for-agents-cloudflare-2026]] — Cloudflare's Markdown for Agents: real-time HTML-to-markdown conversion at CDN layer; 80% token reduction; Content Signals framework
+- [[metr-ai-capability-assessment-2026]] — METR measures AI agent capabilities (web use, tool use, code execution) and monitorability across time horizons; findings directly inform consumer risk assessment for autonomous shopping agents
 
 ## Raw Papers
 
