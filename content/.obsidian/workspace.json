@@ -11,14 +11,10 @@
             "id": "b2bdc58870fcaa37",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "concepts/ai-agents-in-markets.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "ai-agents-in-markets"
+              "title": "New tab"
             }
           }
         ]
@@ -41,7 +37,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -74,8 +72,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -184,44 +181,45 @@
       "bases:Create new base": false
     }
   },
-  "active": "b2bdc58870fcaa37",
+  "active": "b069cb905ab93cce",
   "lastOpenFiles": [
-    "raw/articles/guardian-consumer-trust-ai-travel-agents-2026.md",
-    "concepts/algorithmic-collusion-pricing.md",
-    "index.md",
-    "Agentic Commerce Wiki Monitor — Report.md",
-    "log.md",
-    "UK Consumer Harms Weekly Research Review.md",
-    "Untitled 1.base",
-    "Untitled.canvas",
-    "Untitled.base",
-    "tech-monitor-agentic-commerce-prompt.md",
-    "summaries/mills-2026-review-summary.md",
-    "entities/beuc.md",
-    "notes/Online-Choice-Architecture-and-Dark-Patterns-in-the-UK.md",
-    "plan_ofcom_dashboard.md",
-    "SCHEMA.md",
-    "2026-06-23.md",
-    "2026-06-26.md",
-    "concepts/conflict-of-interest-in-llm-deployment.md",
-    "summaries/agentic-commerce-deep-dive-fd-robonomics.md",
-    "concepts/agentic-commerce-tokenization.md",
-    "summaries/visa-mastercard-tokens-ai-commerce-summary.md",
-    "raw/articles/visa-mastercard-tokens-ai-commerce-2026.md",
-    "concepts/provenance-representation-forms.md",
-    "concepts/evidence-tracing-vs-execution-provenance.md",
-    "concepts/memory-provenance.md",
-    "concepts/provenance-relations-for-llm-agents.md",
-    "concepts/agent-provenance-taxonomy.md",
-    "summaries/arxiv-2606.04990v1-evidence-tracing-llm-agents-summary.md",
-    "raw/papers/arxiv-2606.04990v1-evidence-tracing-execution-provenance-llm-agents.md",
-    "raw/papers/2606.19116.txt",
-    "raw/papers/2605.16064.txt",
-    "raw/papers/2606.10711.txt",
-    "raw/papers/2606.23491.txt",
-    "raw/papers/2605.07012.txt",
-    "raw/papers/2605.10059.txt",
-    "raw/papers/2605.27593.txt",
-    "raw/papers/2605.10440.txt"
+    "content/Untitled 1.base",
+    "content/Untitled.canvas",
+    "content/Untitled.base",
+    "content/tech-monitor-uk-consumer-harms-prompt.md",
+    "content/tech-monitor-agentic-commerce-prompt.md",
+    "content/SCHEMA.md",
+    "content/log.md",
+    "content/INGESTION_PLAN.md",
+    "content/index.md",
+    "content/_templates/summary.md",
+    "content/_templates/query.md",
+    "content/_templates/concept.md",
+    "content/_templates/entity.md",
+    "content/_templates/comparison.md",
+    "content/_templates",
+    "content/summaries/xu-2025-governance-first-agent-engineering.md",
+    "content/summaries/x402-measurement-2607.12575.md",
+    "content/summaries/x402-agentic-commerce-audit-ling-2026.md",
+    "content/summaries/wu-2026-ads-in-ai-chatbots.md",
+    "content/summaries/wu-2026-ads-in-ai-chatbots-critical-appraisal.md",
+    "content/summaries/when-agents-lie-2607.05132.md",
+    "content/summaries/weekly-review-2026-07-27.md",
+    "content/summaries/weekly-review-2026-07-20.md",
+    "content/summaries/wear-any-way-virtual-tryon-2403.12965.md",
+    "content/summaries/warp-deep-research-poisoning-zhang-2026.md",
+    "content/summaries/voluntary-collusion-with-secret-tools-in-competing-llm-agents.md",
+    "content/summaries/vitabench-real-world-2509.26490.md",
+    "content/summaries/visa-mastercard-tokens-ai-commerce-summary.md",
+    "content/summaries/ventirozos-shardlow-2026-micro-transaction-agentic-ecommerce.md",
+    "content/summaries",
+    "content/raw/papers/the-mills-review.pdf",
+    "content/raw/papers/memory-in-the-age-of-ai-agents-2025.pdf",
+    "content/raw/papers/frontier-app-scams-evaluation-2026.txt",
+    "content/raw/papers/frontier-app-scams-evaluation-2026.pdf",
+    "content/raw/papers/delegation-nation-2025.pdf",
+    "content/raw/papers/dark-patterns-llm-agents-2510.18113.txt",
+    "content/raw/papers/dark-patterns-llm-agents-2510.18113.pdf",
+    "Untitled.canvas"
   ]
 }

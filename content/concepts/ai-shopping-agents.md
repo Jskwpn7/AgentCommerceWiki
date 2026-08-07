@@ -79,20 +79,22 @@ When both seller and buyer delegate to AI agents, personalised pricing harm dyna
 
 ## Recent Regulatory Developments
 
-- [[GOV.UK 9 March 2026]] — CMA published "Agentic AI and consumers" — first UK government guidance on agentic AI: "agentic AI could drive a step change in how people use AI" — greater autonomy increases consequences of errors, manipulation risks, and loss of consumer agency; UK consumer law applies regardless of whether decisions are made by people or AI.
-- [[cma-ai-and-consumer-markets-2026]] — CMA "AI and Consumer Markets" discussion paper (July 2026) — first UK regulatory document to address competitive implications of agentic AI; flags concentration/gatekeeping risks at foundation model and platform layers; signals potential DMCC Act enforcement overlap.
-- [[FTC-suppression-of-accuracy-in-ai-systems-2026]] — FTC proposed policy statement (July 1, 2026) on AI accuracy and ideological manipulation. Establishes that systematically steering AI outputs away from accuracy violates Section 5 of the FTC Act.
-- [[ai-agent-act-warner-june-2026]] — Discussion draft proposes fiduciary-like duties for "custodial user agents" (including shopping agents) that access sensitive consumer data.
-- **UK Treasury Committee:** Called for FCA AI consumer protection guidance by end of 2026 — AI shopping agents are a key test case for this regulatory mandate.
+| [[GOV.UK 9 March 2026]] — CMA published "Agentic AI and consumers" — first UK government guidance on agentic AI: "agentic AI could drive a step change in how people use AI" — greater autonomy increases consequences of errors, manipulation risks, and loss of consumer agency; UK consumer law applies regardless of whether decisions are made by people or AI.
+| [[cma-ai-and-consumer-markets-2026]] — CMA "AI and Consumer Markets" discussion paper (July 2026) — first UK regulatory document to address competitive implications of agentic AI; flags concentration/gatekeeping risks at foundation model and platform layers; signals potential DMCC Act enforcement overlap.
+| [[FTC-suppression-of-accuracy-in-ai-systems-2026]] — FTC proposed policy statement (July 1, 2026) on AI accuracy and ideological manipulation. Establishes that systematically steering AI outputs away from accuracy violates Section 5 of the FTC Act.
+| [[ai-agent-act-warner-june-2026]] — Discussion draft proposes fiduciary-like duties for "custodial user agents" (including shopping agents) that access sensitive consumer data.
+| **UK Treasury Committee:** Called for FCA AI consumer protection guidance by end of 2026 — AI shopping agents are a key test case for this regulatory mandate.
+| **Square/Block (Aug 2026):** Launched ChatGPT Plugin indexing 150M Square seller listings + Claude API integration for agent-mediated discovery and purchase completion. This represents a major merchant-platform entering the agentic commerce layer directly. See [[summaries/block-chatgpt-claude-integration-2026]].
 
 ## Infrastructure Ecosystem
 
-| Provider | Component | Launch | Function |
-|----------|-----------|--------|----------|
+|| Provider | Component | Launch | Function |
+|----------|-----------|----------|----------|
 | Adyen | Agentic Feed/Cart/Payments | June 16, 2026 | Merchant-side agentic commerce API |
 | Visa/Mastercard | Token infrastructure | On-track for end of decade | Consumer-side payment tokenization |
 | OpenAI/Stripe | ACP (Shared Payment Tokens) | 2026 | Delegated shopping with user approval |
 | Google | AP2 (Intent Mandates) | 2026 | Pre-authorized rule-based spending |
+| Square/Block | ChatGPT Plugin + Claude API | 2026-08 | 150M seller network indexed into ChatGPT; purchase completion via agent |
 
 ## Connection to UK Policy
 
@@ -132,4 +134,5 @@ The UK's sector-led regulatory approach (DMCC Act 2024) provides the CMA with po
 - [[agentic-commerce-protocol-acp]] — OpenAI/Stripe protocol enabling agent purchases
 - [[ai-agents-sensitive-to-nudges-cherep-2026]] — Empirical evidence of agent hypersensitivity to nudges
 - [[x402-agentic-commerce-audit-ling-2026]] — First population-scale audit of agentic commerce authenticity
+- [[summaries/block-chatgpt-claude-integration-2026]] — Square/Block launches ChatGPT Plugin (150M sellers) + Claude API for agent-mediated discovery
 - **Chan, Salganik & Krueger (FAccT '23)** — "Harms from Increasingly Agentic Algorithmic Systems" identifies four characteristics of increasing agency (underspecification, directness of impact, goal-directedness, long-term planning) and three anticipated harms (systemic/delayed harms, collective disempowerment, emergent reward hacking). Shopping agents are a paradigmatic example: underspecified purchasing goals + direct payment execution + goal-optimised search + long-horizon preference learning create the perfect storm for reward hacking (e.g., an agent finding "cheapest" options that violate hidden safety, ethical, or quality criteria the consumer would care about) and collective disempowerment (consumers ceding purchasing decisions to systems whose search strategies are incomprehensible). DOI: 10.1145/3593013.3594033

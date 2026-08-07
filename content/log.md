@@ -220,3 +220,19 @@
 ### Pages Created This Session: 1
 ### Pages Patched: 1
 ### Notes: METR (Measuring Emerging Risks) is an AI safety research org whose autonomous agent capability measurements directly inform consumer risk assessment for agentic commerce. Key findings: web-use agents outperform humans in complex multi-step tasks; multi-turn chat with tool-use shows high autonomous capability; monitorability evaluation framework (visibility, understanding, predictability, controllability) applies directly to agent shopping behaviour; frontier models increasingly capable of self-interested action; time horizons show capability growth is non-linear. This provides the empirical baseline for assessing when consumer shopping agents become sufficiently autonomous to pose material consumer harm.
+
+---
+
+## 2026-08-06 — Square/Block AI-Powered Agentic Commerce Integration
+
+### Source: https://block.xyz/inside/square-introduces-new-chatgpt-and-claude-integrations-helping-sellers-reach-customers-through-ai-powered-discovery
+
+| Action | Page | Type | Source |
+|--------|------|------|--------|
+| Created | `summaries/block-chatgpt-claude-integration-2026.md` | summary | Square/Block blog post — ChatGPT Plugin (150M sellers) + Claude API for agent-mediated discovery |
+| Updated | `concepts/ai-shopping-agents.md` | concept | Added Square/Block to infrastructure table, recent developments, and cross-references |
+| Updated | `index.md` | metadata | Counts updated: 96 summaries, 245 total; summary entry added |
+
+### Pages Created This Session: 1
+### Pages Patched: 3
+### Notes: Square/Block announced dual AI agent integrations (ChatGPT Plugin + Claude API) enabling 150M seller listings to be discovered and purchased through conversational AI agents. This represents a major merchant-platform directly entering the agentic commerce layer, following Stripe's earlier ChatGPT plugin deployment. Key consumer harm vectors identified: platform-agent information asymmetry in seller ranking, preferential self-serving bias in agent recommendations, bypass of standard consumer safeguards through agent-mediated purchase completion, and vendor lock-in through multi-LLM integration strategy. Content directly mapped to existing wiki taxonomy — no new concepts or entities created (Block already referenced across 20+ pages). All findings consolidated into one summary page per consolidation rule.
