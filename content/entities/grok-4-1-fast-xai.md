@@ -1,5 +1,6 @@
 ---
-title: Grok 4.1 Fast (xAI)
+title: "Grok 4.1 Fast (xAI)"
+
 created: 2026-05-12
 updated: 2026-05-12
 type: entity

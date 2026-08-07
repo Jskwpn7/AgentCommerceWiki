@@ -1,5 +1,5 @@
 ---
-title: "Stop-the-Clock" — Delaying AI Act Implementation
+title: '"Stop-the-Clock" — Delaying AI Act Implementation'
 created: 2026-05-06
 updated: 2026-05-06
 type: concept

@@ -1,5 +1,6 @@
 ---
-title: Automated Compliance and the Regulation of AI — O'Keefe & Frazier (2026)
+title: "Automated Compliance and the Regulation of AI — O'Keefe & Frazier (2026)"
+
 created: 2026-05-15
 updated: 2026-05-15
 type: summary

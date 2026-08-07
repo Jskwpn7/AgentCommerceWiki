@@ -1,5 +1,6 @@
 ---
-title: Verifiable Credentials Data Model v2.0 (W3C Recommendation, May 2025)
+title: "Verifiable Credentials Data Model v2.0 (W3C Recommendation, May 2025)"
+
 created: 2026-07-13
 updated: 2026-07-13
 type: raw

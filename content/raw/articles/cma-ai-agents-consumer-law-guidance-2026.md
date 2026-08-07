@@ -1,5 +1,6 @@
 ---
-title: CMA "Complying with Consumer Law When Using AI Agents" Guidance
+title: '"CMA "Complying with Consumer Law When Using AI Agents" Guidance"'
+
 created: 2026-06-30
 updated: 2026-06-30
 type: raw-article

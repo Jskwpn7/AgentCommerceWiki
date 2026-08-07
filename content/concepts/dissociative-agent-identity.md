@@ -1,5 +1,6 @@
 ---
-title: Dissociative Agent Identity
+title: "Dissociative Agent Identity"
+
 created: 2026-07-14
 updated: 2026-07-14
 type: concept

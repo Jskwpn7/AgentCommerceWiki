@@ -1,7 +1,7 @@
 ---
 source_url: https://arxiv.org/abs/2606.10711
 source_pdf: https://arxiv.org/pdf/2606.10711
-id: arXiv:2606.10711v1
+id: "arXiv:2606.10711v1"
 title: "The Agentic Web Requires New Normative Infrastructure"
 authors: "Cameron Pattison (Vanderbilt), Matthew Boulos (Imbue AI), Noam Kolt (Hebrew U), Changbai Li (Oregon State), Tiziano Piccardi (JHU), Seth Lazar (JHU)"
 published: 2026-06-09

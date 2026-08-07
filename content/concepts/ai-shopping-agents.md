@@ -1,5 +1,6 @@
 ---
-title: AI Shopping Agents
+title: "AI Shopping Agents"
+
 created: 2026-07-11
 updated: 2026-07-12
 type: concept

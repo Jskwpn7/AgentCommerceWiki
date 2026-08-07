@@ -1,5 +1,6 @@
 ---
-title: long-horizon-personalization
+title: "long-horizon-personalization"
+
 type: concept
 created: 2026-06-05
 summary: Tracking how user preferences evolve across extended AI interactions over months; identifies "belief-update failure" as a distinct deficit from retrieval failure; benchmarks tested on 6-month histories with ~163K tokens

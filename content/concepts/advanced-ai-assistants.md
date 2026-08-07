@@ -1,5 +1,6 @@
 ---
-title: Advanced AI Assistants
+title: "Advanced AI Assistants"
+
 created: 2026-06-04
 updated: 2026-06-04
 type: concept

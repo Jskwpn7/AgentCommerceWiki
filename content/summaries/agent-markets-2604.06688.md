@@ -1,5 +1,6 @@
 ---
-title: When Agent Markets Arrive — Diagon Programmable Markets
+title: "When Agent Markets Arrive — Diagon Programmable Markets"
+
 created: 2026-07-14
 updated: 2026-07-14
 type: summary

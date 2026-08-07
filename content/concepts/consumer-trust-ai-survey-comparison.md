@@ -1,5 +1,6 @@
 ---
-title: AI Agent Consumer Trust — Cross-Jurisdictional Survey Comparison
+title: "AI Agent Consumer Trust — Cross-Jurisdictional Survey Comparison"
+
 created: 2026-07-14
 updated: 2026-07-14
 type: summary

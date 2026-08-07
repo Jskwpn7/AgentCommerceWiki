@@ -1,5 +1,6 @@
 ---
-title: Memory in the Age of AI Agents: A Survey
+title: "Memory in the Age of AI Agents: A Survey"
+
 source_url: https://arxiv.org/abs/2512.13564
 ingested: 2026-05-20
 pdf: raw/papers/memory-in-the-age-of-ai-agents-2025.pdf

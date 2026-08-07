@@ -1,5 +1,6 @@
 ---
-title: Clicking with Caution
+title: "Clicking with Caution"
+
 created: 2026-07-13
 updated: 2026-07-13
 type: entity

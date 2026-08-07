@@ -1,5 +1,6 @@
 ---
-title: EComAgentBench — Benchmarking Shopping Agents on Long-Horizon Tasks
+title: "EComAgentBench — Benchmarking Shopping Agents on Long-Horizon Tasks"
+
 created: 2026-06-30
 updated: 2026-06-30
 type: raw-article

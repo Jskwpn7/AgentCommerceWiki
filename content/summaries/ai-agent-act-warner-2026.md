@@ -1,5 +1,6 @@
 ---
-title: AI AGENT Act (Warner, 2026) — Discussion Draft
+title: "AI AGENT Act (Warner, 2026) — Discussion Draft"
+
 created: 2026-07-11
 updated: 2026-07-11
 type: summary

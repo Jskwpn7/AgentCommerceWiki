@@ -1,5 +1,6 @@
 ---
-title: OECD AI Markets Policy Brief (June 2026)
+title: "OECD AI Markets Policy Brief (June 2026)"
+
 created: 2026-07-14
 updated: 2026-07-14
 type: entity

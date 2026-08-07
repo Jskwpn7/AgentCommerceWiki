@@ -1,5 +1,6 @@
 ---
-title: EU AI Act — Artificial Intelligence Act
+title: "EU AI Act — Artificial Intelligence Act"
+
 created: 2026-05-06
 updated: 2026-05-06
 type: entity

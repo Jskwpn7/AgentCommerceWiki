@@ -1,5 +1,6 @@
 ---
-title: Agentic Payments Are Here. The Governance Stack Is Not. (The AI Innovator)
+title: "Agentic Payments Are Here. The Governance Stack Is Not. (The AI Innovator)"
+
 created: 2026-07-13
 updated: 2026-07-13
 type: summary

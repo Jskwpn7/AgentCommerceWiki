@@ -1,5 +1,6 @@
 ---
-title: Adyen Agentic — Payment Infrastructure for AI Commerce
+title: "Adyen Agentic — Payment Infrastructure for AI Commerce"
+
 created: 2026-07-11
 updated: 2026-07-11
 type: entity

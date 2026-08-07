@@ -1,5 +1,6 @@
 ---
-title: AI Agents in Markets
+title: "AI Agents in Markets"
+
 created: 2026-05-12
 updated: 2026-05-12
 type: concept

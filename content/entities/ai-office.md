@@ -1,5 +1,6 @@
 ---
-title: AI Office — European Commission AI Office
+title: "AI Office — European Commission AI Office"
+
 created: 2026-05-06
 updated: 2026-05-06
 type: entity

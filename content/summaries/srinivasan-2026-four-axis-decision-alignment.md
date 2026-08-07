@@ -1,5 +1,6 @@
 ---
-title: srinivasan-2026-four-axis-decision-alignment
+title: "srinivasan-2026-four-axis-decision-alignment"
+
 type: summary
 source: https://arxiv.org/abs/2604.19457
 arxiv: 2604.19457

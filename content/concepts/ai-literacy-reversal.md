@@ -1,5 +1,6 @@
 ---
-title: AI Literacy Obligation Reversal
+title: "AI Literacy Obligation Reversal"
+
 created: 2026-05-06
 updated: 2026-05-06
 type: concept

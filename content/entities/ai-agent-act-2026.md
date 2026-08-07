@@ -1,5 +1,6 @@
 ---
-title: AI AGENT Act (Warner, 2026) — Entity Page
+title: "AI AGENT Act (Warner, 2026) — Entity Page"
+
 created: 2026-07-11
 updated: 2026-07-11
 type: entity

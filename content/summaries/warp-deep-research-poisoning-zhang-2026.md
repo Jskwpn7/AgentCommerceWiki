@@ -1,5 +1,6 @@
 ---
-title: WARP Attack — Deep-Research Agents Can Be Poisoned via User-Generated Content (Zhang, Triedman & Shmatikov, 2026)
+title: "WARP Attack — Deep-Research Agents Can Be Poisoned via User-Generated Content (Zhang, Triedman & Shmatikov, 2026)"
+
 created: 2026-07-01
 updated: 2026-07-01
 type: summary

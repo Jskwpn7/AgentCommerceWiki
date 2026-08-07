@@ -1,5 +1,6 @@
 ---
-title: Agentic Relationship Harm
+title: "Agentic Relationship Harm"
+
 created: 2026-07-14
 updated: 2026-07-14
 type: concept

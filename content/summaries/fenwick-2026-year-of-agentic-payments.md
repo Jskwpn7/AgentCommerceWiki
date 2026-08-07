@@ -1,5 +1,6 @@
 ---
-title: Is 2026 the Year of Agentic Payments? (Fenwick & West)
+title: "Is 2026 the Year of Agentic Payments? (Fenwick & West)"
+
 created: 2026-07-13
 updated: 2026-07-13
 type: summary

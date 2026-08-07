@@ -1,5 +1,6 @@
 ---
-title: Decentralized Identifiers (DIDs) v1.0 (W3C Recommendation, July 2022)
+title: "Decentralized Identifiers (DIDs) v1.0 (W3C Recommendation, July 2022)"
+
 created: 2026-07-13
 updated: 2026-07-13
 type: raw

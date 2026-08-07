@@ -1,5 +1,6 @@
 ---
-title: FTC Proposed Policy Statement on AI Accuracy (Suppression of Accuracy)
+title: "FTC Proposed Policy Statement on AI Accuracy (Suppression of Accuracy)"
+
 created: 2026-07-11
 updated: 2026-07-11
 type: summary

@@ -1,5 +1,6 @@
 ---
-title: Digital Omnibus on AI — EU Simplification Package
+title: "Digital Omnibus on AI — EU Simplification Package"
+
 created: 2026-05-06
 updated: 2026-05-06
 type: entity

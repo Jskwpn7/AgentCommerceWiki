@@ -1,5 +1,6 @@
 ---
-title: Enabling Open Finance in EMDEs: Incentives, Liability, and Performance Measurement (June 2026)
+title: "Enabling Open Finance in EMDEs: Incentives, Liability, and Performance Measurement (June 2026)"
+
 created: 2026-07-13
 updated: 2026-07-13
 type: summary

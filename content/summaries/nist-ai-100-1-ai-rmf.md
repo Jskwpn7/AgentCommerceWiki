@@ -1,5 +1,6 @@
 ---
-title: NIST AI Risk Management Framework (AI RMF 1.0)
+title: "NIST AI Risk Management Framework (AI RMF 1.0)"
+
 created: 2026-07-04
 updated: 2026-07-04
 type: summary

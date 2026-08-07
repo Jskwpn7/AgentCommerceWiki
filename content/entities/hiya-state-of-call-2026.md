@@ -1,5 +1,6 @@
 ---
-title: Hiya "State of the Call 2026" Deepfake Report
+title: '"Hiya "State of the Call 2026" Deepfake Report"'
+
 created: 2026-07-14
 updated: 2026-07-14
 type: entity

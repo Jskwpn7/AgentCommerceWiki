@@ -1,5 +1,6 @@
 ---
-title: Stateless Decision Memory for Enterprise AI Agents
+title: "Stateless Decision Memory for Enterprise AI Agents"
+
 created: 2026-06-05
 updated: 2026-06-05
 type: summary

@@ -1,5 +1,6 @@
 ---
-title: Dark Patterns in AI Chatbots — CDT Taxonomy (Joshi, Luria, Adjagbodjou, 2026)
+title: "Dark Patterns in AI Chatbots — CDT Taxonomy (Joshi, Luria, Adjagbodjou, 2026)"
+
 created: 2026-07-11
 updated: 2026-07-11
 type: summary

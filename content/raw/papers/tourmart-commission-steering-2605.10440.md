@@ -1,7 +1,7 @@
 ---
 source_url: https://arxiv.org/abs/2605.10440
 source_pdf: https://arxiv.org/pdf/2605.10440
-id: arXiv:2605.10440v1
+id: "arXiv:2605.10440v1"
 title: "TourMart: A Parametric Audit Instrument for Commission Steering in LLM Travel Agents"
 authors: Yao Liu (Chengdu University of Technology; Universiti Sains Malaysia)
 published: 2026-05-11

@@ -1,5 +1,6 @@
 ---
-title: DRCF "Consumer Interest and AI" Call for Input
+title: '"DRCF "Consumer Interest and AI" Call for Input"'
+
 created: 2026-06-30
 updated: 2026-06-30
 type: raw-article

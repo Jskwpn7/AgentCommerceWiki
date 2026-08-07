@@ -1,5 +1,6 @@
 ---
-title: Delegation Nation — Comprehensive Research on Advanced AI Assistants
+title: "Delegation Nation — Comprehensive Research on Advanced AI Assistants"
+
 created: 2026-06-05
 updated: 2026-06-05
 type: summary

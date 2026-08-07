@@ -1,5 +1,6 @@
 ---
-title: Checkout.com Agentic Commerce Survey 2026
+title: "Checkout.com Agentic Commerce Survey 2026"
+
 created: 2026-07-11
 updated: 2026-07-11
 type: summary

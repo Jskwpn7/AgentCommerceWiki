@@ -1,5 +1,6 @@
 ---
-title: Clicking with Caution: How Scam Adverts Are Damaging the Online Economy
+title: "Clicking with Caution: How Scam Adverts Are Damaging the Online Economy"
+
 authors: [Public First]
 commissioned_by: Revolut, Stonehaven
 created: 2026-07-13

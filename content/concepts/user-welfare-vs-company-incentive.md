@@ -1,5 +1,6 @@
 ---
-title: User Welfare vs. Company Incentive in AI Systems
+title: "User Welfare vs. Company Incentive in AI Systems"
+
 created: 2026-05-12
 updated: 2026-05-12
 type: concept

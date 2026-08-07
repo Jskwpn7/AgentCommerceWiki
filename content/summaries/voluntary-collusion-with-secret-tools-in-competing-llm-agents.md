@@ -1,7 +1,7 @@
 ---
 title: "Voluntary Collusion with Secret Tools in Competing LLM Agents"
 type: research-summary
-source: arXiv:2605.27593v1
+source: "arXiv:2605.27593v1"
 authors: Xijie Zeng, Frank Rudzicz
 affiliation: Dalhousie University / Vector Institute
 date: 2026-05-26

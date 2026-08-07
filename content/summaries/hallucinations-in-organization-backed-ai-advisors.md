@@ -1,7 +1,7 @@
 ---
 title: "Hallucinations in Organization-backed AI advisors: Evidence about Skepticism, Verification, and Reliance"
 type: research-summary
-source: arXiv:2606.23491v1
+source: "arXiv:2606.23491v1"
 authors: Simon J. Blanchard, Aaron M. Garvey, Laura O'Laughlin
 affiliation: Georgetown, U. Tennessee, Analysis Group
 date: 2026-06-22

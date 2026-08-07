@@ -1,6 +1,7 @@
 ---
 type: monitor
-title: Agentic Commerce Wiki Monitor — 2026-07-19
+title: "Agentic Commerce Wiki Monitor — 2026-07-19"
+
 created: 2026-07-19
 sources:
   - https://www.emarketer.com/content/how-agentic-ai-will-reshape-shopping-2026

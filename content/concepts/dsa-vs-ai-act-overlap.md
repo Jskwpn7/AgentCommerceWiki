@@ -1,5 +1,6 @@
 ---
-title: DSA vs AI Act Regulatory Overlap
+title: "DSA vs AI Act Regulatory Overlap"
+
 created: 2026-06-22
 updated: 2026-06-22
 type: concept

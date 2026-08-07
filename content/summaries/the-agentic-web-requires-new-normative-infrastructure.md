@@ -1,7 +1,7 @@
 ---
 title: "The Agentic Web Requires New Normative Infrastructure"
 type: research-summary
-source: arXiv:2606.10711v1
+source: "arXiv:2606.10711v1"
 authors: Cameron Pattison, Matthew Boulos, Noam Kolt, Changbai Li, Tiziano Piccardi, Seth Lazar
 affiliation: Vanderbilt, Imbue AI, Hebrew U, Oregon State, JHU
 date: 2026-06-09

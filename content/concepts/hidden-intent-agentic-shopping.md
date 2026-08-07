@@ -1,5 +1,6 @@
 ---
-title: Hidden Intent in Agentic Shopping
+title: "Hidden Intent in Agentic Shopping"
+
 created: 2026-06-30
 updated: 2026-06-30
 type: concept

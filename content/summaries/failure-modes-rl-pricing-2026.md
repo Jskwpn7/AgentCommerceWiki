@@ -1,5 +1,6 @@
 ---
-title: Failure Modes of Deep Multi-Agent RL in Asynchronous Pricing
+title: "Failure Modes of Deep Multi-Agent RL in Asynchronous Pricing"
+
 created: 2026-07-14
 updated: 2026-07-14
 type: summary

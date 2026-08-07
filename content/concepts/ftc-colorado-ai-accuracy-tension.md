@@ -1,5 +1,6 @@
 ---
-title: FTC vs Colorado AI Act — Accuracy vs Fairness Tension
+title: "FTC vs Colorado AI Act — Accuracy vs Fairness Tension"
+
 created: 2026-07-14
 updated: 2026-07-14
 type: summary

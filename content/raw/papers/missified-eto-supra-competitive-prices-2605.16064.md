@@ -1,7 +1,7 @@
 ---
 source_url: https://arxiv.org/abs/2605.16064
 source_pdf: https://arxiv.org/pdf/2605.16064
-id: arXiv:2605.16064v2
+id: "arXiv:2605.16064v2"
 title: "Misspecified Estimate-then-Optimize Leads to Supra-Competitive Prices"
 authors: Jackie Baek, Vivek F. Farias, Farrell Wu
 published: 2026-05-15

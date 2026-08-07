@@ -1,5 +1,6 @@
 ---
-title: DynamicMem — A Long-Horizon Memory Benchmark in Real-World Settings
+title: "DynamicMem — A Long-Horizon Memory Benchmark in Real-World Settings"
+
 created: 2026-06-30
 updated: 2026-06-30
 type: raw-article

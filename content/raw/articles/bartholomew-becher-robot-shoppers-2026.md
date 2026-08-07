@@ -1,5 +1,6 @@
 ---
-title: Consumer Protection Law Was Not Built for Robot Shoppers
+title: "Consumer Protection Law Was Not Built for Robot Shoppers"
+
 created: 2026-07-14
 updated: 2026-07-14
 type: article

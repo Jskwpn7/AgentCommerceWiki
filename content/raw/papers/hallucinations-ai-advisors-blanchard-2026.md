@@ -1,7 +1,7 @@
 ---
 source_url: https://arxiv.org/abs/2606.23491
 source_pdf: https://arxiv.org/pdf/2606.23491
-id: arXiv:2606.23491v1
+id: "arXiv:2606.23491v1"
 title: "Hallucinations in Organization-backed AI advisors: Evidence about Skepticism, Verification, and Reliance in Goal-Directed Use"
 authors: Simon J. Blanchard (Georgetown), Aaron M. Garvey (U. Tennessee), Laura O'Laughlin (Analysis Group)
 published: 2026-06-22

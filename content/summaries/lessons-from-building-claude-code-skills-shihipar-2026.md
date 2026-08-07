@@ -1,5 +1,6 @@
 ---
-title: Lessons from Building Claude Code: How We Use Skills
+title: "Lessons from Building Claude Code: How We Use Skills"
+
 created: 2026-06-10
 updated: 2026-06-10
 type: summary

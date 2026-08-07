@@ -1,7 +1,7 @@
 ---
 title: "Towards an Agent-First Web: Redesigning the Web for AI Agents"
 type: research-summary
-source: arXiv:2606.19116v1
+source: "arXiv:2606.19116v1"
 authors: Eranga Bandara, Ross Gore, Ravi Mukkamala, et al. (20 authors)
 affiliation: Multi-institutional (Sri Lanka, Australia, India, etc.)
 date: 2026-06-17

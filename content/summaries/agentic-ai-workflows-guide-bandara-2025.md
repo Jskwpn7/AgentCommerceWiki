@@ -1,5 +1,6 @@
 ---
-title: A Practical Guide for Production-Grade Agentic AI Workflows — Bandara et al. (2025)
+title: "A Practical Guide for Production-Grade Agentic AI Workflows — Bandara et al. (2025)"
+
 created: 2026-05-16
 updated: 2026-05-16
 type: summary

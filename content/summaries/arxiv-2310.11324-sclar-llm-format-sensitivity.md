@@ -1,5 +1,6 @@
 ---
-title: Quantifying LLMs' Sensitivity to Spurious Features in Prompt Design (Sclar et al., ICLR 2024)
+title: "Quantifying LLMs' Sensitivity to Spurious Features in Prompt Design (Sclar et al., ICLR 2024)"
+
 created: 2026-07-13
 updated: 2026-07-13
 type: summary

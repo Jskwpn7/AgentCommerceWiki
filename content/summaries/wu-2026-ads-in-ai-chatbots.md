@@ -1,5 +1,6 @@
 ---
-title: Ads in AI Chatbots? An Analysis of How LLMs Navigate Conflicts of Interest — Wu et al. (2026)
+title: "Ads in AI Chatbots? An Analysis of How LLMs Navigate Conflicts of Interest — Wu et al. (2026)"
+
 created: 2026-05-12
 updated: 2026-05-16
 type: summary

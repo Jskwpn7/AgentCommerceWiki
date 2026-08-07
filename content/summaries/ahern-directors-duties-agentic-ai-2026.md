@@ -5,7 +5,7 @@ date_added: 2026-06-23
 date_original: 2026-04-09
 source: [[ahern-6842800-directors-duties-agentic-ai-2026]]
 doi: 10.1017/cfl.2026.10049
-journal: Cambridge Forum on AI: Law and Governance
+journal: "Cambridge Forum on AI: Law and Governance"
 authors: Deirdre Ahern
 year: 2026
 ---

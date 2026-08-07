@@ -1,5 +1,6 @@
 ---
-title: Consumer Rights (UK)
+title: "Consumer Rights (UK)"
+
 created: 2026-06-22
 updated: 2026-06-22
 type: concept

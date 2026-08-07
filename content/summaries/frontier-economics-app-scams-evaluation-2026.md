@@ -1,5 +1,6 @@
 ---
-title: Frontier Economics — APP Scam Policies Evaluation (Technical Report)
+title: "Frontier Economics — APP Scam Policies Evaluation (Technical Report)"
+
 created: 2026-07-02
 updated: 2026-07-02
 type: entity

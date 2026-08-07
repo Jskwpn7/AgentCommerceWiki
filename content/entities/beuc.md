@@ -1,5 +1,6 @@
 ---
-title: BEUC — The European Consumer Organisation
+title: "BEUC — The European Consumer Organisation"
+
 created: 2026-05-06
 updated: 2026-05-06
 type: entity

@@ -1,5 +1,6 @@
 ---
-title: FTC Proposed Policy Statement on AI Accuracy (Suppression of Accuracy) — Entity
+title: "FTC Proposed Policy Statement on AI Accuracy (Suppression of Accuracy) — Entity"
+
 created: 2026-07-11
 updated: 2026-07-11
 type: entity

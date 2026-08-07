@@ -1,5 +1,6 @@
 ---
-title: NIST — National Institute of Standards and Technology
+title: "NIST — National Institute of Standards and Technology"
+
 created: 2026-07-04
 updated: 2026-07-04
 type: entity

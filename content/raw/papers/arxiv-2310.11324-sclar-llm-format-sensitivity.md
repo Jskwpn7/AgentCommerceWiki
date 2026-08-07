@@ -1,6 +1,7 @@
 ---
 source_url: https://arxiv.org/abs/2310.11324
-title: Quantifying Language Models' Sensitivity to Spurious Features in Prompt Design
+title: "Quantifying Language Models' Sensitivity to Spurious Features in Prompt Design"
+
 ingested: 2026-07-13
 sha256: arxiv-2310.11324
 tags: [llm-evaluation, prompt-engineering, format-sensitivity, reproducibility, methodology]

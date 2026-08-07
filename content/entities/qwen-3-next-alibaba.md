@@ -1,5 +1,6 @@
 ---
-title: Qwen 3 Next (Alibaba)
+title: "Qwen 3 Next (Alibaba)"
+
 created: 2026-05-12
 updated: 2026-05-12
 type: entity

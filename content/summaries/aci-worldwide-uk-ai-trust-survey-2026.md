@@ -1,5 +1,6 @@
 ---
-title: ACI Worldwide / YouGov UK AI Shopping Agent Trust Survey 2026
+title: "ACI Worldwide / YouGov UK AI Shopping Agent Trust Survey 2026"
+
 created: 2026-07-11
 updated: 2026-07-11
 type: summary

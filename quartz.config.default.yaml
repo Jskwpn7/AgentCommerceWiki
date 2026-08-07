@@ -9,9 +9,9 @@ configuration:
   locale: en-US
   baseUrl: quartz.jzhao.xyz
   ignorePatterns:
-    - private
-    - templates
-    - .obsidian
+    - private/**
+    - _templates/**
+    - .obsidian/**
   theme:
     fontOrigin: googleFonts
     cdnCaching: true

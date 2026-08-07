@@ -1,5 +1,6 @@
 ---
-title: AI Governance Centralisation — AI Office Powers
+title: "AI Governance Centralisation — AI Office Powers"
+
 created: 2026-05-06
 updated: 2026-05-06
 type: concept

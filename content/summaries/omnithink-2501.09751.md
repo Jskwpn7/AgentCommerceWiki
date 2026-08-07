@@ -1,5 +1,6 @@
 ---
-title: OmniThink — Expanding Knowledge Boundaries in Machine Writing through Thinking (Xi et al., 2025)
+title: "OmniThink — Expanding Knowledge Boundaries in Machine Writing through Thinking (Xi et al., 2025)"
+
 created: 2026-07-02
 updated: 2026-07-02
 type: summary

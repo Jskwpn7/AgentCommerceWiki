@@ -1,5 +1,6 @@
 ---
-title: Agentic Commerce Deep Dive (II) — Implications, FD, Robonomics
+title: "Agentic Commerce Deep Dive (II) — Implications, FD, Robonomics"
+
 created: 2026-06-05
 updated: 2026-06-05
 type: summary

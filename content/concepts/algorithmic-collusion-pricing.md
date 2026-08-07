@@ -1,5 +1,6 @@
 ---
-title: Algorithmic Collusion and Pricing
+title: "Algorithmic Collusion and Pricing"
+
 created: 2026-06-22
 updated: 2026-06-22
 type: concept

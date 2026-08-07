@@ -1,5 +1,6 @@
 ---
-title: Digital Public Infrastructure and Digital Financial Services: Convergence, Landscape and Regulatory Considerations (July 2025)
+title: "Digital Public Infrastructure and Digital Financial Services: Convergence, Landscape and Regulatory Considerations (July 2025)"
+
 created: 2026-07-13
 updated: 2026-07-13
 type: raw

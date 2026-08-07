@@ -1,7 +1,7 @@
 ---
 title: "Misspecified Estimate-then-Optimize Leads to Supra-Competitive Prices"
 type: research-summary
-source: arXiv:2605.16064v2
+source: "arXiv:2605.16064v2"
 authors: Jackie Baek, Vivek F. Farias, Farrell Wu
 affiliation: Stanford GSB
 date: 2026-05-15

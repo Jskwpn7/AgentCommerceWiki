@@ -1,5 +1,6 @@
 ---
-title: Delegation Nation — Advanced AI Assistants and Why They Matter
+title: "Delegation Nation — Advanced AI Assistants and Why They Matter"
+
 created: 2026-06-04
 updated: 2026-06-04
 type: summary

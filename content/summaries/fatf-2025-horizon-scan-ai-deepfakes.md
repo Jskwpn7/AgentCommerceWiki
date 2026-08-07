@@ -1,5 +1,6 @@
 ---
-title: FATF Horizon Scan: AI and Deepfakes (2025)
+title: "FATF Horizon Scan: AI and Deepfakes (2025)"
+
 created: 2026-07-13
 updated: 2026-07-13
 type: summary

@@ -1,5 +1,6 @@
 ---
-title: SME Exemption Expansion to Mid-Cap Companies
+title: "SME Exemption Expansion to Mid-Cap Companies"
+
 created: 2026-05-06
 updated: 2026-05-06
 type: concept

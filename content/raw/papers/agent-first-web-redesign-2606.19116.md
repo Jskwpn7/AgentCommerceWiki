@@ -1,7 +1,7 @@
 ---
 source_url: https://arxiv.org/abs/2606.19116
 source_pdf: https://arxiv.org/pdf/2606.19116
-id: arXiv:2606.19116v1
+id: "arXiv:2606.19116v1"
 title: "Towards an Agent-First Web: Redesigning the Web for AI Agents"
 authors: "Eranga Bandara, Ross Gore, Ravi Mukkamala, Asanga Gunaratna, Safdar H. Bouk, Xueping Liang, Peter Foytik, Abdul Rahman, Sachini Rajapakse, Isurunima Kularathna, Pramoda Karunarathna, Chalani Rajapakse, Ng Wee Keong, Kasun De Zoysa, Tharaka Hewa, Amin Hass, Wathsala Herath, Aruna Withanage, Nilaan Loganathan, Atmaram Yarlagadda, Sachin Shetty"
 published: 2026-06-17

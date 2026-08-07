@@ -1,5 +1,6 @@
 ---
-title: The Mills Review
+title: "The Mills Review"
+
 created: 2026-07-06
 updated: 2026-07-06
 type: entity

@@ -1,7 +1,7 @@
 ---
 title: "Exploring the 'Banality' of Deception in Generative AI"
 type: research-summary
-source: arXiv:2605.07012v1
+source: "arXiv:2605.07012v1"
 authors: Ishitaa Narwane, Johanna Gunawan, Konrad Kollnig
 affiliation: Maastricht University
 date: 2026-05-07

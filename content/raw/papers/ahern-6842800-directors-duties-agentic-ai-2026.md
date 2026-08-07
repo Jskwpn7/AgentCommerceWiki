@@ -4,7 +4,7 @@ authors:
   - name: Deirdre Ahern
     affiliation: School of Law, Trinity College Dublin, Dublin, Ireland
     email: dahern@tcd.ie
-publication: Cambridge Forum on AI: Law and Governance
+publication: "Cambridge Forum on AI: Law and Governance"
 volume: 2
 article: e7
 pages: "1-24"

@@ -1,5 +1,6 @@
 ---
-title: GPT 5.1 (OpenAI)
+title: "GPT 5.1 (OpenAI)"
+
 created: 2026-05-12
 updated: 2026-05-12
 type: entity

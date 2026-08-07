@@ -1,5 +1,6 @@
 ---
-title: Online Choice Architecture and Dark Patterns in the UK
+title: "Online Choice Architecture and Dark Patterns in the UK"
+
 created: 2026-05-08
 updated: 2026-05-08
 type: summary

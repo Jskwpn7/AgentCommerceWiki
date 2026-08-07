@@ -1,5 +1,6 @@
 ---
-title: Hopper FTC Settlement ($35M) — Hidden Fees and Deceptive Practices
+title: "Hopper FTC Settlement ($35M) — Hidden Fees and Deceptive Practices"
+
 created: 2026-07-11
 updated: 2026-07-11
 type: summary

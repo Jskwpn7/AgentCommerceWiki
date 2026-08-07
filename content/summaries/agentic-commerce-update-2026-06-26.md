@@ -1,5 +1,6 @@
 ---
-title: Agentic Commerce Developments (June 2026)
+title: "Agentic Commerce Developments (June 2026)"
+
 created: 2026-06-26
 updated: 2026-06-26
 type: summary

@@ -1,5 +1,6 @@
 ---
-title: Conflict of Interest in LLM Deployment
+title: "Conflict of Interest in LLM Deployment"
+
 created: 2026-05-12
 updated: 2026-05-16
 type: concept

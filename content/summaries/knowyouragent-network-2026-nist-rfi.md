@@ -1,5 +1,6 @@
 ---
-title: Know Your Agent — NIST RFI and RFI Commentary (February 2026)
+title: "Know Your Agent — NIST RFI and RFI Commentary (February 2026)"
+
 created: 2026-07-13
 updated: 2026-07-13
 type: summary

@@ -1,5 +1,6 @@
 ---
-title: Institutional Design for AI Agents
+title: "Institutional Design for AI Agents"
+
 created: 2026-05-12
 updated: 2026-05-12
 type: concept

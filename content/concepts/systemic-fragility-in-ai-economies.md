@@ -1,5 +1,6 @@
 ---
-title: Systemic Fragility in AI Economies
+title: "Systemic Fragility in AI Economies"
+
 created: 2026-05-12
 updated: 2026-05-12
 type: concept

@@ -1,5 +1,6 @@
 ---
-title: Accelerating the Adoption of Software and AI Agent Identity and Authorization (NCCoE Concept Paper, February 2026)
+title: "Accelerating the Adoption of Software and AI Agent Identity and Authorization (NCCoE Concept Paper, February 2026)"
+
 created: 2026-07-13
 updated: 2026-07-13
 type: summary

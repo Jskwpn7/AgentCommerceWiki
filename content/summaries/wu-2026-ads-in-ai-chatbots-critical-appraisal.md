@@ -1,5 +1,6 @@
 ---
-title: Critical Appraisal: Ads in AI Chatbots (Wu et al., 2026)
+title: "Critical Appraisal: Ads in AI Chatbots (Wu et al., 2026)"
+
 created: 2026-05-12
 updated: 2026-05-12
 type: summary

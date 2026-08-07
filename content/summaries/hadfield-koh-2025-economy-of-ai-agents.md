@@ -1,5 +1,6 @@
 ---
-title: An Economy of AI Agents — Hadfield & Koh (2025)
+title: "An Economy of AI Agents — Hadfield & Koh (2025)"
+
 created: 2026-05-12
 updated: 2026-05-16
 type: summary

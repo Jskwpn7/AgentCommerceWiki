@@ -1,5 +1,6 @@
 ---
-title: AI Act Self-Exemption Loophole (Article 6(3))
+title: "AI Act Self-Exemption Loophole (Article 6(3))"
+
 created: 2026-05-06
 updated: 2026-05-06
 type: concept

@@ -1,5 +1,6 @@
 ---
-title: Checkout.com "Agentic Commerce 2026: The State of Consumer Demand and Merchant Readiness" Report
+title: '"Checkout.com "Agentic Commerce 2026: The State of Consumer Demand and Merchant Readiness" Report"'
+
 created: 2026-06-30
 updated: 2026-06-30
 type: raw-article

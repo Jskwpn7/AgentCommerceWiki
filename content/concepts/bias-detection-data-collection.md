@@ -1,5 +1,6 @@
 ---
-title: Bias Detection as Justification for Sensitive Data Processing
+title: "Bias Detection as Justification for Sensitive Data Processing"
+
 created: 2026-05-06
 updated: 2026-05-06
 type: concept

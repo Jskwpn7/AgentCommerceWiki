@@ -1,5 +1,6 @@
 ---
-title: ELEPHANT — Measuring Social Sycophancy in LLMs
+title: "ELEPHANT — Measuring Social Sycophancy in LLMs"
+
 created: 2026-06-22
 updated: 2026-06-22
 type: summary
