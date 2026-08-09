@@ -236,3 +236,42 @@
 ### Pages Created This Session: 1
 ### Pages Patched: 3
 ### Notes: Square/Block announced dual AI agent integrations (ChatGPT Plugin + Claude API) enabling 150M seller listings to be discovered and purchased through conversational AI agents. This represents a major merchant-platform directly entering the agentic commerce layer, following Stripe's earlier ChatGPT plugin deployment. Key consumer harm vectors identified: platform-agent information asymmetry in seller ranking, preferential self-serving bias in agent recommendations, bypass of standard consumer safeguards through agent-mediated purchase completion, and vendor lock-in through multi-LLM integration strategy. Content directly mapped to existing wiki taxonomy — no new concepts or entities created (Block already referenced across 20+ pages). All findings consolidated into one summary page per consolidation rule.
+
+---
+
+## 2026-08-08 — SpyderBot GEO Analytics Article Ingestion
+
+### Source: HackerNoon — "SpyderBot Earns a 96.53 Proof of Usefulness Score by Building Real-Time GEO Analytics to Track LLM Mentions"
+
+| Action | Page | Type | Source |
+|--------|------|------|--------|
+| Created | `raw/articles/spyderbot-geos-2026.md` | raw_article | HackerNoon interview (SpyderBot/Tuan Tran) |
+| Created | `summaries/spyderbot-geos-2026.md` | summary | HackerNoon interview — GEO analytics platform for LLM brand mentions |
+| Updated | `index.md` | metadata | Rebuilt index with accurate counts: 52 concepts, 27 entities, 155 summaries, 28 papers, 43 articles, 1 research, 2 standards = 308 total |
+
+### Pages Created This Session: 2
+### Pages Patched: 1
+
+### Notes: SpyderBot is a GEO (Generative Engine Optimization) analytics platform winner of HackerNoon's Proof of Usefulness Hackathon (Bright Data Award). Uses 20,000+ distributed LLM-bots to track brand visibility across ChatGPT, Gemini, Grok, Perplexity. Pre-launch, raising seed funding. Key finding: traditional analytics tools report zero LLM traffic despite brands appearing in LLM responses. Pilot data shows dramatic SEO-to-LLM visibility gaps (15% vs 60% LLM mention rates). Directly relevant to consumer harm domain as it represents the commercial tooling layer for GEO manipulation — brands optimising LLM citation rates to game AI recommendations. Maps to existing [[dark-patterns-choice-architecture]] research and [[summaries/safegeo-geo-risks-2606.28356]] (SafeGEO: GEO attacks promote flawed products by 83.2%). No new concept/entity pages created — content consolidated into one summary per consolidation rule. Index rebuilt from disk counts (was stale at 245 total).
+
+
+## 2026-08-08 — SpyderBot Technology Review & Build Analysis
+
+### Research: "SpyderBot Technology Review & Building Similar GEO Analytics Platform"
+
+| Action | Page | Type | Source |
+|--------|------|------|--------|
+| Created | `raw/research/spyderbot-technology-review-2026.md` | research | GEO analytics platform technology analysis, build guide, cost estimates, market landscape |
+
+### Key Findings from Research
+
+- **SpyderBot stack:** Bright Data (proxy/scraping) + Algolia (indexing) + 20,000+ bot network. Pre-launch, raising seed. Covers 7 LLMs.
+- **Main competitor — Profound:** $58.5M funding, 10+ engines, most feature-complete, $399+/mo, 400M+ prompt volume data, autonomous content generation.
+- **Market size:** GEO projected $33.7B by 2034, 50.5% CAGR. 35% of US consumers use AI at product discovery (vs 13.6% traditional search).
+- **Build cost estimate:** MVP ~$1,250–2,900/mo (solo dev), Production ~$17,700–58,700/mo. Annual run rate: $15K–35K (MVP) to $210K–700K (production).
+- **Biggest technical risk:** ChatGPT anti-automation — OpenAI actively blocks bots. Arms race with Bright Data, not sustainable without official API.
+- **Key risks:** LLM non-determinism, data quality/hallucination, ToS violations, cost scaling.
+- **Alternative:** Combination approach — DataForSEO (Google AI Overviews) + Claude/Gemini APIs + custom analytics layer = 80% of value at 20% cost.
+
+### Pages Created This Session: 1 (research doc)
+### Pages Patched: 1 (index.md — research count 1→2, total 308→309)
