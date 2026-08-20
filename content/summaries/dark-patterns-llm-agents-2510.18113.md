@@ -58,10 +58,10 @@ This research has direct relevance to several areas of consumer protection:
 
 ## Connection to Other Wiki Entries
 
-- [[dark-patterns]] — Definition and taxonomy of deceptive design patterns
-- [[automated-shopping]] — AI agent-mediated consumer transactions
-- [[CMA]] — UK competition and consumer authority
-- [[Consumer Protection from Unfair Trading Regulations 2008]] — UK regulatory framework
-- [[FTC]] — US Federal Trade Commission findings on deceptive design
-- [[subscription-traps]] — Ongoing subscription and cancellation harms
-- [[deceptive-steering]] — Algorithmic and UI-based consumer steering
+- [[dark-pattern]] — Definition and taxonomy of deceptive design patterns
+- automated-shopping — AI agent-mediated consumer transactions
+- CMA — UK competition and consumer authority
+- Consumer Protection from Unfair Trading Regulations 2008 — UK regulatory framework
+- FTC — US Federal Trade Commission findings on deceptive design
+- subscription-traps — Ongoing subscription and cancellation harms
+- deceptive-steering — Algorithmic and UI-based consumer steering

@@ -88,7 +88,7 @@ Relational manipulation creates unique evidence challenges:
 - [[agentic-relationship-harm.md]] — Concept page for this new harm category
 - [[dark-pattern.md]] — Relational manipulation extends dark patterns from UI to interpersonal interactions
 - [[when-agents-lie-2607.05132]] — Agent lying capability is a component of relational manipulation
-- [[deepfake-voice]] — Synthetic media can enable new forms of relational manipulation
+- deepfake-voice — Synthetic media can enable new forms of relational manipulation
 - [[consumer-rights]] — UK consumer rights framework gaps for agent-mediated interpersonal harm
 - [[banal-deception-llm-chatbots]] — Banal deception enables relational manipulation at scale
 

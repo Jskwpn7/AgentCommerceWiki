@@ -18,11 +18,11 @@ tags:
 summary: |
   Introduces FashionPose, first unified text-to-pose-to-relighting generation framework for fashion e-commerce. Given natural language description, predicts 2D pose, generates high-fidelity person images via diffusion model, then applies lightweight relighting. Enables accurate pose alignment, faithful garment rendering, and flexible lighting control. Provides practical solution for personalized virtual fashion display.
 concepts:
-  - [[virtual-try-on]]
-  - [[fashion-visualization]]
-  - [[text-to-image]]
-  - [[misleading-representation]]
-  - [[diffusion-models]]
+  - virtual-try-on
+  - fashion-visualization
+  - text-to-image
+  - misleading-representation
+  - diffusion-models
 ---
 
 ## Overview

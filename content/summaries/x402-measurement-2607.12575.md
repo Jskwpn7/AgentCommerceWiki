@@ -20,12 +20,12 @@ tags:
 summary: |
   First population-scale measurement of x402 protocol on Base blockchain (136.7M settlements, $44.1M over 280 days). Shows settlement count is largely manufactured: 21.2% fictitious, 63.78% internal settlement within linked cluster. Only $187K demonstrably reaches nameable services. 45.92% of value not provably manufactured. Settlement count measures manufacturability, not adoption.
 concepts:
-  - [[x402]]
-  - [[adoption-measurement]]
-  - [[settlement-analysis]]
-  - [[blockchain-analytics]]
-  - [[manufacturability]]
-  - [[agent-economy]]
+  - x402
+  - adoption-measurement
+  - settlement-analysis
+  - blockchain-analytics
+  - manufacturability
+  - agent-economy
 ---
 
 ## Overview

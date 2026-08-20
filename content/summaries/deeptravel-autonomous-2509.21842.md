@@ -24,12 +24,12 @@ tags:
 summary: |
   DeepTravel is an end-to-end agentic RL framework for autonomous travel planning. Builds travel sandbox by caching transportation, accommodation, and POI data. Hierarchical reward modeling: trajectory-level verifier checks spatiotemporal feasibility; turn-level verifier validates detail consistency. Deployed in DiDi Enterprise Solutions with 82% itinerary generation accuracy over 3-month online test. Small LLMs (Qwen3-32B) significantly outperform frontier LLMs (OpenAI o1/o3, DeepSeek-R1).
 concepts:
-  - [[travel-planning]]
-  - [[agentic-rl]]
-  - [[deep-reinforcement-learning]]
-  - [[hierarchical-reward]]
-  - [[autonomous-agents]]
-  - [[ddci-enterprise]]
+  - travel-planning
+  - agentic-rl
+  - deep-reinforcement-learning
+  - hierarchical-reward
+  - autonomous-agents
+  - ddci-enterprise
 ---
 
 ## Overview

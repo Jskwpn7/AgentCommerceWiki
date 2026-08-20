@@ -46,10 +46,10 @@ This paper investigates the behavior of autonomous AI agents acting on behalf of
 ## Connection to Other Wiki Entries
 
 - [[agentic-commerce-research-2026]]
-- [[bias-in-ai]]
-- [[opaque-procurement]]
+- bias-in-ai
+- opaque-procurement
 - [[platform-agent-asymmetry]]
-- [[model-dependence]]
+- model-dependence
 
 ## Key Findings
 

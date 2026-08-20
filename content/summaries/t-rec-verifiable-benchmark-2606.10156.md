@@ -16,10 +16,10 @@ tags:
 summary: |
   Introduces τ-Rec, a benchmark for agentic recommender systems that replaces subjective "LLM-as-a-judge" evaluation with verifiable rewards and a reveal-tagged elicitation (RTE) mechanism. Tests agents against structured catalog predicates with pass^k reliability metric. Finding: even best models achieve only ~57% at pass^1 and ~35% at pass^4.
 concepts:
-  - [[agentic-recommender]]
-  - [[verifiable-evaluation]]
-  - [[benchmark]]
-  - [[llm-judge]]
+  - agentic-recommender
+  - verifiable-evaluation
+  - benchmark
+  - llm-judge
 ---
 
 ## Overview
@@ -47,4 +47,4 @@ This benchmark reveals that even frontier models struggle with consistent reason
 ## Citations
 
 - Paper: [[arXiv:2606.10156]](https://arxiv.org/abs/2606.10156)
-- Code: [[github.com/nbharaths/tau-rec]](https://github.com/nbharaths/tau-rec)
+- Code: [github.com/nbharaths/tau-rec](https://github.com/nbharaths/tau-rec)

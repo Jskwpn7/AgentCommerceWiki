@@ -22,10 +22,10 @@ tags:
 summary: |
   Introduces a modular two-agent simulation framework for evaluating conversational shopping assistant architectures. Uses 2011 conversations across 14 persona buckets. Finds rolling-window memory outperforms intent-extraction memory (35% faster). Reduces failure rates by 62% through targeted fixes. Documents systematic disagreement between LLM judges (Gemini rewards process, Claude demands outcomes).
 concepts:
-  - [[simulated-search]]
-  - [[buyer-agent]]
-  - [[memory-mechanisms]]
-  - [[llm-judge]]
+  - simulated-search
+  - buyer-agent
+  - memory-mechanisms
+  - llm-judge
 ---
 
 ## Overview

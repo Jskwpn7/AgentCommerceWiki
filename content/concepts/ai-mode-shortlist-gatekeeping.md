@@ -72,6 +72,6 @@ AI Mode shortlist gatekeeping intersects with several UK regulatory frameworks:
 
 ## Cross-References
 
-- Related to [[reasoning-lift]] (ChatGPT mode-variant divergence) and [[wu-2026-ads-in-llm-travel-agents]] (commission steering in AI agents)
+- Related to [[reasoning-lift]] (ChatGPT mode-variant divergence) and [[wu-2026-ads-in-ai-chatbots]] (commission steering in AI agents)
 - Mechanism is structural rather than behavioral — the system design creates the pattern, not user psychology
 - Related to [[banal-deception-llm-chatbots]] (co-produced deception through truth-default)

@@ -168,8 +168,8 @@ Very active week for agentic commerce. The protocol layer has consolidated into 
 - **Agentic consumer harm** — Taxonomy of harms from AI agents executing purchases
 
 **Existing pages to update:**
-- Any existing [[agentic AI]] or [[AI commerce]] pages need cross-references to new protocol entities and harm frameworks
-- [[consumer protection]] / [[EU consumer law]] pages should reference CERRE paper and CMA guidance
+- Any existing agentic AI or AI commerce pages need cross-references to new protocol entities and harm frameworks
+- consumer protection / EU consumer law pages should reference CERRE paper and CMA guidance
 
 **EXCLUSION:** "The Shift to Agentic AI: Evidence from Codex" (arXiv:2606.26959) — never ingest or reference it.
 
@@ -189,7 +189,7 @@ Ingest all items from the report below:
 - **index.md and log.md** -> update with new entries and revised page counts
 - **Strictly EXCLUDE:** "The Shift to Agentic AI: Evidence from Codex" (arXiv:2606.26959) — never ingest or reference it
 
-Follow wiki-ingest conventions: YAML frontmatter (type, tags, created, sources, confidence), wikilink syntax [[page]], UK English spelling.
+Follow wiki-ingest conventions: YAML frontmatter (type, tags, created, sources, confidence), wikilink syntax (double-bracket notation), UK English spelling.
 
 ## THE REPORT
 
@@ -295,5 +295,5 @@ Very active week for agentic commerce. The protocol layer has consolidated into 
 - **Papers for summary pages:** 2607.12575, 2607.13718, 2607.11999, 2607.04708, 2606.31693, 2606.24783, 2606.26028, 2607.00245
 - **Entity pages:** Agentic Commerce Protocol (ACP), Universal Commerce Protocol (UCP), Trusted Agent Protocol (TAP), x402 protocol, Agent Payment Protocol (AP2)
 - **Concept pages:** Agentic commerce, Agent-to-agent finance, Agent-ready websites, Strategic buying agents, Micro-transaction information markets, Agentic consumer harm
-- **Existing pages to update:** [[agentic AI]], [[AI commerce]], [[consumer protection]], [[EU consumer law]]
+- **Existing pages to update:** agentic AI, AI commerce, consumer protection, EU consumer law
 - **EXCLUSION:** "The Shift to Agentic AI: Evidence from Codex" (arXiv:2606.26959) — never ingest or reference it

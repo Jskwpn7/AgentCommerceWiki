@@ -87,6 +87,6 @@ This paper provides **direct empirical validation** of the wiki's central argume
 ## Cross-References
 
 - Directly extends the algorithmic collusion literature, building on the Calvano et al. (2020) finding that RL pricing algorithms learn supracompetitive prices through tacit coordination
-- The >2x harm multiplier directly supports the [[super-additive-harm]] concept — the synergistic compounding of platform and seller exploitation strategies
+- The >2x harm multiplier directly supports the super-additive-harm concept — the synergistic compounding of platform and seller exploitation strategies
 - Supports [[systemic-fragility-in-ai-economies]] thesis by showing how independent optimizations converge to consumer harm
 - The AI shopping agent phenomenon is the primary driver — see [[ai-shopping-agents]]

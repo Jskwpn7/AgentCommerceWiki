@@ -98,7 +98,7 @@ The UK's emerging agentic AI regulatory framework (DRCF 2026, Mills Review 2026,
 - [[when-agents-lie-2607.05132]] — Premeditated lying enables deception capability
 - [[dark-pattern.md]] — Relational manipulation as evolved dark pattern; commercial persuasion bias (Salvi et al., 2604.04263) quantifies manipulation magnitude at 61.2% sponsored selection
 - [[banal-deception-llm-chatbots]] — Banal deception as manipulation substrate
-- [[deepfake-voice]] — Synthetic media enabling new manipulation forms
+- [[fatf-2025-horizon-scan-ai-deepfakes]] — Synthetic media enabling new manipulation forms
 - [[institutional-design-for-ai-agents]] — Governance frameworks needed for agent capability gating; institutional red-teaming proposed as governance mechanism
 - [[mills-2026-review-summary]] — Mills Review's fiduciary duty proposals and accountability gap findings
 - [[ai-shopping-agents]] — Shopping agents' infrastructural role creates relationship-level harms

@@ -19,11 +19,11 @@ tags:
 summary: |
   TravelAgent is an LLM-powered travel planning system generating reasonable, comprehensive, and personalized itineraries for dynamic real-world scenarios. Four modules: Tool-usage, Recommendation, Planning, and Memory. Evaluated with human and simulated users demonstrating effectiveness across rationality, comprehensiveness, and personalization criteria.
 concepts:
-  - [[travel-planning]]
-  - [[llm-agents]]
-  - [[personalization]]
-  - [[itinerary-generation]]
-  - [[tool-usage]]
+  - travel-planning
+  - llm-agents
+  - personalization
+  - itinerary-generation
+  - tool-usage
 ---
 
 ## Overview

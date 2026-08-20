@@ -13,7 +13,7 @@ confidence: high
 
 ## Overview
 
-Independent technical evaluation of the [[Payment Systems Regulator]] (PSR)'s two key Authorised Push Payment (APP) scam policies — the mandatory reimbursement requirement (FPS and CHAPS) and APP fraud performance data publication. Commissioned by the PSR, conducted September 2025 – June 2026, published 1 July 2026 alongside a Summary Report.
+Independent technical evaluation of the Payment Systems Regulator (PSR)'s two key Authorised Push Payment (APP) scam policies — the mandatory reimbursement requirement (FPS and CHAPS) and APP fraud performance data publication. Commissioned by the PSR, conducted September 2025 – June 2026, published 1 July 2026 alongside a Summary Report.
 
 ## Key Dates
 
@@ -28,14 +28,14 @@ Independent technical evaluation of the [[Payment Systems Regulator]] (PSR)'s tw
 
 ## Evaluation Methodology
 
-Theory-based [[contribution analysis]] per HM Treasury Magenta Book, combining five analytical methods: realist evaluation, process tracing, time-series analysis, qualitative evidence (25 stakeholder interviews), and descriptive analysis. Mandatory data request under PSR s.81 powers to 23 PSPs (covering 95% of FPS volume), voluntary PSP survey (15 responses), and existing datasets (Standard A, PSR consumer survey, UK Finance data, FCA-PSR joint survey).
+Theory-based contribution analysis per HM Treasury Magenta Book, combining five analytical methods: realist evaluation, process tracing, time-series analysis, qualitative evidence (25 stakeholder interviews), and descriptive analysis. Mandatory data request under PSR s.81 powers to 23 PSPs (covering 95% of FPS volume), voluntary PSP survey (15 responses), and existing datasets (Standard A, PSR consumer survey, UK Finance data, FCA-PSR joint survey).
 
 ## Findings
 
 ### Theme 1: PSP actions to tackle fraud
 
 - PSPs took wide-ranging actions across fraud detection, customer intervention, mule detection, and payment controls.
-- [[non-CRM]] firms reported more significant new investment than [[CRM|CRM signatories]], who described incremental refinements.
+- non-CRM firms reported more significant new investment than CRM signatories, who described incremental refinements.
 - Non-CRM firms more often introduced payment delays and changed internal case management.
 - Cross-PSP data sharing remains constrained by network effects, cost asymmetries, and coordination gaps.
 - Receiving PSPs repatriated funds equivalent to 16% of total claim value; 28% by volume.
@@ -66,7 +66,7 @@ Theory-based [[contribution analysis]] per HM Treasury Magenta Book, combining f
 - At firm level: reimbursement cost changes ranged from **−£14M to +£18M** annually.
 - **Non-reimbursement costs**: estimated £44M–£56M/year industry-wide (detection/prevention being the largest category).
 - Most PSPs can absorb costs; one firm saw costs rise 2.6% of revenue (illustratively ~0.8pp ROE reduction).
-- **FCA insolvency data shows no sector-wide solvency impact**, but anecdotal evidence: UK fintech [[Tred]] exited PSP market citing the reimbursement requirement as a key driver.
+- **FCA insolvency data shows no sector-wide solvency impact**, but anecdotal evidence: UK fintech Tred exited PSP market citing the reimbursement requirement as a key driver.
 - Investor attractiveness: limited quantitative evidence, though some growing PSPs report increased investor concern about APP fraud liability.
 - Fragmented case management systems (BPS + RCMS) create significant operational burden; smaller PSPs handle claims by email.
 

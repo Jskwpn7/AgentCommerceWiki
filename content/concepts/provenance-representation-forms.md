@@ -67,4 +67,4 @@ Concrete source-to-sink, tool, memory, and action dependencies during execution.
 
 ## Related Concepts
 - [[Agent Provenance Taxonomy]] — The five-dimension framework these representations serve
-- [[Execution Provenance in Tool-Using Agents]] — Security-relevant provenance applications
+- [[agent-provenance-taxonomy]] — Security-relevant provenance applications

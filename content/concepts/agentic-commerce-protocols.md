@@ -53,14 +53,14 @@ The emergence of competing protocols (ACP, AP2, TAP, x402, UCP, AP4M) occurs alo
 
 - **Invisible Spending:** Protocols like AP2 (mandates) and x402 (micro-payments) remove the "payment friction" that normally alerts consumers to spending, enabling a form of [[dark-pattern]] through frictionless depletion of funds.
 - **Consent Erosion:** The shift from per-transaction approval (ACP) to broad intent mandates (AP2) erodes the granularity of informed consent.
-- **Platform Lock-in:** Dependence on a specific protocol (e.g., using an OpenAI agent that only supports ACP) creates [[lock-in]] to the agent provider's ecosystem.
-- **Data Concentration:** Transaction intent, preference data, and execution logs are concentrated within the entities controlling the protocols (OpenAI, Google, Stripe, Visa), increasing [[data-abuse]] risks.
+- **Platform Lock-in:** Dependence on a specific protocol (e.g., using an OpenAI agent that only supports ACP) creates lock-in to the agent provider's ecosystem.
+- **Data Concentration:** Transaction intent, preference data, and execution logs are concentrated within the entities controlling the protocols (OpenAI, Google, Stripe, Visa), increasing [[gdpr-data-minimisation]] risks.
 
 ## Related concepts
 
 - [[agentic-commerce-tokenization]] — The payment rail implementation (tokens) that these protocols utilize.
 - [[ai-shopping-agents]] — The actors that implement these protocols.
-- [[choice-architecture]] — The shift from "search and select" to "delegate and receive."
+- [[dark-patterns-choice-architecture]] — The shift from "search and select" to "delegate and receive."
 - [[regulatory-failure]] — The gap in applying human-centric payment laws to autonomous protocols.
 - [[conflict-of-interest-in-llm-deployment]] — Protocol owners (Google/OpenAI) profit from both the agent and the commerce rail.
 - [[google-universal-cart-2026]] — Google I/O 2026: Universal Cart implements UCP and AP2 to create a single persistent shopping cart across all Google services — the first major production deployment of agentic commerce protocols.
@@ -69,5 +69,5 @@ The emergence of competing protocols (ACP, AP2, TAP, x402, UCP, AP4M) occurs alo
 - [[universal-commerce-protocol-ucp]] — Google+FIDO+Shopify protocol; expanded from checkout spec to full commerce protocol with UK rollout announced (May 2026)
 - [[agent-pay-for-machines-ap4m]] — Mastercard M2M payment layer for fully autonomous agent commerce (June 2026)
 - [[cma-ai-and-consumer-markets-2026]] — CMA discussion paper flagging protocol duopoly as gatekeeping risk
-- [[ai-agent-position-bias]] — Position bias creates anti-competitive effects when agents concentrate purchases on top-ranked products
-- [[dark-patterns-against-ai-agents]] — 41% average susceptibility of LLM agents to merchant-targeted dark patterns
+- [[ai-agent-buying-biases-2508.02630]] — Position bias creates anti-competitive effects when agents concentrate purchases on top-ranked products
+- [[agent-dark-pattern-susceptibility]] — 41% average susceptibility of LLM agents to merchant-targeted dark patterns

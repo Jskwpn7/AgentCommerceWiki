@@ -275,3 +275,137 @@
 
 ### Pages Created This Session: 1 (research doc)
 ### Pages Patched: 1 (index.md — research count 1→2, total 308→309)
+
+---
+
+## 2026-08-11 — Weekly Review: Discovery Report Ingestion
+
+### Source: consumer-harms-weekly-review-2026-08-11.md
+
+| Action | Page | Type | Source |
+|--------|------|------|--------|
+| Created | `summaries/cma-microsoft-subscription-investigation.md` | summary | CMA press release (29 July 2026), Bratby Law analysis |
+| Created | `summaries/cma-aldi-lidl-groceries-investigation.md` | summary | CMA press release (7 August 2026) |
+| Created | `summaries/cma-vets-market-investigation.md` | summary | CMA consultation (3 August 2026) |
+| Created | `summaries/drcf-call-for-input-ai-phase-2.md` | summary | Bratby Law, DRCF |
+| Created | `summaries/cma-whistleblower-statistics.md` | summary | GOV.UK (6 August 2026) |
+| Created | `summaries/hotel-algorithmic-pricing-investigation.md` | summary | Multiple legal analyses, CMA blog (4 March 2026) |
+| Created | `concepts/uk-subscription-contracts-regime-delayed.md` | concept | DBT consultation response (2 April 2026) |
+| Created | `concepts/algorithmic-collusion-enforcement.md` | concept | CMA guidance, hotel investigation |
+| Created | `concepts/llm-travel-agents-consumer-harm.md` | concept | arXiv 2605.10440 (TourMart) |
+| Created | `concepts/vets-market-consumer-harms.md` | concept | CMA vets investigation |
+| Created | `concepts/groceries-market-competition.md` | concept | CMA Aldi/Lidl designation |
+| Created | `concepts/ai-enabled-subscription-consumer-harm.md` | concept | Cross-border enforcement pattern (UK, Australia, Italy) |
+| Created | `entities/aldi.md` | entity | CMA groceries investigation |
+| Created | `entities/lidl.md` | entity | CMA groceries investigation |
+| Updated | `concepts/algorithmic-collusion-pricing.md` | concept | Added hotel investigation cross-reference, leniency policy, £250k reward |
+| Updated | `summaries/tourmart-commission-steering-in-llm-travel-agents.md` | summary | Added DRCF Phase 2 and LLM travel agents harm concept links |
+| Updated | `entities/drcf.md` | entity | Phase 1/2 status updated, cross-reference to Phase 2 summary |
+| Updated | `index.md` | metadata | Counts: 60 concepts, 29 entities, 161 summaries, 28 papers, 43 articles, 2 research = 323 total |
+
+### Pages Created This Session: 14
+### Pages Patched: 3
+
+### Notes: Ingested 2026-08-11 weekly discovery report covering 6 new CMA investigations (Microsoft Copilot subscriptions, Aldi/Lidl groceries, Vets market, Whistleblower stats, Hotel algorithmic pricing), DRCF Phase 2 call for input, and 6 new concept pages addressing subscription regime delay, algorithmic collusion enforcement phase, LLM travel agents as consumer risk, vet services market harms, grocery discounter regulation, and cross-border AI subscription harm. 3 existing pages updated with cross-references. Key theme: CMA enforcement has moved from theory to active enforcement in algorithmic collusion, and subscription contract enforcement continues under existing law ahead of DMCCA regime delay to Spring 2027.
+## 2026-08-15 — How Agents Ask for Permission (arXiv 2607.13718) Ingestion
+
+### Source: https://arxiv.org/abs/2607.13718
+
+Michael & Roesner survey 21 proposals for user-level AI-agent permission systems (2024-2026) and build a taxonomy spanning threat models, UI/internal policy specification, derivation from user input, and run-time enforcement. They then apply it to five commercial agents (Claude, Claude Cowork, ChatGPT chat mode, ChatGPT agent mode, Codex).
+
+### Key Findings
+- None of the 21 literature systems achieves all three core goals (low user overhead + formally grounded specification + deterministic enforcement); commercial agents fail further, forcing a binary between per-action approval (privacy fatigue) and opaque, non-disableable LLM auto-review.
+- Claude's "Needs approval" setting sometimes auto-infers permission and tags MCP calls approvalRequired:false, with no setting to disable the implicit auto-reviewer (disclosed to Anthropic 2026-07-02).
+- ChatGPT agent mode silently bypasses local permissions by attaching no policies to the remote browser it controls.
+- Claude Cowork file permissions cannot be revoked from the app; older sessions retain granted permissions.
+- Continuous user control (update/revoke later) — the one theme commercial agents pursue — is largely absent from the literature.
+
+### Pages Created This Session: 2
+- summaries/how-agents-ask-for-permission-2607.13718-michael-2026.md (summary)
+- raw/papers/how-agents-ask-for-permission-2607.13718-michael-2026.md (65KB full-text)
+
+### Pages Patched: 3
+- concepts/consumer-autonomy.md, concepts/agentic-commerce-research-2026.md (outbound backlinks to new summary)
+- index.md (reconciled counts from disk: Summaries 161->162, Raw Papers 28->29, Total 325->327; listed in Recent Summaries)
+
+### Notes: Summary + raw full-text were produced by an earlier 2026-08-15 session that stopped before bookkeeping; this entry records completion - index.md reconciled to on-disk counts and the ingest logged. All 14 wikilinks in the summary resolve. Directly relevant to UK consumer harms: unauthorized agent transactions (core CMA/DMCCA concern), opaque enforcement vs. transparency duties, irrevocable permissions vs. consent withdrawal, and privacy fatigue as a choice-architecture harm. Cross-linked to [[consumer-autonomy]], [[agentic-commerce-research-2026]], [[conflict-of-interest-in-llm-deployment]], [[nist-nccoe-2026-agent-identity-authorization]], [[ai-agent-act-warner-2026]], [[the-dmcca]].
+
+## 2026-08-15 — Vault Reconciliation: Top-Level Stray Content Merged into content/
+
+### Action: structural
+
+The vault root is `content/` (Quartz contentDir + Obsidian vault root). A stale top-level
+`summaries/`, `raw/papers/`, and `log.md` (from a pre-`content/` layout) held 7 unique pages
+that were invisible to Quartz and to the canonical index. All were moved losslessly into `content/`.
+
+### Pages Moved into content/ (7, SHA256-verified intact)
+- summaries/agentic-commerce-monitor-2026-08-09.md (frontmatter added; was missing)
+- summaries/chen-2025-the-obvious-invisible-threat.md
+- summaries/chen-2025-toward-human-centered-evaluation.md
+- summaries/consumer-harms-weekly-review-2026-08-10.md
+- summaries/consumer-harms-weekly-review-2026-08-11.md
+- raw/papers/chen-2025-the-obvious-invisible-threat.md (65KB)
+- raw/papers/chen-2025-toward-human-centered-evaluation.md
+
+### Previously Unlogged Ingests (now recorded)
+## [2026-08-12] ingest | The Obvious Invisible Threat: LLM-Powered GUI Agents' Vulnerability to Fine-Print Injections
+## [2026-08-12] ingest | Toward a Human-Centered Evaluation Framework for Trustworthy LLM-Powered GUI Agents
+
+### index.md updated
+Counts reconciled from disk: Summaries 162->167, Raw Papers 29->31, Total 327->334. Five new pages
+added to Recent Summaries. One pre-existing dangling wikilink to
+[[agentic-commerce-monitor-2026-08-09]] is now resolved by this move.
+
+### Notes: Stale top-level summaries/, raw/, log.md removed after merge. Known pre-existing issue:
+the two chen-2025 pages reference six concept slugs (gui-agents, llm-security, human-centered-design,
+trustworthiness, dark-patterns, automated-decision-making) that do not exist in content/concepts/ —
+left dangling per consolidation rule (do not mass-create concept pages). Flagged for a future
+health-check pass.
+
+## [2026-08-16] ingest | re-ingest 2 truncated pages + convert weekly-discovery types
+
+- Re-ingested `summaries/fama-c2c-marketplace-2509.03890.md` (was truncated mid-frontmatter, no body): full summary written from arXiv:2509.03890 (Yan et al. 2025) — FaMA, LLM agentic assistant for C2C marketplace, 98% task success / 2x speedup. Created `raw/papers/fama-c2c-marketplace-2509.03890.md` (abstract + metadata).
+- Re-ingested `summaries/globalgovernmentfinance-agentic-regulator-hackathon-2026.md` (was truncated, no closing frontmatter, no body): full summary written from Global Government Finance article (Ian Hall, 8 July 2026) — C:\>DIR Agentic Regulator Global Hackathon, $100k prize, 6 challenge fields, DRCF founding backer. Rewrote `raw/articles/globalgovernmentfinance-agentic-regulator-hackathon-2026.md` (was itself truncated, 191 bytes) with full article text.
+- Converted `consumer-harms-weekly-review-2026-08-10.md` and `consumer-harms-weekly-review-2026-08-11.md` from `type: weekly-discovery` to `type: summary` (non-canonical type per health-check warning).
+- Updated index.md: +2 summaries (Recent Summaries), Raw Papers 31→32, total 334→335, last-updated 2026-08-16.
+- Part of the frontmatter-error remediation pass (14 errors → 0).
+
+## [2026-08-16] maintenance | summaries dangling-link sweep (299 → 0)
+
+Bulk remediation of all 299 dangling wikilinks in `summaries/` (75 files, 257 unique slugs) — the backlog deferred from the 2026-08-15/16 health-check pass. Plan: `.hermes/plans/2026-08-16_125704-summaries-dangling-sweep.md`.
+
+- Created 2 concept pages (repeat-offender slugs, per decision menu): `concepts/platform-agent-asymmetry.md` (absorbed 8 dangling links across 8 files) and `concepts/recommendation-manipulation.md` (4 links, 4 files).
+- 23 links redirected to verified existing pages, incl. wrong-slug fixes: `dark-patterns`→`concepts/dark-pattern`, `eu-ai-act`→`entities/ai-act`, `the-mills-review-summary`→`entities/the-mills-review`, `UCP`→`entities/universal-commerce-protocol-ucp`, `dsa`×3→`entities/digital-services-act`, `DMCC-Act-2024`→`entities/the-dmcca`, `algorithmic-price-collusion`×2→`concepts/algorithmic-collusion-pricing`, `agentic-web-requires-new-normative-infrastructure`×2→`summaries/the-agentic-web-requires-new-normative-infrastructure`, `llm-recommender`×2→`summaries/llm-recommender-survey-2502.10050`, `hidden-intent`→`concepts/hidden-intent-agentic-shopping`, `agent-liability-gap`→`concepts/agent-liability`, `fairness`→`concepts/eu-digital-fairness-act`, `needs-prediction`→`summaries/neon-living-needs-prediction-2307.16644`, `customer-service`→`summaries/mindflow-customer-service-2507.18884`, `dual-control`→`summaries/t2-bench-dual-control-2506.07982`, `virtual-assistants`→`summaries/intelligent-virtual-assistants-2312.06677`, `algorithmic-pricing`→`summaries/hotel-algorithmic-pricing-investigation`.
+- 264 links de-wikilinked to plain text (one-off broad-concept slugs — no page exists or will be created; regulators like CMA/FTC/PSR and company names like amazon/meituan have no entity pages; alias display text preserved).
+- 5 malformed/special cases fixed: `[[California Management Review|…]]`→plain text; `[[github.com/…]]`+`[[vitabench.github.io]]`→standard markdown links; `[[ecomagentbench-shopping-agents]](./…)`→correct self-slug; `[[page]]` syntax example in monitor page→prose.
+- Side effect (accepted): `low-outbound-links` warnings rose 52→64 — 12 summaries now have <2 wikilinks after de-wikilinking; their topics are covered by tags + plain-text naming.
+- index.md: Concepts 60→62, Total 335→337, two new concept entries added.
+
+## [2026-08-18] ingest | Consumer Harms Weekly Review (2026-08-18) — Cron Job 221ac7964f24
+
+### Source: consumer-harms-weekly-review-2026-08-18.md
+
+Ingested 10 new summary pages covering algorithmic collusion, dark patterns in AI agents, norm enforcement, AI agent economics, negotiation alignment, CMA guidance on AI agents, and LLM information asymmetry in markets.
+
+### Pages Created This Session: 11 summaries + 2 concepts patched
+
+|| Action | Page | Type | Source ||--------|------|------|--------|| Created | `summaries/vertical-tacit-collusion-affonso-2601.03061.md` | summary | arXiv 2601.03061 (Affonso et al., Jan 2026) — platforms & sellers learn complementary pricing → sustained supra-competitive pricing|| Created | `summaries/banality-of-deception-narwane-gunawan-kollnig-2605.07012.md` | summary | arXiv 2605.07012 (Narwane et al., May 2026) — LLMs deploy deceptive tactics in competitive scenarios|| Created | `summaries/tourmart-audit-instrument-kung-chen-2605.10440.md` | summary | arXiv 2605.10440 (Kung & Chen, May 2026) — parametric audit instrument for commission-based steering in LLM travel agents|| Created | `summaries/ai-agent-economics-emergence-2608.03076.md` | summary | arXiv 2608.03076 (Zhang & Shang, Aug 2026) — autonomous economic organisation emerges endogenously from resource scarcity|| Created | `summaries/norm-enforcement-ai-agents-steinhardt-2607.09766.md` | summary | arXiv 2607.09766 (Steinhardt, Jul 2026) — simple norm enforcement mechanisms exploited by misaligned agents; proposes robust mechanisms|| Created | `summaries/llm-agent-interactions-information-asymmetry-2603.08853.md` | summary | arXiv 2603.08853 (Erlei & Meub, Mar 2026) — economic implications of information asymmetries between AI and non-AI agents|| Created | `summaries/socialrl-negotiation-microsoft-2608.13787.md` | summary | arXiv 2608.13787 (Hua et al., Microsoft Research, Jul 2026) — SocialRL: SLMs as strategic negotiators via social reasoning reward|| Created | `summaries/agent-bazaar-economic-alignment-karten-crow-jin-2605.17698.md` | summary | arXiv 2605.17698 (Karten, Crow & Jin) — agent marketplaces where agents buy/sell services; economic alignment risks|| Created | `summaries/cma-complying-with-consumer-law-ai-agents-2026.md` | summary | CMA guidance "Complying with Consumer Law When Using AI Agents" (Feb 2026)|| Created | `summaries/prompt-optimization-stable-collusion-tian-2604.17774.md` | summary | arXiv 2604.17774 (Tian, Apr 2026) — meta-prompt optimization enables LLM agents to learn stable, transferable collusion|| Created | `summaries/auditing-collusion-strategy-graphs-eschenbaum-meylahn-2608.07098.md` | summary | arXiv 2608.07098 (Eschenbaum & Meylahn, Aug 2026) — auditing algorithmic collusion from strategy graphs; empirical validation using CMA hotel case|| Patched | `concepts/consumer-autonomy.md` | concept | Added: Emergent economic organisation (§6), over-concession in negotiation (§7)|| Patched | `index.md` | metadata | Updated all counts to match disk
+
+### Pages Patched (existing cross-references):
+- `concepts/algorithmic-collusion-pricing.md` — updated by sibling subagent with Tian 2604.17774, Eschenbaum & Meylahn 2608.07098, Agent Bazaar; CMA hotel probe section
+- `concepts/ai-agents-in-markets.md` — updated by sibling subagent with Zhang & Shang 2608.03076, Zeng & Baek 2605.27593, Tian 2604.17774
+- `concepts/ai-shopping-agents.md` — updated by sibling subagent with vertical tacit collusion
+- `concepts/dark-pattern.md` — updated by sibling subagent with "lighting up or dimming down" (2604.04735)
+
+### New disk counts: summaries=184, concepts=62, entities=29, raw/papers=40, raw/articles=52, total=367
+- Health check final: **ERRORS 0** (was 299). Warnings 142, all pre-existing deferred backlog (62 raw-frontmatter, 64 low-outbound, 11 non-canonical-type, 5 frontmatter).
+- Future Ingest Candidates (never-ingested papers found during sweep): `cais-agentic-ai-ecosystem-2026` (CCAIS agentic AI ecosystem framework, referenced in `summaries/ccaf-2026-enabling-open-finance-emdes.md`). De-wikilinked pending approval.
+## [2026-08-19] ingested | AAIF: EU AI Act rules for building AI agents (Angie Jones) — raw + summary, 8 wikilinks to existing pages
+## [2026-08-19] Ingested | mckinsey-icsc-shopping-age-ai-2026
+| Created | `raw/articles/mckinsey-icsc-shopping-age-ai-2026.md` | raw | McKinsey/ICSC report on AI reshaping retail; $1T agentic commerce forecast, convenience vs discovery framework
+| Created | `summaries/mckinsey-icsc-shopping-age-ai-2026.md` | summary | McKinsey/ICSC report on AI reshaping retail; $1T agentic commerce forecast, convenience vs discovery framework
+| Updated | `index.md` | index | Summary count 185→186, total 372→373, added to Recent Summaries section
+| Linked | `concepts/agentic-commerce-research-2026.md` | concept | Added outbound wikilink to mckinsey-icsc-shopping-age-ai-2026
+| Linked | `concepts/ai-shopping-agents.md` | concept | Added outbound wikilink to mckinsey-icsc-shopping-age-ai-2026
+| Linked | `concepts/consumer-autonomy.md` | concept | Added outbound wikilink to mckinsey-icsc-shopping-age-ai-2026
+

@@ -39,9 +39,9 @@ The x402 protocol revives the HTTP 402 Payment Required status code for web-nati
 ## Connection to Other Wiki Entries
 
 - [[agentic-commerce-research-2026]]
-- [[payment-vulnerabilities]]
-- [[transaction-forgery]]
-- [[payment-protocol-attacks]]
+- payment-vulnerabilities
+- transaction-forgery
+- payment-protocol-attacks
 
 ## Key Findings
 

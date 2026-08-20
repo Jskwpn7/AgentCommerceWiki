@@ -65,5 +65,5 @@ The taxonomy distinguishes between **evidence tracing** (identifying which evide
 
 ## Related Concepts
 - [[Provenance Representation Forms]] — How provenance is structured (logs, graphs, schemas)
-- [[Agent Observability]] — Systems for recording and inspecting agent executions
-- [[Tool-Use Safety]] — Security concerns in tool-using agents
+- [[agent-provenance-taxonomy]] — Systems for recording and inspecting agent executions
+- [[agent-liability]] — Security concerns in tool-using agents

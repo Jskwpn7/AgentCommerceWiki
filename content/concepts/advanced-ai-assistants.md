@@ -74,7 +74,7 @@ The rise of Advanced AI Assistants poses multiple categories of risk to consumer
 - [[systemic-fragility-in-ai-economies]] — interconnected AI assistant systems create correlated behaviour and systemic risk
 - [[conflict-of-interest-in-llm-deployment]] — provider revenue incentives conflict with user welfare
 - [[user-welfare-vs-company-incentive]] — tension between AI systems serving users vs. generating revenue
-- [[ai-digital-gatekeepers]] — Advanced AI Assistants as potential primary interface for internet access, creating gatekeeping power over consumer choices and information flows
+- [[ai-mode-shortlist-gatekeeping]] — Advanced AI Assistants as potential primary interface for internet access, creating gatekeeping power over consumer choices and information flows
 
 ## Key Sources
 

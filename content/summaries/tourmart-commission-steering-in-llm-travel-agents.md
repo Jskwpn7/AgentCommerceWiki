@@ -70,6 +70,8 @@ The paper references Ctrip's "big-data price discrimination" controversies and n
 - [[dark-pattern]] — this is a dark pattern in prose, not UI; extends the banal deception thesis (see [[banal-deception-llm-chatbots]])
 - [[hallucinations-in-organization-backed-ai-advisors]] — if consumers rely on AI travel advisors and cannot verify recommendations, hallucination risk compounds commission-steering harm
 - [[systemic-fragility-in-ai-economies]] — opaque recommendation systems create systemic risk in consumer markets
+- **DRCF Phase 2** (closes 2 Sept 2026) — call for input covers consumer protection tools for AI, relevant to LLM agent governance. See [[DRCF Call for Input — Consumer Interest and AI (Phase 2)]]
+- **LLM Travel Agents Consumer Harm** — this paper is the primary evidence for LLM travel agents as a consumer risk vector. See [[LLM Travel Agents as Consumer Risk Vector]]
 
 ## Raw Source
 

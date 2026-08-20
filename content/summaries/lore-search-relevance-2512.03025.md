@@ -47,9 +47,9 @@ LORE is a systematic framework for Large Generative Model-based relevance in e-c
 ## Connection to Other Wiki Entries
 
 - [[agentic-commerce-research-2026]]
-- [[search-manipulation]]
-- [[search-optimization]]
-- [[ranking-opacity]]
+- search-manipulation
+- search-optimization
+- ranking-opacity
 
 ## Key Findings
 

@@ -45,9 +45,9 @@ An agent must uncover hidden intent, verify candidates against attributes and re
 ## Connection to Other Wiki Entries
 
 - [[agentic-commerce-research-2026]]
-- [[hidden-intent]]
-- [[opaque-long-horizon-decisions]]
-- [[shopping-agent-reliability]]
+- [[hidden-intent-agentic-shopping]]
+- opaque-long-horizon-decisions
+- shopping-agent-reliability
 
 ## Key Findings
 

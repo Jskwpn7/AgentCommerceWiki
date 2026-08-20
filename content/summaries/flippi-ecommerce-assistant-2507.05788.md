@@ -22,11 +22,11 @@ tags:
 summary: |
   Introduces Flippi, an end-to-end GenAI conversational assistant for e-commerce using LLMs, RAG, NER, intent detection, and query reformulation. Delivers personalized shopping experience through natural language dialogue, identifies attractive offers, and provides comparative analysis features. Demonstrates adaptability across e-commerce platforms with evaluation covering performance, user satisfaction, and conversion rates.
 concepts:
-  - [[conversational-assistant]]
-  - [[rag]]
-  - [[intent-detection]]
-  - [[personalization]]
-  - [[query-reformulation]]
+  - conversational-assistant
+  - rag
+  - intent-detection
+  - personalization
+  - query-reformulation
 ---
 
 ## Overview

@@ -38,9 +38,9 @@ AIM-Bench is a novel benchmark designed to assess decision-making behavior of LL
 ## Connection to Other Wiki Entries
 
 - [[agentic-commerce-research-2026]]
-- [[supply-chain-opacity]]
-- [[algorithmic-price-collusion]]
-- [[decision-bias]]
+- supply-chain-opacity
+- [[algorithmic-collusion-pricing]]
+- decision-bias
 
 ## Key Findings
 

@@ -1,3 +1,15 @@
+---
+title: "Agentic Commerce Monitor — Weekly Discovery Report 2026-08-09"
+created: 2026-08-09
+updated: 2026-08-15
+type: summary
+tags: [agentic-commerce, weekly-review, consumer-harm, algorithmic-collusion, consumer-trust, protocol-infrastructure, uk-regulation]
+sources:
+  - https://arxiv.org (arXiv API + HTML extraction)
+  - GOV.UK / CERRE regulatory publications
+confidence: 0.8
+---
+
 # Agentic Commerce Wiki Monitor — Report
 
 **Date:** 2026-08-09

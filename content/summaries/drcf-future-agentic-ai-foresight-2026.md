@@ -88,7 +88,7 @@ The DRCF foresight paper is significant because:
 ## Cross-References
 
 - [[agentic-commerce-research-2026]] — Broader agentic commerce research context
-- [[digital-markets-competition-and-consumers-act]] — UK regulatory framework enabling DRCF enforcement
+- digital-markets-competition-and-consumers-act — UK regulatory framework enabling DRCF enforcement
 - [[algorithmic-collusion-pricing]] — Competition law concerns in agent markets
 - [[mills-2026-review-summary]] — FCA's follow-up review on AI in financial services
 - [[conflict-of-interest-in-llm-deployment]] — When agent incentives diverge from consumer interests

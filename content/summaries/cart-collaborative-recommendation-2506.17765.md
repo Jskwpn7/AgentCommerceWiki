@@ -41,7 +41,7 @@ CARTS (Collaborative Agents for Recommendation Textual Summarization) is a multi
 
 - [[agentic-commerce-research-2026]]
 - [[recommendation-manipulation]]
-- [[hidden-preferences]]
+- hidden-preferences
 - [[platform-agent-asymmetry]]
 
 ## Key Findings

@@ -41,9 +41,9 @@ Presents a blockchain-based framework for cryptographically authenticating and v
 ## Connection to Other Wiki Entries
 
 - [[agentic-commerce-research-2026]]
-- [[payment-vulnerabilities]]
-- [[transaction-manipulation]]
-- [[opaque-procurement]]
+- payment-vulnerabilities
+- transaction-manipulation
+- opaque-procurement
 
 ## Key Findings
 

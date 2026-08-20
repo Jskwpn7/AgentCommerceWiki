@@ -17,11 +17,11 @@ tags:
 summary: |
   Introduces Agent TCP/IP (specifically ATCP/IP - Agent Transaction Control Protocol for Intellectual Property), a trustless framework for exchanging IP between agents via programmable contracts on blockchain. Enables agents to initiate, trade, borrow, and sell agent-to-agent contracts including training data licensing, confidential information sharing, and content collaboration. Creates legal personhood for agents via offchain legal wrappers.
 concepts:
-  - [[agent-to-agent]]
-  - [[ip-exchange]]
-  - [[blockchain-contracts]]
-  - [[agent-personhood]]
-  - [[machine-economy]]
+  - agent-to-agent
+  - ip-exchange
+  - blockchain-contracts
+  - agent-personhood
+  - machine-economy
 ---
 
 ## Overview

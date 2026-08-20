@@ -42,13 +42,13 @@ Adyen launched "Adyen Agentic" on June 16, 2026 — a modular API suite providin
 
 ## Consumer harm risks
 
-**Data concentration:** Payment duopoly transforms from intermediaries into identity and data managers with unprecedented visibility into consumption patterns — [[data-abuse]] vector.
+**Data concentration:** Payment duopoly transforms from intermediaries into identity and data managers with unprecedented visibility into consumption patterns — [[gdpr-data-minimisation]] vector.
 
-**Invisible spending:** "Continuous, secure flow of value" replaces conscious purchasing — [[dark-pattern]] through removal of spending friction and [[choice-architecture]] that normalizes autonomous spending.
+**Invisible spending:** "Continuous, secure flow of value" replaces conscious purchasing — [[dark-pattern]] through removal of spending friction and [[dark-patterns-choice-architecture]] that normalizes autonomous spending.
 
 **Consent erosion:** Pre-established token trust bypasses per-transaction verification — consumers cannot exercise informed consent for each autonomous purchase.
 
-**Lock-in:** Once AI agents are configured for Visa/Mastercard token infrastructure, switching to competing payment rails becomes technically complex — [[lock-in]] via ecosystem capture.
+**Lock-in:** Once AI agents are configured for Visa/Mastercard token infrastructure, switching to competing payment rails becomes technically complex — lock-in via ecosystem capture.
 
 **Surveillance capitalism:** AI agents predict purchase intent before consumers are consciously aware of it; combined with token infrastructure, this creates capacity for manipulative targeting.
 
@@ -58,8 +58,8 @@ Adyen launched "Adyen Agentic" on June 16, 2026 — a modular API suite providin
 - [[agentic-commerce-deep-dive-fd-robonomics]] — tokenization enables the agent-first commerce model
 - [[agentic-commerce-deep-dive-ii-fd-robonomics]] — payment infrastructure determines who captures value in agentic commerce
 - [[dark-pattern]] — invisible payments as interface-level manipulation
-- [[lock-in]] — ecosystem capture via payment rail lock-in
-- [[data-abuse]] — consumption data concentration in payment duopoly
+- lock-in — ecosystem capture via payment rail lock-in
+- [[gdpr-data-minimisation]] — consumption data concentration in payment duopoly
 - [[conflict-of-interest-in-llm-deployment]] — payment networks profit from both processing and data
 - [[regulatory-failure]] — existing frameworks designed for human-initiated transactions
 

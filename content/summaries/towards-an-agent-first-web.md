@@ -57,9 +57,9 @@ This paper is primarily about enabling beneficial agent capabilities rather than
 
 ## Connection to Related Research
 
-- Complements [[agentic-web-requires-new-normative-infrastructure]] (which focuses on policy/normative dimensions) with technical architecture proposals
+- Complements [[the-agentic-web-requires-new-normative-infrastructure]] (which focuses on policy/normative dimensions) with technical architecture proposals
 - Both papers agree the current state is unsustainable and requires fundamental change
-- The [[agentic-web-requires-new-normative-infrastructure]] normative triad (delegation, transparency, proportional restriction) could inform agent-first protocol design
+- The [[the-agentic-web-requires-new-normative-infrastructure]] normative triad (delegation, transparency, proportional restriction) could inform agent-first protocol design
 
 ## Relevance to UK Context
 

@@ -16,11 +16,11 @@ tags:
 summary: |
   SalesRLAgent uses reinforcement learning to predict conversion probability in real-time during sales conversations. Achieves 96.7% accuracy, outperforming LLM-only approaches by 34.7%. Faster inference (85ms vs 3450ms for GPT-4). Integration shows 43.2% increase in conversion rates when representatives use real-time guidance. Shift from content generation to strategic sales intelligence.
 concepts:
-  - [[sales-optimization]]
-  - [[rl-agents]]
-  - [[conversion-prediction]]
-  - [[real-time-guidance]]
-  - [[behavioral-manipulation]]
+  - sales-optimization
+  - rl-agents
+  - conversion-prediction
+  - real-time-guidance
+  - behavioral-manipulation
 ---
 
 ## Overview

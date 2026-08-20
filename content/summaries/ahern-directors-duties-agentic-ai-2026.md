@@ -37,7 +37,7 @@ Theoretical, doctrinal and real-world insights blended. Comparative analysis of 
 
 1. **Legal insulation of directors**: Directors are exceptionally insulated from legal scrutiny when making AI adoption decisions. The best interests duty provides little enforceable recourse for displaced employees.
 
-2. **"AI washing" risk**: Directors may misrepresent the extent of AI integration or its impact on the workforce, potentially breaching fiduciary standards — analogous to [[greenwashing]] practices.
+2. **"AI washing" risk**: Directors may misrepresent the extent of AI integration or its impact on the workforce, potentially breaching fiduciary standards — analogous to greenwashing practices.
 
 3. **Enforcement gaps**: Employees' limited ability to operationalize the best interest duty through enforcement makes it an ill-fitting mechanism for redress of AI-driven displacement.
 
@@ -54,8 +54,8 @@ Theoretical, doctrinal and real-world insights blended. Comparative analysis of 
 - Related to [[algorithmic-collusion-pricing]] (regulatory gaps in AI governance)
 - Related to [[ai-agents-in-markets]] (AI agents as functional replacements for human workers)
 - Related to [[regulatory-failure]] (limited enforcement of AI-related duties)
-- Connects to [[corporate-governance-uk]] (UK company law framework)
-- Related to [[eu-ai-act]] (regulatory overlay on directors' duties)
+- Connects to corporate-governance-uk (UK company law framework)
+- Related to [[ai-act]] (regulatory overlay on directors' duties)
 
 ## Relevance to UK Consumer Harms Research
 

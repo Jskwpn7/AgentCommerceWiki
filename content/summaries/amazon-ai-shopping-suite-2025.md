@@ -16,11 +16,11 @@ tags:
 summary: |
   Amazon has launched a suite of AI-powered shopping features: (1) Help Me Decide — uses LLMs and AWS (Bedrock, OpenSearch, SageMaker) to analyze browsing history and preferences, recommending the right product with one tap; shows upgrade/budget alternatives; (2) Buy for Me — agentic AI (Amazon Nova, Claude on Bedrock) purchases products from external brand websites on customer's behalf; (3) Things to Buy — AI-powered shopping discovery. All features aim to make shopping faster, easier, and more fun through generative AI.
 concepts:
-  - [[ai-shopping]]
-  - [[amazon]]
-  - [[agentic-ai]]
-  - [[product-discovery]]
-  - [[cross-retail-purchasing]]
+  - ai-shopping
+  - amazon
+  - agentic-ai
+  - product-discovery
+  - cross-retail-purchasing
 ---
 
 ## Overview

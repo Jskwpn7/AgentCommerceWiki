@@ -16,11 +16,11 @@ tags:
 summary: |
   Amazon's beta 'Buy for Me' feature uses agentic AI (Amazon Nova, Anthropic Claude on Amazon Bedrock) to purchase products from other brand retailers' websites on behalf of customers. Customers see items under 'Shop brand sites directly,' tap Buy for Me, and Amazon's agent completes checkout on the brand's website using encrypted customer payment details. Order confirmation comes from brand store; delivery/returns managed by brand. Currently testing with limited U.S. customers.
 concepts:
-  - [[agentic-ai]]
-  - [[cross-retail-purchasing]]
-  - [[amazon]]
-  - [[brand-integration]]
-  - [[opaque-purchasing]]
+  - agentic-ai
+  - cross-retail-purchasing
+  - amazon
+  - brand-integration
+  - opaque-purchasing
 ---
 
 ## Overview

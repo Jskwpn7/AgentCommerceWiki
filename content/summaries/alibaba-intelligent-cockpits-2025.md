@@ -16,11 +16,11 @@ tags:
 summary: |
   At WAIC 2025, Alibaba showcased: (1) Next-gen automotive intelligent cockpits powered by Qwen LLMs, developed with Qualcomm and Banma; (2) Yan AI intelligent assistant for in-car interactions; (3) Quark AI Glasses — first self-developed smart eyewear with Qwen-powered features including hands-free calling, music, real-time translation, meeting transcription, Amap navigation, Alipay payments, Taobao price comparison, and Fliggy travel alerts. Quark AI Glasses scheduled for release in China by end of 2025.
 concepts:
-  - [[ai-glasses]]
-  - [[intelligent-cockpits]]
-  - [[wearables]]
-  - [[in-car-ai]]
-  - [[ambient-ai]]
+  - ai-glasses
+  - intelligent-cockpits
+  - wearables
+  - in-car-ai
+  - ambient-ai
 ---
 
 ## Overview

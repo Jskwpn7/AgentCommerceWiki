@@ -25,10 +25,10 @@ tags:
 summary: |
   Evaluates whether LLM agents can simulate real customers to test agentic AI shopping assistants. Compares 40 human participants shopping with Amazon Rufus against digital twins created from their interaction traces. Finds agents explore more diverse choices but action patterns align with humans and yield similar design feedback. First study to quantify how closely LLM agents mirror human multi-turn interaction with agentic AI systems.
 concepts:
-  - [[user-simulation]]
-  - [[llm-as-digital-twin]]
-  - [[amazon-rufus]]
-  - [[agentic-shopping-assistant]]
+  - user-simulation
+  - llm-as-digital-twin
+  - amazon-rufus
+  - agentic-shopping-assistant
 ---
 
 ## Overview
@@ -56,4 +56,4 @@ This research has implications for consumer protection as it enables testing sho
 ## Citations
 
 - Paper: [[arXiv:2509.21501]](https://arxiv.org/abs/2509.21501)
-- Related: [[ecomagentbench-shopping-agents]](./ecomagentbench-shopping-agents-2606.17698)
+- Related: [[ecomagentbench-shopping-agents-2606.17698]]

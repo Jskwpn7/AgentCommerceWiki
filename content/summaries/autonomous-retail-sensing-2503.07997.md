@@ -23,11 +23,11 @@ tags:
 summary: |
   Comprehensive survey of sensing technologies in autonomous retail environments, categorizing solutions for inventory tracking, environmental monitoring, people-tracking, and theft detection. Discusses multi-modal sensing approaches integrating computer vision, RFID, weight sensing, vibration detection, and LiDAR. Outlines future directions for scalable, cost-efficient, and privacy-conscious autonomous store systems.
 concepts:
-  - [[autonomous-retail]]
-  - [[multi-modal-sensing]]
-  - [[privacy]]
-  - [[surveillance]]
-  - [[computer-vision]]
+  - autonomous-retail
+  - multi-modal-sensing
+  - privacy
+  - surveillance
+  - computer-vision
 ---
 
 ## Overview

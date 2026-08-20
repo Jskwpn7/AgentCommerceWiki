@@ -181,7 +181,7 @@ A Riskified "Agentic Commerce Pulse" survey (April 2026) finds:
 
 **Key trend:** The biggest impact of agentic AI will come at the moment of purchase — easing the transition from intent to action. AI agents are also accelerating the "help me figure this out" phase of the middle of the consumer journey.
 
-**The Shopper Schism:** A concept from the [[California Management Review|Berkeley Haas School of Business]] (February 2026): the consumer (person who uses a product) and the shopper (person who buys it) are diverging. Humans still decide what they need; AI agents execute the actual purchase.
+**The Shopper Schism:** A concept from the California Management Review (February 2026): the consumer (person who uses a product) and the shopper (person who buys it) are diverging. Humans still decide what they need; AI agents execute the actual purchase.
 
 ---
 

@@ -95,9 +95,9 @@ The Act's consumer-focused framing makes it a critical companion to the EU AI Ac
 - [[algorithmic-collusion-pricing]] — Complementary regulatory concern at the pricing level
 - [[conflict-of-interest-in-llm-deployment]] — The Act's scope extends to conflicts where AI systems prioritise commercial incentives over consumer welfare
 - [[consumer-rights]] — Provides EU-specific legislative context for consumer rights
-- [[digital-markets-competition-and-consumers-act]] — UK counterpart with analogous enforcement powers
-- [[dark-patterns-in-ai-systems]] — The Act explicitly targets dark patterns as a consumer harm
-- [[eu-ai-act]] — Layered regulatory framework
+- [[the-dmcca]] — UK counterpart with analogous enforcement powers
+- [[dark-pattern]] — The Act explicitly targets dark patterns as a consumer harm
+- [[ai-act]] — Layered regulatory framework
 
 ## References
 

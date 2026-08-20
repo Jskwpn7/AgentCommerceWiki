@@ -21,11 +21,11 @@ tags:
 summary: |
   Introduces Wear-Any-Way, a customizable virtual try-on framework supporting single/multiple garment try-on and model-to-model settings. Proposes sparse correspondence alignment for point-based control — users can drag sleeves to roll them up, drag coats to open them, click to control tuck styles. State-of-the-art for standard virtual try-on with novel interaction form.
 concepts:
-  - [[virtual-try-on]]
-  - [[image-generation]]
-  - [[manipulable-try-on]]
-  - [[fashion-technology]]
-  - [[correspondence-alignment]]
+  - virtual-try-on
+  - image-generation
+  - manipulable-try-on
+  - fashion-technology
+  - correspondence-alignment
 ---
 
 ## Overview

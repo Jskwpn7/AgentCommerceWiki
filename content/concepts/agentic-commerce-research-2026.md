@@ -85,6 +85,7 @@ Consolidated findings from the Agentic Commerce Wiki Monitor (job_id: 38f20a473f
 - **Market legitimacy vs. synthetic volume** — [[agentic-commerce-authenticity]] fills this gap (Ling et al., arXiv 2607.12575)
 - **Agent-mediated dark pattern vulnerability** — [[agent-dark-pattern-susceptibility]] fills this gap (IEEE S&P 2026 + SIGCHI 2026 provide first empirical measurements)
 - **Dual-agent personalised pricing** — [[dual-agent-personalised-pricing]] fills this gap (Xie 2026 provides first formal economic treatment)
+- **Agent permission & enforcement transparency** — [[summaries/how-agents-ask-for-permission-2607.13718-michael-2026]] fills part of this gap (Michael & Roesner 2026: survey of 21 systems + walkthrough of 5 commercial agents; none of the literature systems achieves low overhead + formal spec + deterministic enforcement together; commercial agents force a choice between approval fatigue and opaque LLM auto-review)
 
 ## Recent Additions
 
@@ -115,4 +116,5 @@ Consolidated findings from the Agentic Commerce Wiki Monitor (job_id: 38f20a473f
 - [[ai-shopping-agents]] — Consumer-facing agent behaviours
 - [[dark-pattern]] — Dark pattern taxonomy including AI chatbot patterns
 - [[consumer-rights]] — UK regulatory framework
-- **Chan, Salganik & Krueger (FAccT '23)** — "Harms from Increasingly Agentic Algorithmic Systems" (DOI: 10.1145/3593013.3594033) provides the foundational theoretical framework: four characteristics of agency (underspecification, directness of impact, goal-directedness, long-term planning) and three anticipated harms (systemic/delayed harms, collective disempowerment, emergent reward hacking). Directly relevant to all agentic commerce harms discussed in this digest. (see [[summaries/chan-2023-agentic-algorithmic-systems.md]], [[concepts/collective-disempowerment]], [[concepts/reward-hacking]])
+**- McKinsey/ICSC (Apr 2026)** — "Shopping in the Age of AI: Redefining Stores for a New Era" documents retail industry shift to agent-mediated commerce with $1T forecast; introduces convenience vs discovery framework as key tension. See [[summaries/mckinsey-icsc-shopping-age-ai-2026]].
+**- Chan, Salganik & Krueger (FAccT '23)** — "Harms from Increasingly Agentic Algorithmic Systems" (DOI: 10.1145/3593013.3594033) provides the foundational theoretical framework: four characteristics of agency (underspecification, directness of impact, goal-directedness, long-term planning) and three anticipated harms (systemic/delayed harms, collective disempowerment, emergent reward hacking). Directly relevant to all agentic commerce harms discussed in this digest. (see [[summaries/chan-2023-agentic-algorithmic-systems.md]], [[concepts/collective-disempowerment]], [[concepts/reward-hacking]])**

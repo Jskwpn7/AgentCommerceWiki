@@ -22,11 +22,11 @@ tags:
 summary: |
   Proposes Generative AI-powered agentic framework for supply chain planning at JD.com. Redefines planning as interactive, integrated, automated cognitive process bridging unstructured business contexts with structured analytical workflows. Deployment yields 22% improvement in planning accuracy and 2% increase in in-stock rates. Demonstrates transformation of planning into adaptive, knowledge-driven capability.
 concepts:
-  - [[supply-chain-planning]]
-  - [[generative-ai]]
-  - [[cognitive-interface]]
-  - [[jd-com]]
-  - [[operational-automation]]
+  - supply-chain-planning
+  - generative-ai
+  - cognitive-interface
+  - jd-com
+  - operational-automation
 ---
 
 ## Overview

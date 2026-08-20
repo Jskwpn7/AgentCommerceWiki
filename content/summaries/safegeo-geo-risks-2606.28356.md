@@ -43,8 +43,8 @@ SafeGEO studies the risk that seller-controlled content can be rewritten for Gen
 ## Connection to Other Wiki Entries
 
 - [[agentic-commerce-research-2026]]
-- [[generative-engine-optimization]]
-- [[search-manipulation]]
+- generative-engine-optimization
+- search-manipulation
 - [[recommendation-manipulation]]
 
 ## Key Findings

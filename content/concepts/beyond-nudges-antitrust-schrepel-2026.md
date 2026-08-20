@@ -40,7 +40,7 @@ Behavioural economics sees primarily the first. Complexity economics sees all th
 
 ## UK Competition Law Implications
 
-This framework is directly relevant to UK competition law under the [[CA98]] prohibition on anti-competitive agreements and abuse of dominant position. Specifically:
+This framework is directly relevant to UK competition law under the [[algorithmic-collusion-enforcement]] prohibition on anti-competitive agreements and abuse of dominant position. Specifically:
 
 - **Algorithmic collusion:** If AI agents on competing platforms independently converge on similar pricing or market strategies through interaction with choice architecture, this may constitute coordinated effect even without explicit agreement.
 - **Exploitative abuse:** Dominant platforms could design choice architectures that AI agents — given their documented hypersensitivity — systematically exploit, to the detriment of consumers.

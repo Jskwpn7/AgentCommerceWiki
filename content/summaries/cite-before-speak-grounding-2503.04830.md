@@ -23,11 +23,11 @@ tags:
 summary: |
   Addresses hallucination and misinformation in Conversational Shopping Agents (CSA) by introducing citation generation and auto-evaluation metrics for grounding performance. Citation generation paradigm improves grounding by 13.83%. Introduces Multi-UX-Inference system for scalable deployment. Large-scale A/B tests show grounded responses improve customer engagement by 3-10%.
 concepts:
-  - [[conversational-agents]]
-  - [[grounding]]
-  - [[citation-generation]]
-  - [[hallucination]]
-  - [[multi-ux-inference]]
+  - conversational-agents
+  - grounding
+  - citation-generation
+  - hallucination
+  - multi-ux-inference
 ---
 
 ## Overview

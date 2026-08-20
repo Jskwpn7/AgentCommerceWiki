@@ -24,11 +24,11 @@ tags:
 summary: |
   Introduces Magentic-Marketplace, a simulated environment studying two-sided agentic marketplaces where Assistant agents represent consumers and Service agents represent competing businesses. Frontier models approach optimal welfare only under ideal search conditions. Performance degrades sharply with scale. All models exhibit severe first-proposal bias creating 10-30x advantages for response speed over quality.
 concepts:
-  - [[agentic-marketplace]]
-  - [[first-proposal-bias]]
-  - [[market-manipulation]]
-  - [[search-mechanisms]]
-  - [[agent-welfare]]
+  - agentic-marketplace
+  - first-proposal-bias
+  - market-manipulation
+  - search-mechanisms
+  - agent-welfare
 ---
 
 ## Overview

@@ -42,8 +42,8 @@ Evaluated on JD.com search platform with offline and online A/B testing.
 ## Connection to Other Wiki Entries
 
 - [[agentic-commerce-research-2026]]
-- [[search-manipulation]]
-- [[ranking-opacity]]
+- search-manipulation
+- ranking-opacity
 - [[platform-agent-asymmetry]]
 
 ## Key Findings

@@ -95,7 +95,7 @@ This complements the UK CMA's parallel approach, which focuses on competition-le
 - [[conflict-of-interest-in-llm-deployment]] — Complementary framework for when AI systems face conflicts between user welfare and company incentives
 - [[ai-shopping-agents]] — AI shopping agents are a primary consumer-facing application affected by this policy
 - [[consumer-rights]] — Consumer rights in the context of AI accuracy and transparency
-- [[agency-competition-framework]] — Contrast with UK CMA's competition-focused approach
+- [[cma-ai-and-consumer-markets-2026]] — Contrast with UK CMA's competition-focused approach
 
 ## References
 

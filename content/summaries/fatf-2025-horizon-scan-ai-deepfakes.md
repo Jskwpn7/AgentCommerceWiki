@@ -15,13 +15,13 @@ sources: [raw/articles/fatf-2025-horizon-scan-ai-deepfakes.md]
 The FATF published its "Horizon Scan: AI and Deepfakes" report as part of its staged approach to emerging technologies. The scan identifies and explains developing risks and vulnerabilities associated with AI through the lens of AML/CFT/CPF (Anti-Money Laundering, Countering the Financing of Terrorism, and Countering the Financing of Proliferation).
 
 ## Key Points
-- [[deepfake-enabled-identity-fraud]] — Synthetic media defeating KYC, biometric verification, and liveness checks
-- [[ai-automated-transaction-laundering]] — AI executing complex, high-volume laundering that defeats rules-based detection
-- [[detection-vs-creation-gap]] — Fraud detection tech lagging behind generative AI capabilities
-- [[cross-border-aml-vulnerabilities]] — Inconsistent AML regulations across jurisdictions magnifying risks
-- [[regtech-defence]] — FATF encourages AI deployment for compliance (anomaly detection, screening)
-- [[ai-risk-governance]] — Supervisors intensifying scrutiny; firms need structured AI risk frameworks
-- [[public-private-info-sharing]] — Recommendation for mechanisms to share AI-threat intelligence
+- deepfake-enabled-identity-fraud — Synthetic media defeating KYC, biometric verification, and liveness checks
+- ai-automated-transaction-laundering — AI executing complex, high-volume laundering that defeats rules-based detection
+- detection-vs-creation-gap — Fraud detection tech lagging behind generative AI capabilities
+- cross-border-aml-vulnerabilities — Inconsistent AML regulations across jurisdictions magnifying risks
+- regtech-defence — FATF encourages AI deployment for compliance (anomaly detection, screening)
+- ai-risk-governance — Supervisors intensifying scrutiny; firms need structured AI risk frameworks
+- public-private-info-sharing — Recommendation for mechanisms to share AI-threat intelligence
 
 ## FATF Recommendations
 1. Conduct AI deepfake risk assessments

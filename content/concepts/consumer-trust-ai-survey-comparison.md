@@ -87,7 +87,7 @@ The trust data supports several regulatory actions:
 - [[ai-shopping-agents]] — Trust gap as barrier to agentic commerce adoption (19% UK)
 - [[wu-2026-ads-in-ai-chatbots]] — Sponsored content recommendation rates undermine trust
 - [[ftc-suppression-of-accuracy-policy-2026]] — FTC addresses accuracy as trust foundation
-- [[deepfake-voice]] — Deepfake voice fraud eroding telecom trust (38% switching readiness)
+- [[hiya-state-of-call-2026]] — Deepfake voice fraud eroding telecom trust (38% switching readiness)
 - [[consumer-rights]] — Regulatory frameworks needed to restore trust
 - [[cma-ai-and-consumer-markets-2026]] — CMA flags trust/competition concerns in agentic AI
 

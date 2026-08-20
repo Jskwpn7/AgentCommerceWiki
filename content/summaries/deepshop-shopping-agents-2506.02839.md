@@ -47,7 +47,7 @@ Web agents for online shopping have shown promise in automating user interaction
 - [[agentic-commerce-research-2026]]
 - [[platform-agent-asymmetry]]
 - [[recommendation-manipulation]]
-- [[generative-engine-optimization]]
+- generative-engine-optimization
 
 ## Key Findings
 

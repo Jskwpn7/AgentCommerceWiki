@@ -129,14 +129,22 @@ Table: # | Title | Source | Date | Relevance | Closeness | Key Claim | Harms Rel
 ## DELIVERY MANDATE
 1. Produce the complete structured report
 2. Write the report to `/home/bob/Hermes/Work_Folder/wiki/summaries/agentic-commerce-monitor-[DATE].md`
-3. Append the "Copy-Paste Ingest Prompt" block
-4. End your response with the report and ingest prompt — your response IS the delivery
-5. **DO NOT** take any further action — no wiki edits, no git commits, no file patches
+3. **MUST send email attachment** (do NOT skip this):
+   ```bash
+   cat << 'MML_EOF' | himalaya message send
+   From: ralphbot31@gmail.com
+   To: area-buddy-manhood@duck.com
+   Subject: Agentic Commerce Wiki Monitor — [DATE]
 
-### Deliver by email
-To: area-buddy-manhood@duck.com
-Subject: Weekly Consumer Harms Research Review — YYYY-MM-DD
-Content: ONLY send the md report file as an attachment, not need to write or copy anything into the email body.
+   <#multipart type=mixed>
+   <#part type=text/plain>
+   Agentic Commerce Wiki Monitor report attached.
+   <#part filename=/home/bob/Hermes/Work_Folder/wiki/summaries/agentic-commerce-monitor-[DATE].md><#/part>
+   <#/multipart>
+   MML_EOF
+   ```
+4. Append the "Copy-Paste Ingest Prompt" block
+5. End your response with the report and ingest prompt — your response IS the delivery
 
 ### Deliver to Telegram
 Your final response IS the report (sections A–D). Do NOT repeat it — the system will deliver your message to Telegram automatically. Also include the COPY THIS PROMPT block below your report in your final response, so the user can copy-paste it directly.

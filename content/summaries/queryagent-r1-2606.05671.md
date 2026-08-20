@@ -23,11 +23,11 @@ tags:
 summary: |
   Introduces QueryAgent-R1, a memory-augmented agentic framework improving end-to-end query-product alignment via chain-of-retrieval optimization. Grounds query generation in real inventory retrieval. Designs consistency reward for RL process jointly optimizing query relevance and downstream engagement. Memory abstraction module for efficient user profiling. Improves Query CTR by 2.9% and guided CVR by 3.1% in production A/B tests.
 concepts:
-  - [[query-generation]]
-  - [[chain-of-retrieval]]
-  - [[agentic-rl]]
-  - [[memory-abstraction]]
-  - [[query-product-alignment]]
+  - query-generation
+  - chain-of-retrieval
+  - agentic-rl
+  - memory-abstraction
+  - query-product-alignment
 ---
 
 ## Overview

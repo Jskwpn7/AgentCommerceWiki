@@ -1,3 +1,12 @@
+---
+title: "UK Consumer Harms — Weekly Research Review 2026-08-03"
+created: 2026-08-03
+updated: 2026-08-15
+type: summary
+tags: [cma, fca, dmcc-act-2024, dark-pattern, agentic-ai, report, research, digital-consumer, cost-of-living, eu-commission, ftc]
+confidence: high
+---
+
 # UK Consumer Harms — Weekly Research Review
 
 **Review Period:** 28 July 2026 – 3 August 2026  

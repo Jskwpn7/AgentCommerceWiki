@@ -22,10 +22,10 @@ tags:
 summary: |
   Introduces TERMS-Bench (Testbed for Economic Reasoning in Multi-turn Strategy), a Bayesian-game framework for diagnosing LLM negotiation agents. Makes the environment itself the verifier by specifying counterpart's latent type, policy, and payoff structure. Evaluates 13 LLM agents, revealing agent-specific bargaining bottlenecks masked by prior benchmarks.
 concepts:
-  - [[negotiation-benchmark]]
-  - [[bayesian-game]]
-  - [[agent-diagnosis]]
-  - [[economic-reasoning]]
+  - negotiation-benchmark
+  - bayesian-game
+  - agent-diagnosis
+  - economic-reasoning
 ---
 
 ## Overview

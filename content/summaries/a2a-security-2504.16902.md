@@ -19,11 +19,11 @@ tags:
 summary: |
   Comprehensive security analysis of Google's Agent2Agent (A2A) protocol using the MAESTRO framework. Examines fundamental elements and operational dynamics, focusing on Agent Card management, task execution integrity, and authentication methodologies. Provides proactive threat modeling for A2A deployments as agentic AI systems evolve to complex multi-agent collaboration.
 concepts:
-  - [[a2a-protocol]]
-  - [[security-analysis]]
-  - [[threat-modeling]]
-  - [[agent-card]]
-  - [[authentication]]
+  - a2a-protocol
+  - security-analysis
+  - threat-modeling
+  - agent-card
+  - authentication
 ---
 
 ## Overview

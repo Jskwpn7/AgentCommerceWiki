@@ -19,10 +19,10 @@ tags:
 summary: |
   Introduces τ²-bench, addressing the gap in evaluating conversational AI agents where both user and AI can modify shared world state. Four key contributions: (1) dual-control environments, (2) technical support scenarios, (3) user-participatory interaction, (4) shared-world modification. Moves beyond single-control benchmarks where users only provide information.
 concepts:
-  - [[dual-control]]
-  - [[shared-world]]
-  - [[technical-support]]
-  - [[user-participation]]
+  - [[t2-bench-dual-control-2506.07982]]
+  - shared-world
+  - technical-support
+  - user-participation
 ---
 
 ## Overview

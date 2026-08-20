@@ -21,11 +21,11 @@ tags:
 summary: |
   Introduces SimPersona, a framework learning discrete buyer types from historical clickstreams using behavior-aware VQ-VAE. Achieves 78% conversion-rate alignment with real buyers across 8.37M buyers and 42 storefronts. Outperforms baseline with 8x more parameters. Releases open-source data pipeline for converting raw e-commerce event logs into agent-training traces.
 concepts:
-  - [[buyer-persona]]
-  - [[clickstream-analysis]]
-  - [[vq-vae]]
-  - [[user-simulation]]
-  - [[population-level]]
+  - buyer-persona
+  - clickstream-analysis
+  - vq-vae
+  - user-simulation
+  - population-level
 ---
 
 ## Overview

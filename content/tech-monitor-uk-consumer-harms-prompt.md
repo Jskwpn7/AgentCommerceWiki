@@ -13,7 +13,7 @@ Markets include: financial services, insurance, pensions, energy, green technolo
 - **Do NOT ingest into the wiki** — produce the report only
 - **Do NOT create any wiki pages** — no summaries/, concepts/, entities/, or patches
 - **Do NOT modify any wiki files** — no index.md, no log.md, no page edits
-- **After delivering the report, STOP immediately** — the report is for your review only
+- **After delivering the report and sending email, STOP** — do not ingest into the wiki
 - **The "Copy-Paste Ingest Prompt" block below is ONLY for you (the user) to copy into a new session** — NEVER execute it yourself in this run
 - **This single session runs ONLY the discovery report — nothing else**
 - **No `browser_navigate`** — use `web_search`, `web_extract`, `curl`
@@ -105,10 +105,83 @@ Content structure:
 ### 7. Deliver to Telegram
 Your final response IS the report (sections A–D). Do NOT repeat it — the system will deliver your message to Telegram automatically. Also include the COPY THIS PROMPT block below your report in your final response, so the user can copy-paste it directly.
 
-### 8. Deliver by email
-to: area-buddy-manhood@duck.com
-subject: Weekly Consumer Harms Research Review — YYYY-MM-DD
-Content: ONLY send the md report file as an attachment, not need to write or copy anything into the email body.
+### 8. Deliver by email (MANDATORY)
+Use Python's `smtplib` to send the email with a proper MIME attachment (himalaya v2.0.0 does not parse MML from stdin — it treats stdin as raw text body). 
+
+Write a Python script, substitute today's date, then execute it:
+
+```bash
+python3 -c "
+import re
+script = open('/tmp/email_template.py').read()
+script = script.replace('YYYY-MM-DD', 'TODAY_DATE')
+open('/tmp/send_weekly_email.py', 'w').write(script)
+" && python3 /tmp/send_weekly_email.py
+```
+
+The template at `/tmp/email_template.py` should contain:
+
+```python
+import smtplib
+import os
+import tomllib
+from email.mime.multipart import MIMEMultipart
+from email.mime.text import MIMEText
+from email.mime.base import MIMEBase
+from email import encoders
+from urllib.parse import urlparse
+
+TODAY = 'YYYY-MM-DD'
+REPORT = f'/home/bob/Hermes/Work_Folder/wiki/summaries/consumer-harms-weekly-review-{TODAY}.md'
+
+with open(os.path.expanduser('~/.config/himalaya/config.toml'), 'rb') as f:
+    config = tomllib.load(f)
+
+acct_cfg = config['accounts']
+account_name = None
+for name, cfg in acct_cfg.items():
+    if cfg.get('default', False):
+        account_name = name
+        break
+if not account_name:
+    account_name = list(acct_cfg.keys())[0]
+
+account = acct_cfg[account_name]
+smtp_url = account['smtp']['server']
+parsed = urlparse(smtp_url)
+smtp_host = parsed.hostname
+smtp_port = parsed.port or 465
+smtp_user = account['email']
+password = account['smtp']['sasl']['plain']['password']['raw']
+
+msg = MIMEMultipart()
+msg['From'] = smtp_user
+msg['To'] = 'area-buddy-manhood@duck.com'
+msg['Subject'] = f'Weekly Consumer Harms Research Review — {TODAY}'
+
+msg.attach(MIMEText('Weekly Consumer Harms Research Review report attached.', 'plain'))
+
+with open(REPORT, 'rb') as f:
+    part = MIMEBase('application', 'octet-stream')
+    part.set_payload(f.read())
+    encoders.encode_base64(part)
+    part.add_header('Content-Disposition', f'attachment; filename="consumer-harms-weekly-review-{TODAY}.md"')
+    msg.attach(part)
+
+if smtp_url.startswith('smtps://'):
+    with smtplib.SMTP_SSL(smtp_host, smtp_port) as server:
+        server.login(smtp_user, password)
+        server.send_message(msg)
+else:
+    with smtplib.SMTP(smtp_host, smtp_port) as server:
+        server.starttls()
+        server.login(smtp_user, password)
+        server.send_message(msg)
+
+print(f'Email sent with MD attachment to area-buddy-manhood@duck.com')
+```
+
+Store the template at `/tmp/email_template.py` before the cron run. Verify with: `himalaya envelope list --mailbox "[Gmail]/Sent Mail" --recipient --has-attachment | grep "Weekly Consumer"`
 
 ## DELIVERY — END OF REPORT
 After your report, append the following ready-to-copy ingest prompt that the user can take to a new session and paste. This block is the **only thing** the user needs to start the ingestion process. Format it exactly as shown.

@@ -20,11 +20,11 @@ tags:
 summary: |
   Proposes autonomous LLM agents for supply chain consensus-seeking, addressing the bullwhip effect and human coordination bottlenecks. LLMs trained on vast datasets can negotiate, reason, and plan near-human-level consensus at scale with minimal entry barriers. Introduces novel supply chain-specific consensus-seeking frameworks for LLM agents, validated in inventory management case study. Open-sourced code.
 concepts:
-  - [[supply-chain-management]]
-  - [[consensus-seeking]]
-  - [[bullwhip-effect]]
-  - [[llm-negotiation]]
-  - [[agent-automation]]
+  - supply-chain-management
+  - consensus-seeking
+  - bullwhip-effect
+  - llm-negotiation
+  - agent-automation
 ---
 
 ## Overview

@@ -19,11 +19,11 @@ tags:
 summary: |
   Evaluates three MARL algorithms (MADDPG, MADQN, QMIX) for dynamic pricing against static rule-based baselines in simulated e-commerce environment. MADQN exhibits most aggressive pricing with highest volatility and lowest fairness (0.5844). MADDPG provides balanced approach with market competition and high fairness (0.8819). Demonstrates MARL introduces emergent strategic behavior not captured by static pricing rules.
 concepts:
-  - [[dynamic-pricing]]
-  - [[marl]]
-  - [[price-collusion]]
-  - [[algorithmic-pricing]]
-  - [[fairness]]
+  - dynamic-pricing
+  - marl
+  - price-collusion
+  - [[hotel-algorithmic-pricing-investigation]]
+  - [[eu-digital-fairness-act]]
 ---
 
 ## Overview

@@ -20,10 +20,10 @@ tags:
 summary: |
   Introduces Shopping Companion Bench, a benchmark for long-term preference-aware shopping tasks with 1.2M real-world items. Identifies two failure modes: cascading errors from preference hallucination and insufficient product attribute verification. Designs annotation-free, tool-wise rewards for process supervision. Fine-tuned 4B model outperforms strong baselines.
 concepts:
-  - [[preference-memory]]
-  - [[long-horizon]]
-  - [[preference-hallucination]]
-  - [[tool-wise-rewards]]
+  - preference-memory
+  - long-horizon
+  - preference-hallucination
+  - tool-wise-rewards
 ---
 
 ## Overview

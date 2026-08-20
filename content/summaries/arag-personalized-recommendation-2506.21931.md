@@ -46,8 +46,8 @@ ARAG (Agentic Retrieval Augmented Generation) integrates a multi-agent collabora
 ## Connection to Other Wiki Entries
 
 - [[agentic-commerce-research-2026]]
-- [[filter-bubbles]]
-- [[preference-manipulation]]
+- filter-bubbles
+- preference-manipulation
 - [[platform-agent-asymmetry]]
 
 ## Key Findings

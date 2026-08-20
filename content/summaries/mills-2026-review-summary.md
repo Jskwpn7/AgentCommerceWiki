@@ -97,7 +97,7 @@ The Mills Review represents the **first major regulatory action globally** speci
 - [[ai-shopping-agents]] — Analogous consumer-facing AI agent dynamics in non-financial commerce
 - [[agentic-commerce-research-2026]] — Broader agentic commerce research context
 - [[drcf-future-agentic-ai-foresight-2026]] — Cross-regulatory coordination (DRCF = CMA/FCA/ICO/Ofcom)
-- [[digital-markets-competition-and-consumers-act]] — UK regulatory framework context
+- digital-markets-competition-and-consumers-act — UK regulatory framework context
 - [[conflict-of-interest-in-llm-deployment]] — When AI system incentives diverge from user welfare
 
 ## References

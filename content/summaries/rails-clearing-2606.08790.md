@@ -16,11 +16,11 @@ tags:
 summary: |
   Introduces RAILS, a verification-native clearing mechanism for agentic commerce. Addresses the fundamental question of how to determine whether autonomous agents — who negotiate, purchase, deploy code, and move funds — should be allowed to complete transactions. Proposes on-chain verification mechanisms for agent-to-agent commerce.
 concepts:
-  - [[clearing-mechanism]]
-  - [[agent-commerce]]
-  - [[verification]]
-  - [[onchain-settlement]]
-  - [[agent-payments]]
+  - clearing-mechanism
+  - agent-commerce
+  - verification
+  - onchain-settlement
+  - agent-payments
 ---
 
 ## Overview

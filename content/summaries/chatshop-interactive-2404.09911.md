@@ -17,11 +17,11 @@ tags:
 summary: |
   Reforms web shopping task from single-turn retrieval to interactive multi-turn information seeking with task ambiguity and dynamic shopper interaction. Shows LLM-simulated shoppers serve as good proxy for real human shoppers, revealing similar error patterns. Provides framework for evaluating agent strategic exploration through gradual information accumulation.
 concepts:
-  - [[information-seeking]]
-  - [[interactive-agents]]
-  - [[task-ambiguity]]
-  - [[shopper-proxy]]
-  - [[strategic-exploration]]
+  - information-seeking
+  - interactive-agents
+  - task-ambiguity
+  - shopper-proxy
+  - strategic-exploration
 ---
 
 ## Overview

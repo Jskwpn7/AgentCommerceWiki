@@ -44,7 +44,7 @@ A foundational policy analysis asking whether EU consumer law is ready for agent
 
 ## Regulatory Implications
 
-The paper provides a structured analysis of which existing EU consumer law provisions will remain relevant and which will need redesign. Of particular significance for UK regulators: the UK Consumer Rights Act 2015 and Consumer Protection from Unfair Trading Regulations 2008 inherit the same human-centric assumptions as EU law, creating parallel readiness gaps post-Brexit. The analysis is directly relevant to [[the-mills-review-summary]]'s recommendations on agentic finance infrastructure.
+The paper provides a structured analysis of which existing EU consumer law provisions will remain relevant and which will need redesign. Of particular significance for UK regulators: the UK Consumer Rights Act 2015 and Consumer Protection from Unfair Trading Regulations 2008 inherit the same human-centric assumptions as EU law, creating parallel readiness gaps post-Brexit. The analysis is directly relevant to [[the-mills-review]]'s recommendations on agentic finance infrastructure.
 
 ## Assessment
 

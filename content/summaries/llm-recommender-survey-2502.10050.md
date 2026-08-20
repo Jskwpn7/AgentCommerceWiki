@@ -20,12 +20,12 @@ tags:
 summary: |
   Systematic survey of LLM-powered agents in recommender systems, identifying three key paradigms: (1) Recommender-oriented approaches enhancing recommendation mechanisms, (2) Interaction-oriented approaches enabling natural dialogue, (3) Simulation-oriented approaches using multi-agent frameworks. Analyzes architectural components (profile construction, memory management, strategic planning, action execution) and reviews benchmark datasets and evaluation frameworks.
 concepts:
-  - [[llm-recommender]]
-  - [[three-paradigms]]
-  - [[architecture]]
-  - [[benchmark]]
-  - [[multi-agent-simulation]]
-  - [[user-engagement]]
+  - [[llm-recommender-survey-2502.10050]]
+  - three-paradigms
+  - architecture
+  - benchmark
+  - multi-agent-simulation
+  - user-engagement
 ---
 
 ## Overview

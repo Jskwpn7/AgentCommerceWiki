@@ -40,9 +40,9 @@ Agentic AI model for inventory monitoring, supplier purchase initiation, and tre
 ## Connection to Other Wiki Entries
 
 - [[agentic-commerce-research-2026]]
-- [[supply-chain-opacity]]
-- [[algorithmic-price-collusion]]
-- [[inventory-manipulation]]
+- supply-chain-opacity
+- [[algorithmic-collusion-pricing]]
+- inventory-manipulation
 
 ## Key Findings
 

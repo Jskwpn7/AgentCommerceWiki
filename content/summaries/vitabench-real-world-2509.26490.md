@@ -24,10 +24,10 @@ tags:
 summary: |
   Introduces VitaBench, a benchmark evaluating LLM agents on versatile interactive tasks in real-world settings. Uses 66 tools across food delivery, in-store consumption, and online travel services. 100 cross-scenario tasks + 300 single-scenario tasks. Even advanced models achieve only 30% success on cross-scenario tasks. Proposes rubric-based sliding window evaluator.
 concepts:
-  - [[real-world-benchmark]]
-  - [[tool-use]]
-  - [[multi-domain]]
-  - [[rubric-evaluation]]
+  - real-world-benchmark
+  - tool-use
+  - multi-domain
+  - rubric-evaluation
 ---
 
 ## Overview
@@ -57,4 +57,4 @@ The low success rates suggest current LLM agents are not yet reliable for comple
 ## Citations
 
 - Paper: [[arXiv:2509.26490]](https://arxiv.org/abs/2509.26490)
-- Website: [[vitabench.github.io]](https://vitabench.github.io/)
+- Website: [vitabench.github.io](https://vitabench.github.io/)

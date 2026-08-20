@@ -22,12 +22,12 @@ tags:
 summary: |
   Proposes LLM-based framework jointly performing living need prediction and service recommendation for local life services. Introduces behavioral clustering to filter noise from raw consumption data. Uses curriculum learning + RL with verifiable rewards to navigate need-to-merchant mapping. Enhances both need prediction performance and recommendation accuracy, with gains in long-tail scenarios.
 concepts:
-  - [[local-life-service]]
-  - [[need-prediction]]
-  - [[curriculum-learning]]
-  - [[verifiable-rewards]]
-  - [[behavioral-clustering]]
-  - [[long-tail-recommendation]]
+  - local-life-service
+  - need-prediction
+  - curriculum-learning
+  - verifiable-rewards
+  - behavioral-clustering
+  - long-tail-recommendation
 ---
 
 ## Overview

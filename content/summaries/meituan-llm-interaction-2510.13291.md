@@ -45,9 +45,9 @@ Key metrics: USM 1 -27.53% improvement, USM 2 +25.51% improvement.
 ## Connection to Other Wiki Entries
 
 - [[agentic-commerce-research-2026]]
-- [[automated-customer-service]]
+- automated-customer-service
 - [[platform-agent-asymmetry]]
-- [[human-recourse]]
+- human-recourse
 
 ## Key Findings
 

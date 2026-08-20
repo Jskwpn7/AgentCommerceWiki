@@ -46,9 +46,9 @@ EcomBench is a holistic E-commerce Benchmark designed to evaluate agent performa
 ## Connection to Other Wiki Entries
 
 - [[agentic-commerce-research-2026]]
-- [[evaluation-gaps]]
-- [[benchmark-reliability]]
-- [[consumer-protection]]
+- evaluation-gaps
+- benchmark-reliability
+- consumer-protection
 
 ## Key Findings
 

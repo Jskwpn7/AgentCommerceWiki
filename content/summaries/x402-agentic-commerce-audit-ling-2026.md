@@ -67,7 +67,7 @@ This paper is directly relevant to [[agentic-commerce-authenticity]] and raises 
 
 - **Inflated market legitimacy:** If agentic commerce platforms cite x402 transaction volumes as evidence of market maturity, this paper demonstrates those metrics are easily gamed.
 - **Consumer deception:** Consumers may be transacting with fake agents, synthetic pricing, or inflated service metrics.
-- **Regulatory misinformation:** Regulators may be misled by synthetic adoption metrics when setting policy or enforcing [[UCP]]-related regulations.
+- **Regulatory misinformation:** Regulators may be misled by synthetic adoption metrics when setting policy or enforcing [[universal-commerce-protocol-ucp]]-related regulations.
 - **Fraud risk:** The concentration of settlements (Gini > 0.98) suggests a single entity controls the vast majority of "agentic" commerce, contradicting the decentralised, agent-driven narrative.
 
 This provides a critical counterpoint to optimistic agentic commerce adoption claims referenced in [[agentic-commerce-research-2026]].

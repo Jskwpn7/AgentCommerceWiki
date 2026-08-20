@@ -48,7 +48,7 @@ The research draws on comparative case studies of open finance implementations i
 
 ## Related Pages
 
-- [[cais-agentic-ai-ecosystem-2026]] — CCAIS agentic AI ecosystem framework
+- cais-agentic-ai-ecosystem-2026 — CCAIS agentic AI ecosystem framework
 - [[nist-nccoe-2026-agent-identity-authorization]] — NCCoE agent identity and authorization
 - [[ccaf-2025-dpi-dfs]] — CCAF DPI and DFS convergence report
 

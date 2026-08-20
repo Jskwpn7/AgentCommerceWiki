@@ -40,9 +40,9 @@ This perspective paper examines the shift from passive LLM text generation to ag
 ## Connection to Other Wiki Entries
 
 - [[agentic-commerce-research-2026]]
-- [[governance-risk]]
+- governance-risk
 - [[platform-agent-asymmetry]]
-- [[multi-agent-systems]]
+- multi-agent-systems
 
 ## Key Findings
 

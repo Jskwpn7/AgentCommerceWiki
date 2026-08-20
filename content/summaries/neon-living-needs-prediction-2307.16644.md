@@ -24,11 +24,11 @@ tags:
 summary: |
   NEON (Living NEeds predictiON) is a production system deployed on Meituan's life service platform predicting users' living needs for food, housing, entertainment, etc. Three-phase system: feature mining (spatiotemporal modeling), feature fusion (neural network for user representation), multi-task prediction (needs-meeting way prediction). Deployed at scale with large-scale A/B testing confirming downstream application improvements.
 concepts:
-  - [[needs-prediction]]
-  - [[spatiotemporal-modeling]]
-  - [[meituan]]
-  - [[personalization]]
-  - [[user-profiling]]
+  - [[neon-living-needs-prediction-2307.16644]]
+  - spatiotemporal-modeling
+  - meituan
+  - personalization
+  - user-profiling
 ---
 
 ## Overview

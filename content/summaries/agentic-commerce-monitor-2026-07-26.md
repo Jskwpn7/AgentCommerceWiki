@@ -1,3 +1,12 @@
+---
+title: "Agentic Commerce Monitor — Weekly Discovery Report 2026-07-26"
+created: 2026-07-26
+updated: 2026-08-15
+type: summary
+tags: [agentic-ai, protocol-competition, cma, ftc, dmcc-act-2024, dark-pattern, agent-liability, data-abuse, gatekeeping, report, research]
+confidence: high
+---
+
 # Agentic Commerce Monitor — Weekly Discovery Report
 
 **Report date:** 2026-07-26  

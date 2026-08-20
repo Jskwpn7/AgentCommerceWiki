@@ -20,11 +20,11 @@ tags:
 summary: |
   Introduces Recommender AI Agent integrating LLMs with domain-specific recommender models. Addresses the tradeoff between LLM general capabilities and recommender system domain expertise. Proposes approach where LLMs handle conversation and explanation while domain-specific models handle item ranking, avoiding expensive fine-tuning for each domain.
 concepts:
-  - [[recommender-agent]]
-  - [[llm-recommender]]
-  - [[interactive-rec]]
-  - [[domain-knowledge]]
-  - [[conversational-recommendation]]
+  - recommender-agent
+  - [[llm-recommender-survey-2502.10050]]
+  - interactive-rec
+  - domain-knowledge
+  - conversational-recommendation
 ---
 
 ## Overview

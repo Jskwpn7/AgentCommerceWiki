@@ -14,10 +14,10 @@ tags:
 summary: |
   Perplexity AI offers an AI-powered search and shopping assistant enabling users to discover and research products through conversational AI. Features include Computer mode for multi-step tasks, Spaces for organized research, and Artifacts for deliverables. The platform represents the growing convergence of search, AI assistance, and product discovery.
 concepts:
-  - [[ai-shopping-assistant]]
-  - [[search-convergence]]
-  - [[consumer-product]]
-  - [[multi-step-automation]]
+  - ai-shopping-assistant
+  - search-convergence
+  - consumer-product
+  - multi-step-automation
 ---
 
 ## Overview

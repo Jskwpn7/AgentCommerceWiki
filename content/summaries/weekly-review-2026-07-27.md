@@ -106,7 +106,7 @@ tags: [meta, review]
 ### [[the-dmcca]] — Add StubHub and Marks Electrical Fines
 - **Update:** Add the StubHub fine (£900,000, June 23, 2026) and Marks Electrical fine (£720,000, ~June 3, 2026) as DMCCA enforcement cases. StubHub involved hidden fees; Marks Electrical involved automatic opt-ins for additional charges. These demonstrate the CMA's growing enforcement pipeline under DMCCA powers. Also note the Ryanair investigation (opened June 10, 2026) involving mandatory family seating fees presented as optional — a case that extends beyond straightforward drip pricing.
 
-### [[dsa]] — Add AliExpress €550M Fine and TikTok Enforcement
+### [[digital-services-act]] — Add AliExpress €550M Fine and TikTok Enforcement
 - **Update:** Add the €550M AliExpress fine (July 20, 2026) for DSA non-compliance — this is the second-largest DSA fine after X's €120M. Add the TikTok addictive design enforcement (preliminary findings, Feb 2026) as ongoing DSA enforcement. Both are significant for cross-jurisdictional implications on UK consumer protection.
 
 ---
@@ -143,7 +143,7 @@ tags: [meta, review]
 ### 4. DSA Enforcement as Consumer Protection
 - **Gap:** The DSA enforcement wave (AliExpress €550M, TikTok addictive design investigation, X €120M) has implications for UK consumers who use EU platforms. The cross-jurisdictional effects are underexplored.
 - **Assessment:** The AliExpress fine is the biggest DSA penalty to date and relates to product marketplace safety — directly relevant to UK consumers shopping on EU platforms.
-- **Recommendation:** **Update** [[dsa]] with latest enforcement actions; consider a cross-jurisdictional section on [[consumer-protection-uk-eu]].
+- **Recommendation:** **Update** [[digital-services-act]] with latest enforcement actions; consider a cross-jurisdictional section on consumer-protection-uk-eu.
 
 ### 5. Agent Architecture Safety Trade-offs
 - **Gap:** The comparison between adaptive LLM-based agents and end-to-end agents (2509.10723) reveals a fundamental safety-competence trade-off in agent design. No wiki page covers this.
@@ -174,5 +174,5 @@ tags: [meta, review]
 | 3 | Create summary | [[dark-patterns-llm-web-agents-sp2026]] (2510.18113) | HIGH |
 | 4 | Create summary | [[dark-patterns-gui-agents-2026]] (2509.10723) | HIGH |
 | 5 | Create summary | [[micro-transaction-agentic-ecommerce-ventirozos-2026]] (2606.24783) | MEDIUM |
-| 6 | Update | [[dark-pattern]], [[ai-shopping-agents]], [[personalised-pricing-ai]], [[agentic-commerce-research-2026]], [[cma-ai-and-consumer-markets-2026]], [[the-dmcca]], [[dsa]] | HIGH |
+| 6 | Update | [[dark-pattern]], [[ai-shopping-agents]], [[personalised-pricing-ai]], [[agentic-commerce-research-2026]], [[cma-ai-and-consumer-markets-2026]], [[the-dmcca]], [[digital-services-act]] | HIGH |
 | 7 | Create case study | [[ryanair-cma-investigation-2026]] (entity) | MEDIUM |

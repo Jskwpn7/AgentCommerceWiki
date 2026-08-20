@@ -49,6 +49,6 @@ Stablecoins offer push-based settlement, 24/7 availability, microtransactions, a
 
 ## Cross-References
 
-- See [[agentic-payments-protocols]] for protocol-level analysis
+- See agentic-payments-protocols for protocol-level analysis
 - See [[institutional-design-for-ai-agents]] for framework on agent liability
 - See [[mills-2026-review-summary]] for UK FCA perspective on agentic finance

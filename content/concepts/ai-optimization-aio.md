@@ -29,9 +29,9 @@ Unlike SEO, which optimizes for keyword rankings in a list of links, AIO optimiz
 
 ## Consumer harm risks
 
-- **Algorithmic Steering:** AIO enables a new form of [[misleading-practice]] where the "best" recommendation provided by an agent is actually the most "AI-optimized" one, not the one with the best value or quality.
+- **Algorithmic Steering:** AIO enables a new form of [[dark-patterns-choice-architecture]] where the "best" recommendation provided by an agent is actually the most "AI-optimized" one, not the one with the best value or quality.
 - **Opacity of Influence:** Consumers have no visibility into the AIO strategies used to steer the agent's choice, creating a "black box" of commercial influence.
-- **Erosion of Choice:** By narrowing the options presented to the user (from a list of 10 search results to 1 agent recommendation), AIO significantly alters the [[choice-architecture]] of the market.
+- **Erosion of Choice:** By narrowing the options presented to the user (from a list of 10 search results to 1 agent recommendation), AIO significantly alters the [[dark-patterns-choice-architecture]] of the market.
 - **Preference Distortion:** Over time, AIO can shape consumer preferences by consistently presenting a narrow set of "optimized" options, mirroring the harms described in [[ai-agents-in-markets]].
 
 ## Related concepts

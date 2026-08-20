@@ -46,9 +46,9 @@ CustomerSim evaluates MLLMs' ability to simulate realistic, persona-driven custo
 ## Connection to Other Wiki Entries
 
 - [[agentic-commerce-research-2026]]
-- [[user-simulation]]
-- [[alignment-gaps]]
-- [[sales-manipulation]]
+- user-simulation
+- alignment-gaps
+- sales-manipulation
 
 ## Key Findings
 

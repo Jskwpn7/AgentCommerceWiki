@@ -23,12 +23,12 @@ tags:
 summary: |
   Enterprise Deep Research (EDR) is a multi-agent system integrating master planning, four specialized search agents, MCP-based tool ecosystem, visualization, and reflection mechanisms. Supports NL2SQL, file analysis, and enterprise workflows. On open-ended benchmarks (DeepResearch Bench, DeepConsult), EDR outperforms state-of-the-art agentic systems without human steering. Framework and benchmark trajectories released.
 concepts:
-  - [[enterprise-research]]
-  - [[multi-agent-systems]]
-  - [[deep-research]]
-  - [[steerable-ai]]
-  - [[nl2sql]]
-  - [[mcp-ecosystem]]
+  - enterprise-research
+  - multi-agent-systems
+  - deep-research
+  - steerable-ai
+  - nl2sql
+  - mcp-ecosystem
 ---
 
 ## Overview

@@ -20,10 +20,10 @@ tags:
 summary: |
   Introduces Recommendation Atlas (Agentic Tool-Level Assessment for Shopping), a benchmark evaluating shopping agents with behavior-grounded metrics. Complements held-out interaction metrics with learned utility proxies. Tests agents with semantic, behavior-aligned, or faulty tools. Shows semantic plausibility does not capture behavior-grounded utility.
 concepts:
-  - [[behavior-grounded]]
-  - [[set-level-utility]]
-  - [[tool-use]]
-  - [[semantic-plausibility]]
+  - behavior-grounded
+  - set-level-utility
+  - tool-use
+  - semantic-plausibility
 ---
 
 ## Overview

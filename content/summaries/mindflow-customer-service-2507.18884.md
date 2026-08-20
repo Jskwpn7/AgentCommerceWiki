@@ -19,11 +19,11 @@ tags:
 summary: |
   MindFlow+ is a self-evolving dialogue agent combining LLMs with imitation learning and offline RL for e-commerce customer service. Introduces tool-augmented demonstration construction (ReAct-style interactions) and reward-conditioned data modeling. Proposes AI Contribution Ratio metric quantifying AI involvement in dialogue. Outperforms baselines in contextual relevance, flexibility, and task accuracy on real-world conversations.
 concepts:
-  - [[customer-service]]
-  - [[self-evolving-agents]]
-  - [[imitation-learning]]
-  - [[offline-rl]]
-  - [[ai-contribution-ratio]]
+  - [[mindflow-customer-service-2507.18884]]
+  - self-evolving-agents
+  - imitation-learning
+  - offline-rl
+  - ai-contribution-ratio
 ---
 
 ## Overview

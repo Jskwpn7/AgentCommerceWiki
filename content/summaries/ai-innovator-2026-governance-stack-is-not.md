@@ -15,11 +15,11 @@ sources: [raw/articles/ai-innovator-2026-governance-stack-is-not.md]
 While agentic payment protocols (ACP, AP2, x402, Visa Trusted Agent) have rapidly solved *how* agents pay, the governance layer — legal identity, liability, systemic risk, ethics, KYA — remains largely absent.
 
 ## Key Problems
-- [[agent-legal-identity-gap]] — No sovereign legal identity for autonomous agents; all protocols treat agents as delegates, not principals
-- [[agent-liability-gap]] — No framework for agent mistakes; existing regimes designed for human actors
-- [[systemic-risk-deficit-agentic-payments]] — Per-transaction safeguards only; no cross-platform throttling, herd detection, circuit breakers, or exposure caps
-- [[ethics-vs-security-gap]] — Security engineered cryptographically; ethics assumed socially; no duty of loyalty or conflict disclosure encoded
-- [[ky-agent-kya-gap]] — Financial infrastructure has KYC/KYB but no KYA: no persistent agent identifiers, portable reputation, or shared risk scoring
+- agent-legal-identity-gap — No sovereign legal identity for autonomous agents; all protocols treat agents as delegates, not principals
+- [[agent-liability]] — No framework for agent mistakes; existing regimes designed for human actors
+- systemic-risk-deficit-agentic-payments — Per-transaction safeguards only; no cross-platform throttling, herd detection, circuit breakers, or exposure caps
+- ethics-vs-security-gap — Security engineered cryptographically; ethics assumed socially; no duty of loyalty or conflict disclosure encoded
+- ky-agent-kya-gap — Financial infrastructure has KYC/KYB but no KYA: no persistent agent identifiers, portable reputation, or shared risk scoring
 
 ## Proposed Governance Stack 2.0
 1. Legal containers for agent operators (regulated ASPs with capital/insurance)

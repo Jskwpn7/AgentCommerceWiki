@@ -44,7 +44,7 @@ CAL-RAG is a retrieval-augmented, agentic framework for content-aware layout gen
 ## Connection to Other Wiki Entries
 
 - [[agentic-commerce-research-2026]]
-- [[dark-patterns]]
+- [[dark-pattern]]
 - [[recommendation-manipulation]]
 - [[platform-agent-asymmetry]]
 

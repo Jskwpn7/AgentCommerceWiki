@@ -47,4 +47,4 @@ This article documents a significant architectural shift in how AI agents consum
 - [[agent-nudge-sensitivity]] — Structured markdown content may be more easily manipulated by choice architecture
 - [[dark-pattern.md]] — If agents receive different content formats than humans, dark patterns may operate differently against AI agents vs human users
 - [[conflict-of-interest-in-llm-deployment]] — Businesses optimising for agent-friendly content may prioritise commercially beneficial signals
-- [[ai-discovery]] — SEO is shifting from search engines to AI agents as the primary content discovery mechanism
+- ai-discovery — SEO is shifting from search engines to AI agents as the primary content discovery mechanism

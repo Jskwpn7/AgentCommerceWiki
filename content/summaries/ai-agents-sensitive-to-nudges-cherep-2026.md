@@ -48,7 +48,7 @@ This research is directly relevant to [[ai-shopping-agents]] and [[dark-pattern]
 - The "superficial alignment" phenomenon means consumers might believe their agent is making rational decisions when it is actually responding to surface-level cues.
 - The cost of making agents nudge-resilient (30–100× more compute) raises questions about accessibility — only well-resourced consumers may afford "safe" agents.
 
-This compounds existing harms under the [[DMCC-Act-2024]] and ASA enforcement of choice architecture standards.
+This compounds existing harms under the [[the-dmcca]] and ASA enforcement of choice architecture standards.
 
 ## Related Pages
 

@@ -24,11 +24,11 @@ tags:
 summary: |
   Introduces LLMPA (LLM-based Process Automation), a virtual assistant that performs multi-step operations within mobile apps based on high-level natural language requests. Modules: instruction decomposition, description generation, interface element detection, action prediction, error checking. First real-world deployment of LLM-based virtual assistant in widely used mobile app (Alipay) with hundreds of millions of users.
 concepts:
-  - [[virtual-assistants]]
-  - [[llm-pa]]
-  - [[process-automation]]
-  - [[mobile-apps]]
-  - [[task-execution]]
+  - [[intelligent-virtual-assistants-2312.06677]]
+  - llm-pa
+  - process-automation
+  - mobile-apps
+  - task-execution
 ---
 
 ## Overview

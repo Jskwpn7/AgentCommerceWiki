@@ -99,4 +99,4 @@ The LiteAgent/TrickyArena framework provides a **standardised, reproducible meth
 - [[dark-patterns-gui-agents-2026]] — SIGCHI 2026 GUI agent susceptibility study
 - [[agent-dark-pattern-susceptibility]] — Synthesis of agent dark pattern research
 - [[ai-shopping-agents]] — AI shopping agents and consumer harm risks
-- [[trickyarena-overview]] — Full TrickyArena documentation (https://purdue-5e908028.mintlify.app)
+- [[dark-patterns-llm-web-agents-sp2026]] — TrickyArena benchmark for LLM web agents and dark patterns (https://purdue-5e908028.mintlify.app)

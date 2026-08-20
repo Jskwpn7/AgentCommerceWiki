@@ -109,7 +109,7 @@ The UK's agentic AI regulatory framework must address dissociative identity:
 - [[ai-shopping-agents]] — Shopping agents cannot rely on reputation for trust signals
 - [[institutional-design-for-ai-agents]] — Shift to observability-based governance
 - [[when-agents-lie-2607.05132]] — Agent lying enabled by lack of reputation consequences
-- [[deepfake-voice]] — Synthetic identity extends dissociative identity to multimodal agents
+- [[fatf-2025-horizon-scan-ai-deepfakes]] — Synthetic identity extends dissociative identity to multimodal agents
 
 ---
 

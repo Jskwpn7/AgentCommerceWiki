@@ -83,8 +83,8 @@ A comprehensive survey of 12,000+ consumers across six countries (US, UK, Canada
 - [[the-mills-review]] — FCA identifies "amplified financial crime" as key AI risk vector
 - [[clicking-with-caution-stonehaven-2026]] — Scam advertising and AI fraud are complementary vectors
 - [[consumer-trust-ai-survey-comparison]] — Deepfake voice fraud directly erodes consumer trust in AI systems
-- [[fraud]] — Voice cloning represents a distinct sub-category of fraud
-- [[deepfake-voice]] — This entity page documents the scale and UK exposure data
+- fraud — Voice cloning represents a distinct sub-category of fraud (no dedicated fraud concept page)
+- [[fatf-2025-horizon-scan-ai-deepfakes]] — This entity page documents the scale and UK exposure data
 
 ---
 

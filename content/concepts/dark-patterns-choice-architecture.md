@@ -17,7 +17,9 @@ Choice architecture refers to the design of how options are presented to decisio
 
 ## AI-Mediated Dark Patterns (2026 Empirical Evidence)
 
-Two recent papers provide the first empirical evidence that dark patterns are effective against AI agents, not just humans:
+Three recent papers provide empirical evidence that dark patterns are effective against AI agents, not just humans:
+
+- **DECEPTICON** (arXiv 2512.22894v2, Cuvin et al., December 2025) — Landmark study with 700 tasks (600 synthetic + 100 real-world): dark patterns steer agents toward malicious outcomes in **>70% of tasks vs. only 31% for humans** (2.3x differential). Effectiveness correlates positively with model capability: GPT-4o Simple 78.5%, Gemini-2.5-Pro 75.6%. Obstruction patterns most effective (81-100%). CRITICAL for UK consumer protection — the inverse capability problem confirmed at scale. See [[summaries/decepticon-dark-pattern-manipulation-2512.22894]].
 
 - **IEEE S&P 2026** (2510.18113) — 41% average susceptibility of LLM web agents to dark patterns; higher-performing agents MORE vulnerable (Skyvern 72.3%, BrowserUse 69.3%); Obstruction and Social Engineering most effective (52.2%, 47.9%). Evaluation uses LiteAgent framework + TrickyArena controlled test environment with standardised metrics (TSR, DPSR, 2×2 confusion matrix). Gemini 2.5 Pro had highest DPSR (65.8%); GPT-4o suffered largest relative TSR decline (-28.9%).
 - **SIGCHI 2026** (2509.10723) — Adaptive LLM agents continue through dark patterns until task completion impossible; end-to-end agents show more caution.
